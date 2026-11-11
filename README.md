@@ -2,7 +2,7 @@
 
 Code, fitted models and result tables for:
 
-Alkan I, Albayrak M. *Bulk senescence signatures in ageing mouse and rat tissues largely track immune composition and show no consistent lead over metabolic decline.* (submitted)
+Alkan I, Albayrak M. *Bulk senescence signatures track immune composition and do not precede metabolic decline: a machine-learning analysis of ageing mouse and rat tissues.* (submitted)
 
 ## Data
 All input data are public (GEO): GSE314970 (rat atlas), GSE314817 (mouse atlas), GSE226118 / GSE226117 (gastrocnemius), GSE132040 (Tabula Muris Senis bulk), GSE53960 (rat body map). Gene annotation and orthologues: NCBI Gene (`gene_info`, `gene_orthologs`). Hallmark gene sets via Enrichr; SenMayo mouse set from MSigDB (`SAUL_SEN_MAYO`, in `scripts/senmayo_mouse.txt`).
