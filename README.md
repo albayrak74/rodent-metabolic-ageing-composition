@@ -2,10 +2,10 @@
 
 Code, fitted models and result tables for:
 
-Alkan I, Albayrak M. *Senescence signatures, immune composition and metabolic decline in ageing mouse and rat tissues: a machine-learning analysis.* (submitted)
+Alkan I, Albayrak M. *Senescence Signatures, Cell Composition and Metabolic Decline in Ageing Mouse and Rat Tissues: A Machine-Learning Analysis.* (submitted)
 
 ## Data
-All input data are public (GEO): GSE314970 (rat atlas), GSE314817 (mouse atlas), GSE226118 / GSE226117 (gastrocnemius), GSE132040 (Tabula Muris Senis bulk), GSE53960 (rat body map), GSE132042 (Tabula Muris droplet single-cell data, 3-month channels, used as deconvolution reference; cell annotations from the Tabula Muris consortium repository, `annotations_droplet.csv`) and Tabula Muris Senis FACS single-cell data (figshare doi:10.6084/m9.figshare.8273102.v3, file `tabula-muris-senis-facs-official-raw-obj.h5ad`). Gene annotation and orthologues: NCBI Gene (`gene_info`, `gene_orthologs`). Hallmark gene sets via Enrichr; SenMayo mouse set from MSigDB (`SAUL_SEN_MAYO`, in `scripts/senmayo_mouse.txt`).
+All input data are public (GEO): GSE314970 (rat atlas), GSE314817 (mouse atlas), GSE226118 / GSE226117 (gastrocnemius), GSE132040 (Tabula Muris Senis bulk), GSE53960 (rat body map). Gene annotation and orthologues: NCBI Gene (`gene_info`, `gene_orthologs`). Hallmark gene sets via Enrichr; SenMayo mouse set from MSigDB (`SAUL_SEN_MAYO`, in `scripts/senmayo_mouse.txt`).
 
 ## Pipeline (`scripts/`)
 | Step | Script | Purpose |
@@ -18,14 +18,7 @@ All input data are public (GEO): GSE314970 (rat atlas), GSE314817 (mouse atlas),
 | 6 | `07_transfer_validation.py` | final clocks, cross-species transfer, external validation, SHAP |
 | 7 | `08_clock_composition.py` | composition-adjusted clocks, age acceleration |
 | 8 | `11_sensitivity.py` | immune-only adjustment, FDR, *Cdkn1a* |
-| 9 | `12_deconvolution.py` | single-cell-reference deconvolution (NNLS) and deconvolution-adjusted senescence trends |
-| 10 | `13_sex_interaction.py` | age × sex interaction tests in mice |
-| 11 | `14_supp_deconv_sex.py` | eTable 3C and 3D |
-| 12 | `15_power_equivalence.py` | power simulation of the T50 lead–lag design; random-effects pooling of lags |
-| 13 | `16_singlecell_tms.py` | single-cell source of the senescence signature and within-cell-type age trends (TMS FACS) |
-| 14 | `17_alt_signatures.py` | KEGG / Reactome senescence and SASP signatures |
-| 15 | `18_supp_more.py` | eTable 3E, 3F and 4B |
-| 16 | `09_figures_1_3.py`, `10_figure4_table1.py` | figures and Table 1 |
+| 9 | `09_figures_1_3.py`, `10_figure4_table1.py` | figures and Table 1 |
 
 `02_scores.py` and `03_t50.py` are the exploratory go/no-go analyses (change-point model) described in the Methods.
 
