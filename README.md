@@ -2,7 +2,7 @@
 
 Code, fitted models and result tables for:
 
-Alkan I, Albayrak M. *Senescence Signatures, Cell Composition and Metabolic Decline in Ageing Mouse and Rat Tissues: A Machine-Learning Analysis.* (submitted)
+Alkan I, Albayrak M. *Senescence Signatures, Cell Composition, and Metabolic Decline in Aging Mouse and Rat Tissues: A Machine-Learning Analysis.* (submitted)
 
 ## Data
 All input data are public (GEO): GSE314970 (rat atlas), GSE314817 (mouse atlas), GSE226118 / GSE226117 (gastrocnemius), GSE132040 (Tabula Muris Senis bulk), GSE53960 (rat body map). Gene annotation and orthologues: NCBI Gene (`gene_info`, `gene_orthologs`). Hallmark gene sets via Enrichr; SenMayo mouse set from MSigDB (`SAUL_SEN_MAYO`, in `scripts/senmayo_mouse.txt`).
