@@ -1,0 +1,49 @@
+dataset,tissue,score,n_female,n_male,slope_female,slope_male,interaction_beta,interaction_p,rho_female,p_female,rho_male,p_male,interaction_q,same_direction
+TMS_mouse,BAT,Senescence,13,34,0.0145,-0.0163,-0.0308,0.0881,0.2355,0.4387,-0.3947,0.0209,0.2642,False
+TMS_mouse,BAT,Senescence_adj,13,34,-0.0015,0.0025,0.004,0.6616,-0.0526,0.8644,0.1612,0.3623,0.9425,False
+TMS_mouse,BAT,Metabolic,13,34,-0.0018,-0.0064,-0.0046,0.836,0.2465,0.4168,-0.2707,0.1215,0.912,False
+TMS_mouse,BAT,Macrophage,13,34,0.0831,0.0048,-0.0783,0.0678,0.6261,0.0221,0.0769,0.6657,0.517,True
+TMS_mouse,GAT,Senescence,13,35,-0.0095,0.0383,0.0477,0.0016,-0.2465,0.4168,0.7271,0.0,0.0098,False
+TMS_mouse,GAT,Senescence_adj,13,35,0.002,0.0004,-0.0016,0.8197,0.2715,0.3696,0.1248,0.4749,0.9425,True
+TMS_mouse,GAT,Metabolic,13,35,-0.018,-0.0215,-0.0034,0.8227,-0.482,0.0953,-0.4669,0.0047,0.912,True
+TMS_mouse,GAT,Macrophage,13,35,0.058,0.0908,0.0328,0.2896,0.3407,0.2546,0.8211,0.0,0.5792,True
+TMS_mouse,Heart,Senescence,12,35,0.0391,0.0185,-0.0207,0.2529,0.6843,0.0141,0.3763,0.0259,0.607,True
+TMS_mouse,Heart,Senescence_adj,12,35,0.0008,0.0045,0.0037,0.6286,0.0705,0.8275,0.2356,0.1731,0.9425,True
+TMS_mouse,Heart,Metabolic,12,35,-0.0132,-0.0205,-0.0073,0.7237,-0.1376,0.6698,-0.4282,0.0103,0.912,True
+TMS_mouse,Heart,Macrophage,12,35,0.0958,0.0331,-0.0626,0.1293,0.6984,0.0115,0.2539,0.1411,0.517,True
+TMS_mouse,Kidney,Senescence,14,34,0.0196,0.0215,0.0018,0.9114,0.3101,0.2806,0.4464,0.0081,0.9114,True
+TMS_mouse,Kidney,Senescence_adj,14,34,-0.0012,0.0016,0.0028,0.7576,-0.0443,0.8805,0.0704,0.6924,0.9425,False
+TMS_mouse,Kidney,Metabolic,14,34,-0.027,-0.0286,-0.0016,0.9376,-0.4607,0.0973,-0.6008,0.0002,0.9376,True
+TMS_mouse,Kidney,Macrophage,14,34,0.119,0.0728,-0.0461,0.0924,0.8682,0.0001,0.6752,0.0,0.517,True
+TMS_mouse,Limb_Muscle,Senescence,14,34,-0.0139,-0.0344,-0.0205,0.3066,-0.3367,0.2392,-0.6835,0.0,0.6132,True
+TMS_mouse,Limb_Muscle,Senescence_adj,14,34,0.0014,0.002,0.0006,0.9425,0.124,0.6727,0.1044,0.5569,0.9425,True
+TMS_mouse,Limb_Muscle,Metabolic,14,34,0.0033,-0.0164,-0.0197,0.2074,0.1329,0.6506,-0.3096,0.0748,0.6982,False
+TMS_mouse,Limb_Muscle,Macrophage,14,34,-0.0717,-0.0633,0.0084,0.8271,-0.443,0.1127,-0.563,0.0005,0.9023,True
+TMS_mouse,Liver,Senescence,13,33,0.0204,0.0254,0.005,0.7369,0.2465,0.4168,0.6162,0.0001,0.8843,True
+TMS_mouse,Liver,Senescence_adj,13,33,-0.0009,0.0065,0.0074,0.3117,-0.1302,0.6716,0.2535,0.1545,0.9425,False
+TMS_mouse,Liver,Metabolic,13,33,-0.0175,0.0123,0.0298,0.1365,-0.2632,0.385,0.1907,0.2879,0.6982,False
+TMS_mouse,Liver,Macrophage,13,33,0.0533,0.0368,-0.0165,0.6294,0.5042,0.0789,0.3956,0.0227,0.8392,True
+TMS_mouse,SCAT,Senescence,14,36,0.0045,-0.0045,-0.009,0.5491,0.124,0.6727,-0.1232,0.4739,0.8611,False
+TMS_mouse,SCAT,Senescence_adj,14,36,0.0028,0.004,0.0012,0.9031,0.2215,0.4467,0.1947,0.2552,0.9425,True
+TMS_mouse,SCAT,Metabolic,14,36,-0.0414,-0.0246,0.0168,0.3689,-0.6822,0.0072,-0.377,0.0234,0.7943,True
+TMS_mouse,SCAT,Macrophage,14,36,-0.0203,-0.0528,-0.0325,0.4157,-0.2038,0.4847,-0.4816,0.0029,0.6385,True
+atlas_mouse,gWAT,Senescence,52,48,0.0121,0.0444,0.0323,0.0008,0.2622,0.0604,0.7843,0.0,0.0091,True
+atlas_mouse,gWAT,Senescence_adj,52,48,-0.0038,0.0075,0.0113,0.0265,-0.1411,0.3184,0.3659,0.0105,0.2399,False
+atlas_mouse,gWAT,Metabolic,52,48,-0.0257,-0.036,-0.0103,0.2327,-0.5119,0.0001,-0.6899,0.0,0.6982,True
+atlas_mouse,gWAT,Macrophage,52,48,0.0782,0.0828,0.0045,0.796,0.597,0.0,0.7086,0.0,0.9023,True
+atlas_mouse,gastrocnemius,Senescence,52,52,0.0277,0.0231,-0.0046,0.715,0.3768,0.0059,0.4118,0.0024,0.8843,True
+atlas_mouse,gastrocnemius,Senescence_adj,52,52,0.009,0.0098,0.0008,0.8759,0.3101,0.0253,0.2603,0.0624,0.9425,True
+atlas_mouse,gastrocnemius,Metabolic,52,52,0.0245,0.0128,-0.0117,0.3972,0.3736,0.0064,0.273,0.0502,0.7943,True
+atlas_mouse,gastrocnemius,Macrophage,52,52,0.0484,0.0471,-0.0013,0.9575,0.4036,0.003,0.4279,0.0016,0.9575,True
+atlas_mouse,kidney,Senescence,52,51,0.051,0.0566,0.0056,0.5741,0.7565,0.0,0.842,0.0,0.8611,True
+atlas_mouse,kidney,Senescence_adj,52,51,-0.002,0.0089,0.0109,0.04,-0.0242,0.865,0.3004,0.0322,0.2399,False
+atlas_mouse,kidney,Metabolic,52,51,-0.0105,-0.0184,-0.0078,0.5765,-0.1216,0.3904,-0.2266,0.1098,0.912,True
+atlas_mouse,kidney,Macrophage,52,51,0.1121,0.0909,-0.0212,0.2237,0.8383,0.0,0.7958,0.0,0.5461,True
+atlas_mouse,left ventricle,Senescence,52,52,0.055,0.0537,-0.0013,0.8862,0.8055,0.0,0.8099,0.0,0.9114,True
+atlas_mouse,left ventricle,Senescence_adj,52,52,0.0054,0.009,0.0037,0.5356,0.2389,0.0881,0.3231,0.0195,0.9425,True
+atlas_mouse,left ventricle,Metabolic,52,52,-0.0044,0.0141,0.0186,0.1509,-0.0094,0.947,0.3409,0.0134,0.6982,False
+atlas_mouse,left ventricle,Macrophage,52,52,0.0978,0.0785,-0.0193,0.2276,0.8328,0.0,0.752,0.0,0.5461,True
+atlas_mouse,liver,Senescence,50,50,0.0357,0.0547,0.019,0.0391,0.6535,0.0,0.8692,0.0,0.1566,True
+atlas_mouse,liver,Senescence_adj,50,50,0.0063,0.0069,0.0006,0.8812,0.2817,0.0475,0.3092,0.0289,0.9425,True
+atlas_mouse,liver,Metabolic,50,50,-0.0144,-0.0178,-0.0034,0.724,-0.3369,0.0167,-0.369,0.0084,0.912,True
+atlas_mouse,liver,Macrophage,50,50,0.0557,0.0728,0.0171,0.4257,0.5853,0.0,0.649,0.0,0.6385,True
