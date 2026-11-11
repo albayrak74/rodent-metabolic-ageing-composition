@@ -1,0 +1,2650 @@
+species,tissue,model,sample,age,pred
+rat,gWAT,ElasticNet,1578731,6.0,8.0297
+rat,gWAT,ElasticNet,1578732,12.0,12.3669
+rat,gWAT,ElasticNet,1578733,12.0,12.5047
+rat,gWAT,ElasticNet,1578734,6.0,6.1821
+rat,gWAT,ElasticNet,1578735,12.0,12.8457
+rat,gWAT,ElasticNet,1578736,12.0,17.9831
+rat,gWAT,ElasticNet,1578737,12.0,16.9626
+rat,gWAT,ElasticNet,1578738,12.0,13.0636
+rat,gWAT,ElasticNet,1578739,6.0,8.2179
+rat,gWAT,ElasticNet,1578740,6.0,8.6981
+rat,gWAT,ElasticNet,1578741,6.0,6.4325
+rat,gWAT,ElasticNet,1578742,6.0,6.1736
+rat,gWAT,ElasticNet,1578743,6.0,8.9576
+rat,gWAT,ElasticNet,1578744,12.0,11.8087
+rat,gWAT,ElasticNet,1578745,12.0,12.9219
+rat,gWAT,ElasticNet,1578746,6.0,7.9546
+rat,gWAT,ElasticNet,1578747,12.0,11.3946
+rat,gWAT,ElasticNet,1578748,12.0,11.9618
+rat,gWAT,ElasticNet,1578749,6.0,9.2465
+rat,gWAT,ElasticNet,1578752,12.0,11.701
+rat,gWAT,ElasticNet,1578753,21.0,17.4606
+rat,gWAT,ElasticNet,1578754,12.0,15.4557
+rat,gWAT,ElasticNet,1578755,24.0,25.4424
+rat,gWAT,ElasticNet,1578756,21.0,20.3722
+rat,gWAT,ElasticNet,1578757,21.0,20.3506
+rat,gWAT,ElasticNet,1578758,24.0,27.7302
+rat,gWAT,ElasticNet,1578759,21.0,17.9718
+rat,gWAT,ElasticNet,1578760,24.0,20.2981
+rat,gWAT,ElasticNet,1578761,24.0,22.8864
+rat,gWAT,ElasticNet,1578762,21.0,20.5908
+rat,gWAT,ElasticNet,1578763,21.0,23.6286
+rat,gWAT,ElasticNet,1578764,24.0,23.1942
+rat,gWAT,ElasticNet,1578765,21.0,23.6453
+rat,gWAT,ElasticNet,1578766,21.0,19.2216
+rat,gWAT,ElasticNet,1578767,24.0,24.111
+rat,gWAT,ElasticNet,1578768,21.0,21.2545
+rat,gWAT,ElasticNet,1578769,21.0,21.184
+rat,gWAT,ElasticNet,1578770,24.0,19.5685
+rat,gWAT,ElasticNet,1578771,21.0,20.7652
+rat,gWAT,ElasticNet,1578772,21.0,17.116
+rat,gWAT,ElasticNet,1578773,24.0,22.9949
+rat,gWAT,ElasticNet,1578774,6.0,9.1432
+rat,gWAT,ElasticNet,1578775,21.0,21.9899
+rat,gWAT,ElasticNet,1578776,24.0,19.0831
+rat,gWAT,ElasticNet,1578777,6.0,5.0728
+rat,gWAT,ElasticNet,1578778,6.0,10.8732
+rat,gWAT,ElasticNet,1578779,18.0,16.0281
+rat,gWAT,ElasticNet,1578780,9.0,8.9539
+rat,gWAT,ElasticNet,1578781,9.0,15.558
+rat,gWAT,ElasticNet,1578782,18.0,17.3221
+rat,gWAT,ElasticNet,1578783,9.0,10.9539
+rat,gWAT,ElasticNet,1578784,27.0,23.8035
+rat,gWAT,ElasticNet,1578786,9.0,10.6017
+rat,gWAT,ElasticNet,1578787,9.0,11.7908
+rat,gWAT,ElasticNet,1578788,18.0,15.9152
+rat,gWAT,ElasticNet,1578789,9.0,10.7198
+rat,gWAT,ElasticNet,1578790,9.0,11.6037
+rat,gWAT,ElasticNet,1578792,24.0,22.98
+rat,gWAT,ElasticNet,1578793,24.0,24.274
+rat,gWAT,ElasticNet,1578794,27.0,21.1583
+rat,gWAT,ElasticNet,1578795,24.0,20.0301
+rat,gWAT,ElasticNet,1578796,9.0,15.546
+rat,gWAT,ElasticNet,1578797,27.0,12.8257
+rat,gWAT,ElasticNet,1578798,9.0,25.6372
+rat,gWAT,ElasticNet,1578799,9.0,9.368
+rat,gWAT,ElasticNet,1578800,27.0,11.5833
+rat,gWAT,ElasticNet,1578801,9.0,13.304
+rat,gWAT,ElasticNet,1578802,9.0,11.7268
+rat,gWAT,ElasticNet,1578805,18.0,16.4444
+rat,gWAT,ElasticNet,1578808,18.0,20.4432
+rat,gWAT,ElasticNet,1578811,27.0,24.2371
+rat,gWAT,ElasticNet,1578814,18.0,16.0128
+rat,gWAT,ElasticNet,1578815,18.0,17.9745
+rat,gWAT,ElasticNet,1578816,18.0,17.1651
+rat,gWAT,ElasticNet,1578817,27.0,23.1574
+rat,gWAT,ElasticNet,1578818,27.0,25.5081
+rat,gWAT,ElasticNet,1578820,27.0,23.405
+rat,gWAT,ElasticNet,1578821,18.0,16.9757
+rat,gWAT,ElasticNet,1578822,18.0,17.8312
+rat,gWAT,ElasticNet,1578823,27.0,24.5395
+rat,gWAT,ElasticNet,1578824,18.0,20.2385
+rat,gWAT,ElasticNet,1578825,18.0,19.4586
+rat,gWAT,ElasticNet,1578826,27.0,23.3048
+rat,gWAT,XGBoost,1578731,6.0,8.4848
+rat,gWAT,XGBoost,1578732,12.0,11.9965
+rat,gWAT,XGBoost,1578733,12.0,11.8866
+rat,gWAT,XGBoost,1578734,6.0,9.1122
+rat,gWAT,XGBoost,1578735,12.0,15.5929
+rat,gWAT,XGBoost,1578736,12.0,19.5623
+rat,gWAT,XGBoost,1578737,12.0,16.44
+rat,gWAT,XGBoost,1578738,12.0,13.6143
+rat,gWAT,XGBoost,1578739,6.0,6.9419
+rat,gWAT,XGBoost,1578740,6.0,8.0512
+rat,gWAT,XGBoost,1578741,6.0,7.4471
+rat,gWAT,XGBoost,1578742,6.0,6.9207
+rat,gWAT,XGBoost,1578743,6.0,9.0045
+rat,gWAT,XGBoost,1578744,12.0,9.9925
+rat,gWAT,XGBoost,1578745,12.0,11.8232
+rat,gWAT,XGBoost,1578746,6.0,6.7656
+rat,gWAT,XGBoost,1578747,12.0,12.7373
+rat,gWAT,XGBoost,1578748,12.0,11.5066
+rat,gWAT,XGBoost,1578749,6.0,10.3712
+rat,gWAT,XGBoost,1578752,12.0,11.6776
+rat,gWAT,XGBoost,1578753,21.0,18.5772
+rat,gWAT,XGBoost,1578754,12.0,18.1789
+rat,gWAT,XGBoost,1578755,24.0,24.8792
+rat,gWAT,XGBoost,1578756,21.0,19.6984
+rat,gWAT,XGBoost,1578757,21.0,20.9787
+rat,gWAT,XGBoost,1578758,24.0,21.7871
+rat,gWAT,XGBoost,1578759,21.0,19.9992
+rat,gWAT,XGBoost,1578760,24.0,18.9462
+rat,gWAT,XGBoost,1578761,24.0,23.2052
+rat,gWAT,XGBoost,1578762,21.0,20.6397
+rat,gWAT,XGBoost,1578763,21.0,21.0192
+rat,gWAT,XGBoost,1578764,24.0,21.1481
+rat,gWAT,XGBoost,1578765,21.0,22.356
+rat,gWAT,XGBoost,1578766,21.0,20.3233
+rat,gWAT,XGBoost,1578767,24.0,21.7266
+rat,gWAT,XGBoost,1578768,21.0,20.5305
+rat,gWAT,XGBoost,1578769,21.0,20.6893
+rat,gWAT,XGBoost,1578770,24.0,20.2589
+rat,gWAT,XGBoost,1578771,21.0,21.6313
+rat,gWAT,XGBoost,1578772,21.0,15.2885
+rat,gWAT,XGBoost,1578773,24.0,21.7918
+rat,gWAT,XGBoost,1578774,6.0,6.9834
+rat,gWAT,XGBoost,1578775,21.0,19.5266
+rat,gWAT,XGBoost,1578776,24.0,19.8589
+rat,gWAT,XGBoost,1578777,6.0,6.9287
+rat,gWAT,XGBoost,1578778,6.0,10.2785
+rat,gWAT,XGBoost,1578779,18.0,17.0681
+rat,gWAT,XGBoost,1578780,9.0,10.3339
+rat,gWAT,XGBoost,1578781,9.0,13.8712
+rat,gWAT,XGBoost,1578782,18.0,18.3141
+rat,gWAT,XGBoost,1578783,9.0,10.6978
+rat,gWAT,XGBoost,1578784,27.0,23.7486
+rat,gWAT,XGBoost,1578786,9.0,9.3245
+rat,gWAT,XGBoost,1578787,9.0,11.2969
+rat,gWAT,XGBoost,1578788,18.0,16.4505
+rat,gWAT,XGBoost,1578789,9.0,8.4405
+rat,gWAT,XGBoost,1578790,9.0,10.5637
+rat,gWAT,XGBoost,1578792,24.0,23.7248
+rat,gWAT,XGBoost,1578793,24.0,24.1963
+rat,gWAT,XGBoost,1578794,27.0,21.1944
+rat,gWAT,XGBoost,1578795,24.0,20.7893
+rat,gWAT,XGBoost,1578796,9.0,12.4187
+rat,gWAT,XGBoost,1578797,27.0,14.7907
+rat,gWAT,XGBoost,1578798,9.0,24.2035
+rat,gWAT,XGBoost,1578799,9.0,11.6715
+rat,gWAT,XGBoost,1578800,27.0,12.5007
+rat,gWAT,XGBoost,1578801,9.0,12.3633
+rat,gWAT,XGBoost,1578802,9.0,13.1674
+rat,gWAT,XGBoost,1578805,18.0,16.7666
+rat,gWAT,XGBoost,1578808,18.0,22.1149
+rat,gWAT,XGBoost,1578811,27.0,24.6898
+rat,gWAT,XGBoost,1578814,18.0,15.5832
+rat,gWAT,XGBoost,1578815,18.0,16.1585
+rat,gWAT,XGBoost,1578816,18.0,19.1848
+rat,gWAT,XGBoost,1578817,27.0,24.2567
+rat,gWAT,XGBoost,1578818,27.0,23.7783
+rat,gWAT,XGBoost,1578820,27.0,23.2156
+rat,gWAT,XGBoost,1578821,18.0,17.3656
+rat,gWAT,XGBoost,1578822,18.0,18.7517
+rat,gWAT,XGBoost,1578823,27.0,23.4647
+rat,gWAT,XGBoost,1578824,18.0,20.9575
+rat,gWAT,XGBoost,1578825,18.0,19.1596
+rat,gWAT,XGBoost,1578826,27.0,21.8671
+rat,gWAT,MLP,1578731,6.0,11.6458
+rat,gWAT,MLP,1578732,12.0,16.3219
+rat,gWAT,MLP,1578733,12.0,15.0964
+rat,gWAT,MLP,1578734,6.0,11.2306
+rat,gWAT,MLP,1578735,12.0,3.1975
+rat,gWAT,MLP,1578736,12.0,18.3349
+rat,gWAT,MLP,1578737,12.0,16.0864
+rat,gWAT,MLP,1578738,12.0,10.3516
+rat,gWAT,MLP,1578739,6.0,7.0447
+rat,gWAT,MLP,1578740,6.0,7.6028
+rat,gWAT,MLP,1578741,6.0,4.7158
+rat,gWAT,MLP,1578742,6.0,8.6726
+rat,gWAT,MLP,1578743,6.0,3.4984
+rat,gWAT,MLP,1578744,12.0,15.1657
+rat,gWAT,MLP,1578745,12.0,12.8071
+rat,gWAT,MLP,1578746,6.0,6.5427
+rat,gWAT,MLP,1578747,12.0,6.7159
+rat,gWAT,MLP,1578748,12.0,8.6133
+rat,gWAT,MLP,1578749,6.0,14.8646
+rat,gWAT,MLP,1578752,12.0,14.4738
+rat,gWAT,MLP,1578753,21.0,15.2886
+rat,gWAT,MLP,1578754,12.0,16.7611
+rat,gWAT,MLP,1578755,24.0,22.9376
+rat,gWAT,MLP,1578756,21.0,26.5667
+rat,gWAT,MLP,1578757,21.0,23.483
+rat,gWAT,MLP,1578758,24.0,33.9237
+rat,gWAT,MLP,1578759,21.0,11.4426
+rat,gWAT,MLP,1578760,24.0,17.8961
+rat,gWAT,MLP,1578761,24.0,18.8954
+rat,gWAT,MLP,1578762,21.0,16.9203
+rat,gWAT,MLP,1578763,21.0,24.9667
+rat,gWAT,MLP,1578764,24.0,23.8283
+rat,gWAT,MLP,1578765,21.0,17.7416
+rat,gWAT,MLP,1578766,21.0,20.6659
+rat,gWAT,MLP,1578767,24.0,20.9319
+rat,gWAT,MLP,1578768,21.0,27.7786
+rat,gWAT,MLP,1578769,21.0,17.389
+rat,gWAT,MLP,1578770,24.0,17.4283
+rat,gWAT,MLP,1578771,21.0,12.2343
+rat,gWAT,MLP,1578772,21.0,31.1356
+rat,gWAT,MLP,1578773,24.0,27.5757
+rat,gWAT,MLP,1578774,6.0,5.5563
+rat,gWAT,MLP,1578775,21.0,16.4546
+rat,gWAT,MLP,1578776,24.0,17.289
+rat,gWAT,MLP,1578777,6.0,7.0923
+rat,gWAT,MLP,1578778,6.0,5.9011
+rat,gWAT,MLP,1578779,18.0,9.7281
+rat,gWAT,MLP,1578780,9.0,6.4923
+rat,gWAT,MLP,1578781,9.0,12.188
+rat,gWAT,MLP,1578782,18.0,16.5632
+rat,gWAT,MLP,1578783,9.0,10.8176
+rat,gWAT,MLP,1578784,27.0,23.4116
+rat,gWAT,MLP,1578786,9.0,6.6961
+rat,gWAT,MLP,1578787,9.0,7.1712
+rat,gWAT,MLP,1578788,18.0,11.0877
+rat,gWAT,MLP,1578789,9.0,8.3372
+rat,gWAT,MLP,1578790,9.0,11.6556
+rat,gWAT,MLP,1578792,24.0,23.1121
+rat,gWAT,MLP,1578793,24.0,19.6482
+rat,gWAT,MLP,1578794,27.0,18.4112
+rat,gWAT,MLP,1578795,24.0,10.7141
+rat,gWAT,MLP,1578796,9.0,13.0695
+rat,gWAT,MLP,1578797,27.0,8.4316
+rat,gWAT,MLP,1578798,9.0,20.8297
+rat,gWAT,MLP,1578799,9.0,13.4961
+rat,gWAT,MLP,1578800,27.0,3.4343
+rat,gWAT,MLP,1578801,9.0,9.8666
+rat,gWAT,MLP,1578802,9.0,13.0076
+rat,gWAT,MLP,1578805,18.0,12.7804
+rat,gWAT,MLP,1578808,18.0,14.7627
+rat,gWAT,MLP,1578811,27.0,29.777
+rat,gWAT,MLP,1578814,18.0,10.5417
+rat,gWAT,MLP,1578815,18.0,15.9045
+rat,gWAT,MLP,1578816,18.0,17.3133
+rat,gWAT,MLP,1578817,27.0,29.1565
+rat,gWAT,MLP,1578818,27.0,26.0558
+rat,gWAT,MLP,1578820,27.0,19.8802
+rat,gWAT,MLP,1578821,18.0,5.6846
+rat,gWAT,MLP,1578822,18.0,9.47
+rat,gWAT,MLP,1578823,27.0,33.625
+rat,gWAT,MLP,1578824,18.0,23.0768
+rat,gWAT,MLP,1578825,18.0,14.1899
+rat,gWAT,MLP,1578826,27.0,20.1735
+rat,liver,ElasticNet,1578803,6.0,6.239
+rat,liver,ElasticNet,1578804,6.0,5.8171
+rat,liver,ElasticNet,1578806,21.0,20.0282
+rat,liver,ElasticNet,1578807,12.0,12.592
+rat,liver,ElasticNet,1578809,6.0,7.9185
+rat,liver,ElasticNet,1578810,6.0,6.1116
+rat,liver,ElasticNet,1578812,6.0,6.1765
+rat,liver,ElasticNet,1578813,6.0,6.4111
+rat,liver,ElasticNet,1578819,6.0,5.9562
+rat,liver,ElasticNet,1578827,21.0,18.3697
+rat,liver,ElasticNet,1578828,12.0,12.7866
+rat,liver,ElasticNet,1578829,12.0,13.9213
+rat,liver,ElasticNet,1578830,21.0,20.7376
+rat,liver,ElasticNet,1578831,12.0,13.0476
+rat,liver,ElasticNet,1578832,12.0,11.1204
+rat,liver,ElasticNet,1578833,12.0,11.7971
+rat,liver,ElasticNet,1578834,12.0,12.7558
+rat,liver,ElasticNet,1578835,21.0,22.3704
+rat,liver,ElasticNet,1578836,12.0,13.3998
+rat,liver,ElasticNet,1578837,12.0,12.6648
+rat,liver,ElasticNet,1578838,6.0,6.3977
+rat,liver,ElasticNet,1578839,6.0,6.8218
+rat,liver,ElasticNet,1578840,21.0,19.3615
+rat,liver,ElasticNet,1578841,6.0,5.3796
+rat,liver,ElasticNet,1578842,6.0,6.2308
+rat,liver,ElasticNet,1578843,21.0,18.7294
+rat,liver,ElasticNet,1578844,6.0,6.3916
+rat,liver,ElasticNet,1578845,12.0,13.6346
+rat,liver,ElasticNet,1578846,21.0,22.9554
+rat,liver,ElasticNet,1578847,12.0,11.1715
+rat,liver,ElasticNet,1578848,12.0,12.8136
+rat,liver,ElasticNet,1578849,24.0,21.5456
+rat,liver,ElasticNet,1578850,9.0,9.4693
+rat,liver,ElasticNet,1578851,24.0,23.794
+rat,liver,ElasticNet,1578852,24.0,22.1408
+rat,liver,ElasticNet,1578853,24.0,22.8547
+rat,liver,ElasticNet,1578854,24.0,23.8716
+rat,liver,ElasticNet,1578855,24.0,23.4075
+rat,liver,ElasticNet,1578856,24.0,22.9718
+rat,liver,ElasticNet,1578857,24.0,23.0245
+rat,liver,ElasticNet,1578858,9.0,8.8354
+rat,liver,ElasticNet,1578859,24.0,21.6495
+rat,liver,ElasticNet,1578860,24.0,25.3734
+rat,liver,ElasticNet,1578861,9.0,11.0524
+rat,liver,ElasticNet,1578862,24.0,24.5383
+rat,liver,ElasticNet,1578863,9.0,8.4888
+rat,liver,ElasticNet,1578864,24.0,24.2282
+rat,liver,ElasticNet,1578865,9.0,7.0581
+rat,liver,ElasticNet,1578866,9.0,8.275
+rat,liver,ElasticNet,1578867,21.0,20.8715
+rat,liver,ElasticNet,1578868,21.0,22.1877
+rat,liver,ElasticNet,1578869,21.0,21.3764
+rat,liver,ElasticNet,1578870,18.0,21.8787
+rat,liver,ElasticNet,1578871,27.0,27.5358
+rat,liver,ElasticNet,1578872,27.0,25.9353
+rat,liver,ElasticNet,1578873,9.0,10.6164
+rat,liver,ElasticNet,1578874,9.0,9.8121
+rat,liver,ElasticNet,1578936,27.0,24.0613
+rat,liver,ElasticNet,1578937,9.0,8.497
+rat,liver,ElasticNet,1578939,27.0,24.3781
+rat,liver,ElasticNet,1578940,27.0,27.3477
+rat,liver,ElasticNet,1578941,27.0,27.6767
+rat,liver,ElasticNet,1578942,18.0,21.0233
+rat,liver,ElasticNet,1578943,18.0,17.2988
+rat,liver,ElasticNet,1578944,18.0,19.2794
+rat,liver,ElasticNet,1578945,18.0,18.4951
+rat,liver,ElasticNet,1578946,18.0,20.1229
+rat,liver,ElasticNet,1578947,18.0,15.7378
+rat,liver,ElasticNet,1578948,18.0,19.3212
+rat,liver,ElasticNet,1578949,9.0,9.297
+rat,liver,ElasticNet,1578950,9.0,9.5202
+rat,liver,ElasticNet,1578951,9.0,8.8492
+rat,liver,ElasticNet,1578953,21.0,24.6637
+rat,liver,ElasticNet,1578954,18.0,18.9515
+rat,liver,ElasticNet,1578955,18.0,17.3561
+rat,liver,ElasticNet,1578956,18.0,16.2342
+rat,liver,ElasticNet,1578958,21.0,23.0578
+rat,liver,XGBoost,1578803,6.0,6.6636
+rat,liver,XGBoost,1578804,6.0,7.0925
+rat,liver,XGBoost,1578806,21.0,19.9684
+rat,liver,XGBoost,1578807,12.0,11.4408
+rat,liver,XGBoost,1578809,6.0,6.6519
+rat,liver,XGBoost,1578810,6.0,6.7489
+rat,liver,XGBoost,1578812,6.0,6.3526
+rat,liver,XGBoost,1578813,6.0,6.6636
+rat,liver,XGBoost,1578819,6.0,7.4512
+rat,liver,XGBoost,1578827,21.0,19.6287
+rat,liver,XGBoost,1578828,12.0,12.196
+rat,liver,XGBoost,1578829,12.0,14.3197
+rat,liver,XGBoost,1578830,21.0,18.8574
+rat,liver,XGBoost,1578831,12.0,16.3174
+rat,liver,XGBoost,1578832,12.0,11.1466
+rat,liver,XGBoost,1578833,12.0,13.3647
+rat,liver,XGBoost,1578834,12.0,9.6821
+rat,liver,XGBoost,1578835,21.0,22.0251
+rat,liver,XGBoost,1578836,12.0,12.8964
+rat,liver,XGBoost,1578837,12.0,10.5114
+rat,liver,XGBoost,1578838,6.0,6.4182
+rat,liver,XGBoost,1578839,6.0,7.3204
+rat,liver,XGBoost,1578840,21.0,19.2715
+rat,liver,XGBoost,1578841,6.0,6.5397
+rat,liver,XGBoost,1578842,6.0,7.1183
+rat,liver,XGBoost,1578843,21.0,22.0406
+rat,liver,XGBoost,1578844,6.0,6.7296
+rat,liver,XGBoost,1578845,12.0,12.7944
+rat,liver,XGBoost,1578846,21.0,21.7295
+rat,liver,XGBoost,1578847,12.0,11.5495
+rat,liver,XGBoost,1578848,12.0,12.6107
+rat,liver,XGBoost,1578849,24.0,22.2882
+rat,liver,XGBoost,1578850,9.0,10.027
+rat,liver,XGBoost,1578851,24.0,22.4949
+rat,liver,XGBoost,1578852,24.0,22.7229
+rat,liver,XGBoost,1578853,24.0,21.9555
+rat,liver,XGBoost,1578854,24.0,23.5163
+rat,liver,XGBoost,1578855,24.0,21.2228
+rat,liver,XGBoost,1578856,24.0,21.2234
+rat,liver,XGBoost,1578857,24.0,21.6027
+rat,liver,XGBoost,1578858,9.0,8.7616
+rat,liver,XGBoost,1578859,24.0,22.0355
+rat,liver,XGBoost,1578860,24.0,24.0807
+rat,liver,XGBoost,1578861,9.0,13.0378
+rat,liver,XGBoost,1578862,24.0,23.9074
+rat,liver,XGBoost,1578863,9.0,8.0531
+rat,liver,XGBoost,1578864,24.0,22.8645
+rat,liver,XGBoost,1578865,9.0,9.0089
+rat,liver,XGBoost,1578866,9.0,9.5149
+rat,liver,XGBoost,1578867,21.0,21.9511
+rat,liver,XGBoost,1578868,21.0,21.7704
+rat,liver,XGBoost,1578869,21.0,22.1197
+rat,liver,XGBoost,1578870,18.0,21.9293
+rat,liver,XGBoost,1578871,27.0,24.1716
+rat,liver,XGBoost,1578872,27.0,23.9533
+rat,liver,XGBoost,1578873,9.0,11.0551
+rat,liver,XGBoost,1578874,9.0,10.2203
+rat,liver,XGBoost,1578936,27.0,22.2994
+rat,liver,XGBoost,1578937,9.0,8.1518
+rat,liver,XGBoost,1578939,27.0,24.1851
+rat,liver,XGBoost,1578940,27.0,24.3673
+rat,liver,XGBoost,1578941,27.0,25.717
+rat,liver,XGBoost,1578942,18.0,22.0674
+rat,liver,XGBoost,1578943,18.0,17.0866
+rat,liver,XGBoost,1578944,18.0,19.2341
+rat,liver,XGBoost,1578945,18.0,20.18
+rat,liver,XGBoost,1578946,18.0,20.7219
+rat,liver,XGBoost,1578947,18.0,13.3692
+rat,liver,XGBoost,1578948,18.0,18.6308
+rat,liver,XGBoost,1578949,9.0,9.591
+rat,liver,XGBoost,1578950,9.0,10.0045
+rat,liver,XGBoost,1578951,9.0,8.3576
+rat,liver,XGBoost,1578953,21.0,25.4696
+rat,liver,XGBoost,1578954,18.0,20.8358
+rat,liver,XGBoost,1578955,18.0,18.6187
+rat,liver,XGBoost,1578956,18.0,12.1042
+rat,liver,XGBoost,1578958,21.0,22.6681
+rat,liver,MLP,1578803,6.0,9.6337
+rat,liver,MLP,1578804,6.0,6.32
+rat,liver,MLP,1578806,21.0,15.1707
+rat,liver,MLP,1578807,12.0,10.8049
+rat,liver,MLP,1578809,6.0,4.7902
+rat,liver,MLP,1578810,6.0,7.0454
+rat,liver,MLP,1578812,6.0,8.0983
+rat,liver,MLP,1578813,6.0,7.2725
+rat,liver,MLP,1578819,6.0,5.4664
+rat,liver,MLP,1578827,21.0,11.5418
+rat,liver,MLP,1578828,12.0,7.1205
+rat,liver,MLP,1578829,12.0,10.9884
+rat,liver,MLP,1578830,21.0,18.5658
+rat,liver,MLP,1578831,12.0,2.5211
+rat,liver,MLP,1578832,12.0,6.0941
+rat,liver,MLP,1578833,12.0,6.8392
+rat,liver,MLP,1578834,12.0,6.2923
+rat,liver,MLP,1578835,21.0,23.5827
+rat,liver,MLP,1578836,12.0,8.5606
+rat,liver,MLP,1578837,12.0,9.2903
+rat,liver,MLP,1578838,6.0,5.8998
+rat,liver,MLP,1578839,6.0,7.3153
+rat,liver,MLP,1578840,21.0,5.2479
+rat,liver,MLP,1578841,6.0,9.5405
+rat,liver,MLP,1578842,6.0,7.791
+rat,liver,MLP,1578843,21.0,13.1332
+rat,liver,MLP,1578844,6.0,5.9359
+rat,liver,MLP,1578845,12.0,6.6457
+rat,liver,MLP,1578846,21.0,21.9315
+rat,liver,MLP,1578847,12.0,7.6069
+rat,liver,MLP,1578848,12.0,11.7776
+rat,liver,MLP,1578849,24.0,19.9899
+rat,liver,MLP,1578850,9.0,9.5533
+rat,liver,MLP,1578851,24.0,25.8737
+rat,liver,MLP,1578852,24.0,16.6267
+rat,liver,MLP,1578853,24.0,16.7561
+rat,liver,MLP,1578854,24.0,16.7894
+rat,liver,MLP,1578855,24.0,26.3102
+rat,liver,MLP,1578856,24.0,22.7763
+rat,liver,MLP,1578857,24.0,25.9836
+rat,liver,MLP,1578858,9.0,8.4843
+rat,liver,MLP,1578859,24.0,14.8409
+rat,liver,MLP,1578860,24.0,24.5443
+rat,liver,MLP,1578861,9.0,5.6972
+rat,liver,MLP,1578862,24.0,24.8288
+rat,liver,MLP,1578863,9.0,7.6251
+rat,liver,MLP,1578864,24.0,20.3914
+rat,liver,MLP,1578865,9.0,4.3848
+rat,liver,MLP,1578866,9.0,8.6789
+rat,liver,MLP,1578867,21.0,18.5033
+rat,liver,MLP,1578868,21.0,22.0182
+rat,liver,MLP,1578869,21.0,22.5222
+rat,liver,MLP,1578870,18.0,23.1576
+rat,liver,MLP,1578871,27.0,29.4918
+rat,liver,MLP,1578872,27.0,18.0387
+rat,liver,MLP,1578873,9.0,10.2127
+rat,liver,MLP,1578874,9.0,8.7525
+rat,liver,MLP,1578936,27.0,20.436
+rat,liver,MLP,1578937,9.0,10.1867
+rat,liver,MLP,1578939,27.0,21.691
+rat,liver,MLP,1578940,27.0,21.2459
+rat,liver,MLP,1578941,27.0,23.9752
+rat,liver,MLP,1578942,18.0,30.3702
+rat,liver,MLP,1578943,18.0,21.9494
+rat,liver,MLP,1578944,18.0,9.7068
+rat,liver,MLP,1578945,18.0,13.6202
+rat,liver,MLP,1578946,18.0,15.3526
+rat,liver,MLP,1578947,18.0,9.5507
+rat,liver,MLP,1578948,18.0,13.5364
+rat,liver,MLP,1578949,9.0,7.1076
+rat,liver,MLP,1578950,9.0,8.3075
+rat,liver,MLP,1578951,9.0,8.8771
+rat,liver,MLP,1578953,21.0,26.8881
+rat,liver,MLP,1578954,18.0,13.0457
+rat,liver,MLP,1578955,18.0,8.8859
+rat,liver,MLP,1578956,18.0,8.7984
+rat,liver,MLP,1578958,21.0,18.8014
+rat,left ventricle,ElasticNet,1541535,18.0,18.6703
+rat,left ventricle,ElasticNet,1541536,18.0,18.9011
+rat,left ventricle,ElasticNet,1541537,18.0,18.7871
+rat,left ventricle,ElasticNet,1541538,18.0,16.1645
+rat,left ventricle,ElasticNet,1541539,18.0,18.1152
+rat,left ventricle,ElasticNet,1541540,18.0,19.0195
+rat,left ventricle,ElasticNet,1541541,18.0,17.8042
+rat,left ventricle,ElasticNet,1541542,18.0,18.2619
+rat,left ventricle,ElasticNet,1541543,18.0,19.0032
+rat,left ventricle,ElasticNet,1541544,18.0,17.3751
+rat,left ventricle,ElasticNet,1541545,18.0,19.3821
+rat,left ventricle,ElasticNet,1541546,18.0,17.9177
+rat,left ventricle,ElasticNet,1541593,27.0,28.4884
+rat,left ventricle,ElasticNet,1541594,27.0,26.8228
+rat,left ventricle,ElasticNet,1541595,27.0,25.5793
+rat,left ventricle,ElasticNet,1541596,27.0,27.1882
+rat,left ventricle,ElasticNet,1541597,27.0,25.2791
+rat,left ventricle,ElasticNet,1541598,27.0,23.4899
+rat,left ventricle,ElasticNet,1541599,27.0,25.769
+rat,left ventricle,ElasticNet,1541600,27.0,26.2641
+rat,left ventricle,ElasticNet,1541601,27.0,26.6015
+rat,left ventricle,ElasticNet,1541602,27.0,28.3147
+rat,left ventricle,ElasticNet,1541603,27.0,23.6521
+rat,left ventricle,ElasticNet,1541604,27.0,26.0192
+rat,left ventricle,ElasticNet,1541629,9.0,8.5411
+rat,left ventricle,ElasticNet,1541630,9.0,10.3188
+rat,left ventricle,ElasticNet,1541631,9.0,7.2117
+rat,left ventricle,ElasticNet,1541632,9.0,8.3535
+rat,left ventricle,ElasticNet,1541633,9.0,9.7948
+rat,left ventricle,ElasticNet,1541634,9.0,11.7871
+rat,left ventricle,ElasticNet,1541635,9.0,8.5055
+rat,left ventricle,ElasticNet,1541636,9.0,10.3835
+rat,left ventricle,ElasticNet,1541637,9.0,9.0047
+rat,left ventricle,ElasticNet,1541638,9.0,13.1839
+rat,left ventricle,ElasticNet,1541639,9.0,9.2202
+rat,left ventricle,ElasticNet,1541640,9.0,8.0154
+rat,left ventricle,ElasticNet,1541667,24.0,23.8258
+rat,left ventricle,ElasticNet,1541668,24.0,22.8984
+rat,left ventricle,ElasticNet,1541669,24.0,22.3826
+rat,left ventricle,ElasticNet,1541670,24.0,24.947
+rat,left ventricle,ElasticNet,1541671,24.0,23.5777
+rat,left ventricle,ElasticNet,1541672,24.0,25.2036
+rat,left ventricle,ElasticNet,1541673,24.0,21.5709
+rat,left ventricle,ElasticNet,1541674,24.0,23.7119
+rat,left ventricle,ElasticNet,1541675,24.0,25.0292
+rat,left ventricle,ElasticNet,1541676,24.0,22.5229
+rat,left ventricle,ElasticNet,1541677,24.0,22.9991
+rat,left ventricle,ElasticNet,1541678,24.0,24.6518
+rat,left ventricle,ElasticNet,1541729,21.0,20.7102
+rat,left ventricle,ElasticNet,1541730,21.0,20.8314
+rat,left ventricle,ElasticNet,1541731,21.0,21.9593
+rat,left ventricle,ElasticNet,1541732,21.0,24.8224
+rat,left ventricle,ElasticNet,1541733,21.0,23.4715
+rat,left ventricle,ElasticNet,1541734,21.0,19.968
+rat,left ventricle,ElasticNet,1541735,21.0,18.7668
+rat,left ventricle,ElasticNet,1541736,21.0,19.3041
+rat,left ventricle,ElasticNet,1541737,21.0,21.5242
+rat,left ventricle,ElasticNet,1541738,21.0,21.5227
+rat,left ventricle,ElasticNet,1541739,21.0,21.0653
+rat,left ventricle,ElasticNet,1541740,21.0,21.4132
+rat,left ventricle,ElasticNet,1541777,6.0,5.7082
+rat,left ventricle,ElasticNet,1541778,6.0,6.3261
+rat,left ventricle,ElasticNet,1541779,6.0,5.7417
+rat,left ventricle,ElasticNet,1541780,6.0,5.7493
+rat,left ventricle,ElasticNet,1541781,6.0,6.0234
+rat,left ventricle,ElasticNet,1541782,6.0,6.4843
+rat,left ventricle,ElasticNet,1541783,6.0,6.5893
+rat,left ventricle,ElasticNet,1541784,6.0,6.6782
+rat,left ventricle,ElasticNet,1541785,6.0,4.6258
+rat,left ventricle,ElasticNet,1541786,6.0,5.8621
+rat,left ventricle,ElasticNet,1541787,6.0,6.0157
+rat,left ventricle,ElasticNet,1541788,6.0,5.5161
+rat,left ventricle,ElasticNet,1541825,12.0,11.6586
+rat,left ventricle,ElasticNet,1541826,12.0,13.0001
+rat,left ventricle,ElasticNet,1541827,12.0,12.4886
+rat,left ventricle,ElasticNet,1541828,12.0,12.0059
+rat,left ventricle,ElasticNet,1541829,12.0,12.1622
+rat,left ventricle,ElasticNet,1541830,12.0,11.9626
+rat,left ventricle,ElasticNet,1541831,12.0,12.4991
+rat,left ventricle,ElasticNet,1541832,12.0,12.1638
+rat,left ventricle,ElasticNet,1541833,12.0,11.7476
+rat,left ventricle,ElasticNet,1541834,12.0,12.3826
+rat,left ventricle,ElasticNet,1541835,12.0,13.6543
+rat,left ventricle,ElasticNet,1541836,12.0,13.3045
+rat,left ventricle,ElasticNet,1541903,21.0,20.1502
+rat,left ventricle,XGBoost,1541535,18.0,22.8391
+rat,left ventricle,XGBoost,1541536,18.0,20.8389
+rat,left ventricle,XGBoost,1541537,18.0,17.6604
+rat,left ventricle,XGBoost,1541538,18.0,15.6988
+rat,left ventricle,XGBoost,1541539,18.0,19.5527
+rat,left ventricle,XGBoost,1541540,18.0,16.957
+rat,left ventricle,XGBoost,1541541,18.0,17.8899
+rat,left ventricle,XGBoost,1541542,18.0,14.8367
+rat,left ventricle,XGBoost,1541543,18.0,20.8837
+rat,left ventricle,XGBoost,1541544,18.0,14.8184
+rat,left ventricle,XGBoost,1541545,18.0,18.9209
+rat,left ventricle,XGBoost,1541546,18.0,18.7528
+rat,left ventricle,XGBoost,1541593,27.0,26.7294
+rat,left ventricle,XGBoost,1541594,27.0,27.0173
+rat,left ventricle,XGBoost,1541595,27.0,25.0753
+rat,left ventricle,XGBoost,1541596,27.0,27.0163
+rat,left ventricle,XGBoost,1541597,27.0,25.0454
+rat,left ventricle,XGBoost,1541598,27.0,21.9883
+rat,left ventricle,XGBoost,1541599,27.0,25.0361
+rat,left ventricle,XGBoost,1541600,27.0,24.8575
+rat,left ventricle,XGBoost,1541601,27.0,26.1504
+rat,left ventricle,XGBoost,1541602,27.0,26.8021
+rat,left ventricle,XGBoost,1541603,27.0,25.6262
+rat,left ventricle,XGBoost,1541604,27.0,26.0254
+rat,left ventricle,XGBoost,1541629,9.0,8.6964
+rat,left ventricle,XGBoost,1541630,9.0,10.2712
+rat,left ventricle,XGBoost,1541631,9.0,7.9419
+rat,left ventricle,XGBoost,1541632,9.0,8.6866
+rat,left ventricle,XGBoost,1541633,9.0,10.2011
+rat,left ventricle,XGBoost,1541634,9.0,10.5739
+rat,left ventricle,XGBoost,1541635,9.0,8.0716
+rat,left ventricle,XGBoost,1541636,9.0,10.0747
+rat,left ventricle,XGBoost,1541637,9.0,11.5866
+rat,left ventricle,XGBoost,1541638,9.0,18.385
+rat,left ventricle,XGBoost,1541639,9.0,8.2347
+rat,left ventricle,XGBoost,1541640,9.0,9.1935
+rat,left ventricle,XGBoost,1541667,24.0,25.8927
+rat,left ventricle,XGBoost,1541668,24.0,19.7119
+rat,left ventricle,XGBoost,1541669,24.0,22.9754
+rat,left ventricle,XGBoost,1541670,24.0,24.5737
+rat,left ventricle,XGBoost,1541671,24.0,22.2521
+rat,left ventricle,XGBoost,1541672,24.0,21.7039
+rat,left ventricle,XGBoost,1541673,24.0,21.585
+rat,left ventricle,XGBoost,1541674,24.0,24.5584
+rat,left ventricle,XGBoost,1541675,24.0,23.5736
+rat,left ventricle,XGBoost,1541676,24.0,22.0386
+rat,left ventricle,XGBoost,1541677,24.0,18.0443
+rat,left ventricle,XGBoost,1541678,24.0,22.0448
+rat,left ventricle,XGBoost,1541729,21.0,21.2446
+rat,left ventricle,XGBoost,1541730,21.0,20.7692
+rat,left ventricle,XGBoost,1541731,21.0,19.2491
+rat,left ventricle,XGBoost,1541732,21.0,23.6397
+rat,left ventricle,XGBoost,1541733,21.0,21.8764
+rat,left ventricle,XGBoost,1541734,21.0,20.145
+rat,left ventricle,XGBoost,1541735,21.0,20.1074
+rat,left ventricle,XGBoost,1541736,21.0,20.5221
+rat,left ventricle,XGBoost,1541737,21.0,21.5
+rat,left ventricle,XGBoost,1541738,21.0,20.9808
+rat,left ventricle,XGBoost,1541739,21.0,20.8124
+rat,left ventricle,XGBoost,1541740,21.0,21.6868
+rat,left ventricle,XGBoost,1541777,6.0,6.3542
+rat,left ventricle,XGBoost,1541778,6.0,7.2122
+rat,left ventricle,XGBoost,1541779,6.0,6.4148
+rat,left ventricle,XGBoost,1541780,6.0,6.9925
+rat,left ventricle,XGBoost,1541781,6.0,7.5548
+rat,left ventricle,XGBoost,1541782,6.0,7.3446
+rat,left ventricle,XGBoost,1541783,6.0,6.7164
+rat,left ventricle,XGBoost,1541784,6.0,7.5782
+rat,left ventricle,XGBoost,1541785,6.0,7.2365
+rat,left ventricle,XGBoost,1541786,6.0,6.5129
+rat,left ventricle,XGBoost,1541787,6.0,6.7882
+rat,left ventricle,XGBoost,1541788,6.0,9.5671
+rat,left ventricle,XGBoost,1541825,12.0,10.747
+rat,left ventricle,XGBoost,1541826,12.0,11.4355
+rat,left ventricle,XGBoost,1541827,12.0,11.222
+rat,left ventricle,XGBoost,1541828,12.0,12.558
+rat,left ventricle,XGBoost,1541829,12.0,12.007
+rat,left ventricle,XGBoost,1541830,12.0,11.5445
+rat,left ventricle,XGBoost,1541831,12.0,11.0079
+rat,left ventricle,XGBoost,1541832,12.0,11.2673
+rat,left ventricle,XGBoost,1541833,12.0,11.426
+rat,left ventricle,XGBoost,1541834,12.0,12.447
+rat,left ventricle,XGBoost,1541835,12.0,17.5447
+rat,left ventricle,XGBoost,1541836,12.0,11.2093
+rat,left ventricle,XGBoost,1541903,21.0,20.1549
+rat,left ventricle,MLP,1541535,18.0,9.4907
+rat,left ventricle,MLP,1541536,18.0,17.803
+rat,left ventricle,MLP,1541537,18.0,3.8471
+rat,left ventricle,MLP,1541538,18.0,6.3101
+rat,left ventricle,MLP,1541539,18.0,14.9433
+rat,left ventricle,MLP,1541540,18.0,7.8132
+rat,left ventricle,MLP,1541541,18.0,6.5976
+rat,left ventricle,MLP,1541542,18.0,12.6184
+rat,left ventricle,MLP,1541543,18.0,15.7327
+rat,left ventricle,MLP,1541544,18.0,11.9722
+rat,left ventricle,MLP,1541545,18.0,11.2418
+rat,left ventricle,MLP,1541546,18.0,9.8003
+rat,left ventricle,MLP,1541593,27.0,14.6517
+rat,left ventricle,MLP,1541594,27.0,26.467
+rat,left ventricle,MLP,1541595,27.0,29.8617
+rat,left ventricle,MLP,1541596,27.0,26.1426
+rat,left ventricle,MLP,1541597,27.0,23.0396
+rat,left ventricle,MLP,1541598,27.0,24.0227
+rat,left ventricle,MLP,1541599,27.0,23.1719
+rat,left ventricle,MLP,1541600,27.0,20.7834
+rat,left ventricle,MLP,1541601,27.0,21.9222
+rat,left ventricle,MLP,1541602,27.0,26.4338
+rat,left ventricle,MLP,1541603,27.0,18.2119
+rat,left ventricle,MLP,1541604,27.0,26.8964
+rat,left ventricle,MLP,1541629,9.0,11.0023
+rat,left ventricle,MLP,1541630,9.0,9.3102
+rat,left ventricle,MLP,1541631,9.0,5.057
+rat,left ventricle,MLP,1541632,9.0,5.6281
+rat,left ventricle,MLP,1541633,9.0,14.4643
+rat,left ventricle,MLP,1541634,9.0,5.1408
+rat,left ventricle,MLP,1541635,9.0,19.785
+rat,left ventricle,MLP,1541636,9.0,16.5542
+rat,left ventricle,MLP,1541637,9.0,25.2482
+rat,left ventricle,MLP,1541638,9.0,27.6677
+rat,left ventricle,MLP,1541639,9.0,5.6868
+rat,left ventricle,MLP,1541640,9.0,7.5916
+rat,left ventricle,MLP,1541667,24.0,27.7644
+rat,left ventricle,MLP,1541668,24.0,12.1777
+rat,left ventricle,MLP,1541669,24.0,20.8804
+rat,left ventricle,MLP,1541670,24.0,24.8702
+rat,left ventricle,MLP,1541671,24.0,24.7134
+rat,left ventricle,MLP,1541672,24.0,26.2408
+rat,left ventricle,MLP,1541673,24.0,15.6612
+rat,left ventricle,MLP,1541674,24.0,21.7547
+rat,left ventricle,MLP,1541675,24.0,18.6747
+rat,left ventricle,MLP,1541676,24.0,26.335
+rat,left ventricle,MLP,1541677,24.0,16.1852
+rat,left ventricle,MLP,1541678,24.0,26.2561
+rat,left ventricle,MLP,1541729,21.0,22.6114
+rat,left ventricle,MLP,1541730,21.0,20.0015
+rat,left ventricle,MLP,1541731,21.0,20.4452
+rat,left ventricle,MLP,1541732,21.0,25.9929
+rat,left ventricle,MLP,1541733,21.0,20.1321
+rat,left ventricle,MLP,1541734,21.0,17.7185
+rat,left ventricle,MLP,1541735,21.0,19.6115
+rat,left ventricle,MLP,1541736,21.0,22.6589
+rat,left ventricle,MLP,1541737,21.0,20.4306
+rat,left ventricle,MLP,1541738,21.0,18.3623
+rat,left ventricle,MLP,1541739,21.0,21.4869
+rat,left ventricle,MLP,1541740,21.0,22.3442
+rat,left ventricle,MLP,1541777,6.0,8.1837
+rat,left ventricle,MLP,1541778,6.0,8.3057
+rat,left ventricle,MLP,1541779,6.0,8.1072
+rat,left ventricle,MLP,1541780,6.0,9.3111
+rat,left ventricle,MLP,1541781,6.0,14.1983
+rat,left ventricle,MLP,1541782,6.0,4.3057
+rat,left ventricle,MLP,1541783,6.0,10.1078
+rat,left ventricle,MLP,1541784,6.0,5.2206
+rat,left ventricle,MLP,1541785,6.0,11.0487
+rat,left ventricle,MLP,1541786,6.0,9.0231
+rat,left ventricle,MLP,1541787,6.0,11.2147
+rat,left ventricle,MLP,1541788,6.0,12.6424
+rat,left ventricle,MLP,1541825,12.0,14.7228
+rat,left ventricle,MLP,1541826,12.0,0.7786
+rat,left ventricle,MLP,1541827,12.0,8.646
+rat,left ventricle,MLP,1541828,12.0,10.1702
+rat,left ventricle,MLP,1541829,12.0,6.0239
+rat,left ventricle,MLP,1541830,12.0,14.1304
+rat,left ventricle,MLP,1541831,12.0,10.6995
+rat,left ventricle,MLP,1541832,12.0,10.1592
+rat,left ventricle,MLP,1541833,12.0,14.5561
+rat,left ventricle,MLP,1541834,12.0,10.7694
+rat,left ventricle,MLP,1541835,12.0,4.5028
+rat,left ventricle,MLP,1541836,12.0,6.9414
+rat,left ventricle,MLP,1541903,21.0,21.383
+rat,kidney,ElasticNet,1631145,6.0,7.8879
+rat,kidney,ElasticNet,1631146,6.0,11.8247
+rat,kidney,ElasticNet,1631147,6.0,2.1816
+rat,kidney,ElasticNet,1631148,6.0,7.937
+rat,kidney,ElasticNet,1631149,6.0,5.4147
+rat,kidney,ElasticNet,1631150,6.0,7.6665
+rat,kidney,ElasticNet,1631151,6.0,12.2406
+rat,kidney,ElasticNet,1631152,6.0,12.5054
+rat,kidney,ElasticNet,1631153,6.0,10.7654
+rat,kidney,ElasticNet,1631155,12.0,6.3009
+rat,kidney,ElasticNet,1631156,12.0,13.4474
+rat,kidney,ElasticNet,1631157,12.0,12.1742
+rat,kidney,ElasticNet,1631158,6.0,14.8638
+rat,kidney,ElasticNet,1631159,6.0,10.4505
+rat,kidney,ElasticNet,1631160,12.0,12.7188
+rat,kidney,ElasticNet,1631161,12.0,11.6417
+rat,kidney,ElasticNet,1631162,12.0,7.0662
+rat,kidney,ElasticNet,1631163,12.0,14.5846
+rat,kidney,ElasticNet,1631164,12.0,8.7077
+rat,kidney,ElasticNet,1631165,12.0,18.2974
+rat,kidney,ElasticNet,1631166,12.0,13.9893
+rat,kidney,ElasticNet,1631167,12.0,14.7557
+rat,kidney,ElasticNet,1631169,18.0,19.2133
+rat,kidney,ElasticNet,1631170,18.0,20.8023
+rat,kidney,ElasticNet,1631171,18.0,17.6902
+rat,kidney,ElasticNet,1631172,18.0,16.4531
+rat,kidney,ElasticNet,1631173,18.0,13.7207
+rat,kidney,ElasticNet,1631174,18.0,13.7548
+rat,kidney,ElasticNet,1631175,18.0,21.3896
+rat,kidney,ElasticNet,1631176,18.0,26.7503
+rat,kidney,ElasticNet,1631177,18.0,19.3028
+rat,kidney,ElasticNet,1631178,18.0,18.8978
+rat,kidney,ElasticNet,1631179,27.0,13.3758
+rat,kidney,ElasticNet,1631180,27.0,22.357
+rat,kidney,ElasticNet,1631181,27.0,25.1615
+rat,kidney,ElasticNet,1631182,18.0,22.5942
+rat,kidney,ElasticNet,1631183,18.0,19.8989
+rat,kidney,ElasticNet,1631184,27.0,22.3106
+rat,kidney,ElasticNet,1631185,27.0,21.4549
+rat,kidney,ElasticNet,1631186,27.0,23.1701
+rat,kidney,ElasticNet,1631187,27.0,22.4326
+rat,kidney,ElasticNet,1631188,27.0,23.9149
+rat,kidney,ElasticNet,1631189,27.0,25.3485
+rat,kidney,ElasticNet,1631190,27.0,22.4407
+rat,kidney,ElasticNet,1631191,27.0,29.348
+rat,kidney,ElasticNet,1631192,27.0,19.7701
+rat,kidney,ElasticNet,1631193,21.0,26.4208
+rat,kidney,ElasticNet,1631194,21.0,17.5273
+rat,kidney,ElasticNet,1631195,21.0,20.2825
+rat,kidney,ElasticNet,1631196,21.0,24.0079
+rat,kidney,ElasticNet,1631197,21.0,20.5951
+rat,kidney,ElasticNet,1631198,21.0,17.9618
+rat,kidney,ElasticNet,1631199,21.0,23.8218
+rat,kidney,ElasticNet,1631200,21.0,20.2605
+rat,kidney,XGBoost,1631145,6.0,8.1996
+rat,kidney,XGBoost,1631146,6.0,11.0491
+rat,kidney,XGBoost,1631147,6.0,8.7409
+rat,kidney,XGBoost,1631148,6.0,8.5811
+rat,kidney,XGBoost,1631149,6.0,7.4434
+rat,kidney,XGBoost,1631150,6.0,9.3359
+rat,kidney,XGBoost,1631151,6.0,10.2478
+rat,kidney,XGBoost,1631152,6.0,11.1534
+rat,kidney,XGBoost,1631153,6.0,14.2243
+rat,kidney,XGBoost,1631155,12.0,7.5275
+rat,kidney,XGBoost,1631156,12.0,11.2621
+rat,kidney,XGBoost,1631157,12.0,11.9392
+rat,kidney,XGBoost,1631158,6.0,15.5134
+rat,kidney,XGBoost,1631159,6.0,9.5753
+rat,kidney,XGBoost,1631160,12.0,12.5879
+rat,kidney,XGBoost,1631161,12.0,12.7306
+rat,kidney,XGBoost,1631162,12.0,12.2776
+rat,kidney,XGBoost,1631163,12.0,15.1992
+rat,kidney,XGBoost,1631164,12.0,9.2686
+rat,kidney,XGBoost,1631165,12.0,21.2114
+rat,kidney,XGBoost,1631166,12.0,12.6769
+rat,kidney,XGBoost,1631167,12.0,14.0572
+rat,kidney,XGBoost,1631169,18.0,19.1282
+rat,kidney,XGBoost,1631170,18.0,17.3122
+rat,kidney,XGBoost,1631171,18.0,18.5273
+rat,kidney,XGBoost,1631172,18.0,10.9521
+rat,kidney,XGBoost,1631173,18.0,14.6252
+rat,kidney,XGBoost,1631174,18.0,13.4446
+rat,kidney,XGBoost,1631175,18.0,20.444
+rat,kidney,XGBoost,1631176,18.0,26.108
+rat,kidney,XGBoost,1631177,18.0,21.9325
+rat,kidney,XGBoost,1631178,18.0,16.8148
+rat,kidney,XGBoost,1631179,27.0,16.2677
+rat,kidney,XGBoost,1631180,27.0,22.3212
+rat,kidney,XGBoost,1631181,27.0,22.7981
+rat,kidney,XGBoost,1631182,18.0,24.2074
+rat,kidney,XGBoost,1631183,18.0,23.6285
+rat,kidney,XGBoost,1631184,27.0,23.2915
+rat,kidney,XGBoost,1631185,27.0,24.1544
+rat,kidney,XGBoost,1631186,27.0,24.2423
+rat,kidney,XGBoost,1631187,27.0,20.1301
+rat,kidney,XGBoost,1631188,27.0,23.1694
+rat,kidney,XGBoost,1631189,27.0,24.3189
+rat,kidney,XGBoost,1631190,27.0,23.3297
+rat,kidney,XGBoost,1631191,27.0,24.6234
+rat,kidney,XGBoost,1631192,27.0,19.0353
+rat,kidney,XGBoost,1631193,21.0,22.0993
+rat,kidney,XGBoost,1631194,21.0,16.2135
+rat,kidney,XGBoost,1631195,21.0,18.4882
+rat,kidney,XGBoost,1631196,21.0,23.2286
+rat,kidney,XGBoost,1631197,21.0,21.2614
+rat,kidney,XGBoost,1631198,21.0,17.7155
+rat,kidney,XGBoost,1631199,21.0,20.9362
+rat,kidney,XGBoost,1631200,21.0,22.1273
+rat,kidney,MLP,1631145,6.0,8.6294
+rat,kidney,MLP,1631146,6.0,4.5775
+rat,kidney,MLP,1631147,6.0,9.1308
+rat,kidney,MLP,1631148,6.0,8.3379
+rat,kidney,MLP,1631149,6.0,7.2375
+rat,kidney,MLP,1631150,6.0,7.8896
+rat,kidney,MLP,1631151,6.0,4.0159
+rat,kidney,MLP,1631152,6.0,9.7531
+rat,kidney,MLP,1631153,6.0,2.3513
+rat,kidney,MLP,1631155,12.0,6.4184
+rat,kidney,MLP,1631156,12.0,11.4576
+rat,kidney,MLP,1631157,12.0,13.0866
+rat,kidney,MLP,1631158,6.0,3.3897
+rat,kidney,MLP,1631159,6.0,10.408
+rat,kidney,MLP,1631160,12.0,5.4532
+rat,kidney,MLP,1631161,12.0,3.7375
+rat,kidney,MLP,1631162,12.0,6.9615
+rat,kidney,MLP,1631163,12.0,10.5252
+rat,kidney,MLP,1631164,12.0,9.562
+rat,kidney,MLP,1631165,12.0,4.6263
+rat,kidney,MLP,1631166,12.0,8.217
+rat,kidney,MLP,1631167,12.0,11.9293
+rat,kidney,MLP,1631169,18.0,9.3841
+rat,kidney,MLP,1631170,18.0,9.7875
+rat,kidney,MLP,1631171,18.0,2.6044
+rat,kidney,MLP,1631172,18.0,11.1358
+rat,kidney,MLP,1631173,18.0,7.6854
+rat,kidney,MLP,1631174,18.0,6.1043
+rat,kidney,MLP,1631175,18.0,3.7089
+rat,kidney,MLP,1631176,18.0,23.2072
+rat,kidney,MLP,1631177,18.0,12.6726
+rat,kidney,MLP,1631178,18.0,7.8208
+rat,kidney,MLP,1631179,27.0,6.2262
+rat,kidney,MLP,1631180,27.0,7.8038
+rat,kidney,MLP,1631181,27.0,28.8046
+rat,kidney,MLP,1631182,18.0,8.8382
+rat,kidney,MLP,1631183,18.0,9.135
+rat,kidney,MLP,1631184,27.0,20.3933
+rat,kidney,MLP,1631185,27.0,20.2825
+rat,kidney,MLP,1631186,27.0,27.5319
+rat,kidney,MLP,1631187,27.0,8.5348
+rat,kidney,MLP,1631188,27.0,21.6563
+rat,kidney,MLP,1631189,27.0,18.849
+rat,kidney,MLP,1631190,27.0,8.945
+rat,kidney,MLP,1631191,27.0,14.2045
+rat,kidney,MLP,1631192,27.0,8.1407
+rat,kidney,MLP,1631193,21.0,57.4374
+rat,kidney,MLP,1631194,21.0,10.5617
+rat,kidney,MLP,1631195,21.0,2.7659
+rat,kidney,MLP,1631196,21.0,9.9365
+rat,kidney,MLP,1631197,21.0,1.4564
+rat,kidney,MLP,1631198,21.0,10.2902
+rat,kidney,MLP,1631199,21.0,6.6272
+rat,kidney,MLP,1631200,21.0,4.825
+rat,gastrocnemius,ElasticNet,GSM7064861,12.0,9.9208
+rat,gastrocnemius,ElasticNet,GSM7064862,12.0,12.1158
+rat,gastrocnemius,ElasticNet,GSM7064863,12.0,12.482
+rat,gastrocnemius,ElasticNet,GSM7064864,12.0,16.6175
+rat,gastrocnemius,ElasticNet,GSM7064865,12.0,11.0483
+rat,gastrocnemius,ElasticNet,GSM7064866,12.0,11.8359
+rat,gastrocnemius,ElasticNet,GSM7064867,12.0,12.3967
+rat,gastrocnemius,ElasticNet,GSM7064868,12.0,14.1027
+rat,gastrocnemius,ElasticNet,GSM7064869,12.0,11.085
+rat,gastrocnemius,ElasticNet,GSM7064870,12.0,13.4509
+rat,gastrocnemius,ElasticNet,GSM7064871,12.0,15.011
+rat,gastrocnemius,ElasticNet,GSM7064872,18.0,18.5319
+rat,gastrocnemius,ElasticNet,GSM7064873,18.0,16.9368
+rat,gastrocnemius,ElasticNet,GSM7064874,18.0,16.4675
+rat,gastrocnemius,ElasticNet,GSM7064875,18.0,16.639
+rat,gastrocnemius,ElasticNet,GSM7064876,18.0,20.8285
+rat,gastrocnemius,ElasticNet,GSM7064877,18.0,16.8721
+rat,gastrocnemius,ElasticNet,GSM7064878,18.0,18.5465
+rat,gastrocnemius,ElasticNet,GSM7064879,18.0,17.5868
+rat,gastrocnemius,ElasticNet,GSM7064880,18.0,17.4412
+rat,gastrocnemius,ElasticNet,GSM7064881,18.0,17.5768
+rat,gastrocnemius,ElasticNet,GSM7064882,18.0,18.5952
+rat,gastrocnemius,ElasticNet,GSM7064883,21.0,17.6822
+rat,gastrocnemius,ElasticNet,GSM7064884,21.0,21.3293
+rat,gastrocnemius,ElasticNet,GSM7064885,21.0,20.674
+rat,gastrocnemius,ElasticNet,GSM7064886,21.0,19.4123
+rat,gastrocnemius,ElasticNet,GSM7064887,21.0,21.2992
+rat,gastrocnemius,ElasticNet,GSM7064888,21.0,25.0096
+rat,gastrocnemius,ElasticNet,GSM7064889,21.0,23.117
+rat,gastrocnemius,ElasticNet,GSM7064890,21.0,21.9635
+rat,gastrocnemius,ElasticNet,GSM7064891,21.0,19.4906
+rat,gastrocnemius,ElasticNet,GSM7064892,24.0,20.762
+rat,gastrocnemius,ElasticNet,GSM7064893,24.0,25.5986
+rat,gastrocnemius,ElasticNet,GSM7064894,24.0,22.3456
+rat,gastrocnemius,ElasticNet,GSM7064895,24.0,21.9217
+rat,gastrocnemius,ElasticNet,GSM7064896,24.0,23.1887
+rat,gastrocnemius,ElasticNet,GSM7064897,24.0,25.3256
+rat,gastrocnemius,ElasticNet,GSM7064898,24.0,26.3574
+rat,gastrocnemius,ElasticNet,GSM7064899,24.0,25.3412
+rat,gastrocnemius,ElasticNet,GSM7064900,24.0,23.9782
+rat,gastrocnemius,ElasticNet,GSM7064901,27.0,27.4763
+rat,gastrocnemius,ElasticNet,GSM7064902,27.0,24.5376
+rat,gastrocnemius,ElasticNet,GSM7064903,27.0,25.4884
+rat,gastrocnemius,ElasticNet,GSM7064904,27.0,26.1627
+rat,gastrocnemius,ElasticNet,GSM7064905,27.0,26.5575
+rat,gastrocnemius,ElasticNet,GSM7064906,27.0,27.8024
+rat,gastrocnemius,ElasticNet,GSM7064907,27.0,24.2795
+rat,gastrocnemius,ElasticNet,GSM7064908,27.0,28.078
+rat,gastrocnemius,ElasticNet,GSM7064909,27.0,27.2201
+rat,gastrocnemius,ElasticNet,GSM7064910,27.0,25.4483
+rat,gastrocnemius,ElasticNet,GSM7064911,27.0,26.341
+rat,gastrocnemius,ElasticNet,GSM7064912,6.0,7.0161
+rat,gastrocnemius,ElasticNet,GSM7064913,6.0,5.7992
+rat,gastrocnemius,ElasticNet,GSM7064914,6.0,5.769
+rat,gastrocnemius,ElasticNet,GSM7064915,6.0,8.6214
+rat,gastrocnemius,ElasticNet,GSM7064916,6.0,6.1301
+rat,gastrocnemius,ElasticNet,GSM7064917,6.0,6.081
+rat,gastrocnemius,ElasticNet,GSM7064918,6.0,7.0747
+rat,gastrocnemius,ElasticNet,GSM7064919,6.0,6.0754
+rat,gastrocnemius,ElasticNet,GSM7064920,6.0,4.3086
+rat,gastrocnemius,ElasticNet,GSM7064921,6.0,7.5446
+rat,gastrocnemius,ElasticNet,GSM7064922,9.0,9.7391
+rat,gastrocnemius,ElasticNet,GSM7064923,9.0,7.6232
+rat,gastrocnemius,ElasticNet,GSM7064924,9.0,11.5743
+rat,gastrocnemius,ElasticNet,GSM7064925,9.0,9.1475
+rat,gastrocnemius,ElasticNet,GSM7064926,9.0,8.5528
+rat,gastrocnemius,ElasticNet,GSM7064927,9.0,8.7408
+rat,gastrocnemius,ElasticNet,GSM7064928,9.0,10.4175
+rat,gastrocnemius,ElasticNet,GSM7064929,9.0,9.6507
+rat,gastrocnemius,ElasticNet,GSM7064930,9.0,9.127
+rat,gastrocnemius,ElasticNet,GSM7064931,9.0,9.3034
+rat,gastrocnemius,ElasticNet,GSM7064932,9.0,8.3949
+rat,gastrocnemius,ElasticNet,GSM7064933,9.0,10.0074
+rat,gastrocnemius,XGBoost,GSM7064861,12.0,9.2956
+rat,gastrocnemius,XGBoost,GSM7064862,12.0,10.4541
+rat,gastrocnemius,XGBoost,GSM7064863,12.0,10.4292
+rat,gastrocnemius,XGBoost,GSM7064864,12.0,18.1175
+rat,gastrocnemius,XGBoost,GSM7064865,12.0,10.0984
+rat,gastrocnemius,XGBoost,GSM7064866,12.0,8.7971
+rat,gastrocnemius,XGBoost,GSM7064867,12.0,11.1693
+rat,gastrocnemius,XGBoost,GSM7064868,12.0,10.4841
+rat,gastrocnemius,XGBoost,GSM7064869,12.0,14.4257
+rat,gastrocnemius,XGBoost,GSM7064870,12.0,11.3948
+rat,gastrocnemius,XGBoost,GSM7064871,12.0,11.4948
+rat,gastrocnemius,XGBoost,GSM7064872,18.0,17.441
+rat,gastrocnemius,XGBoost,GSM7064873,18.0,19.4208
+rat,gastrocnemius,XGBoost,GSM7064874,18.0,16.5165
+rat,gastrocnemius,XGBoost,GSM7064875,18.0,12.9932
+rat,gastrocnemius,XGBoost,GSM7064876,18.0,21.1009
+rat,gastrocnemius,XGBoost,GSM7064877,18.0,19.2646
+rat,gastrocnemius,XGBoost,GSM7064878,18.0,18.5825
+rat,gastrocnemius,XGBoost,GSM7064879,18.0,19.2791
+rat,gastrocnemius,XGBoost,GSM7064880,18.0,17.8133
+rat,gastrocnemius,XGBoost,GSM7064881,18.0,16.3747
+rat,gastrocnemius,XGBoost,GSM7064882,18.0,19.5113
+rat,gastrocnemius,XGBoost,GSM7064883,21.0,17.3127
+rat,gastrocnemius,XGBoost,GSM7064884,21.0,20.9408
+rat,gastrocnemius,XGBoost,GSM7064885,21.0,20.0975
+rat,gastrocnemius,XGBoost,GSM7064886,21.0,20.1169
+rat,gastrocnemius,XGBoost,GSM7064887,21.0,20.6556
+rat,gastrocnemius,XGBoost,GSM7064888,21.0,23.6511
+rat,gastrocnemius,XGBoost,GSM7064889,21.0,22.0152
+rat,gastrocnemius,XGBoost,GSM7064890,21.0,22.7724
+rat,gastrocnemius,XGBoost,GSM7064891,21.0,20.2704
+rat,gastrocnemius,XGBoost,GSM7064892,24.0,20.9739
+rat,gastrocnemius,XGBoost,GSM7064893,24.0,24.8534
+rat,gastrocnemius,XGBoost,GSM7064894,24.0,23.7837
+rat,gastrocnemius,XGBoost,GSM7064895,24.0,20.6868
+rat,gastrocnemius,XGBoost,GSM7064896,24.0,24.6518
+rat,gastrocnemius,XGBoost,GSM7064897,24.0,25.927
+rat,gastrocnemius,XGBoost,GSM7064898,24.0,25.4634
+rat,gastrocnemius,XGBoost,GSM7064899,24.0,26.2159
+rat,gastrocnemius,XGBoost,GSM7064900,24.0,24.2736
+rat,gastrocnemius,XGBoost,GSM7064901,27.0,26.6069
+rat,gastrocnemius,XGBoost,GSM7064902,27.0,23.0688
+rat,gastrocnemius,XGBoost,GSM7064903,27.0,26.1064
+rat,gastrocnemius,XGBoost,GSM7064904,27.0,26.1744
+rat,gastrocnemius,XGBoost,GSM7064905,27.0,26.7485
+rat,gastrocnemius,XGBoost,GSM7064906,27.0,26.5853
+rat,gastrocnemius,XGBoost,GSM7064907,27.0,25.1821
+rat,gastrocnemius,XGBoost,GSM7064908,27.0,25.6931
+rat,gastrocnemius,XGBoost,GSM7064909,27.0,26.8621
+rat,gastrocnemius,XGBoost,GSM7064910,27.0,26.1476
+rat,gastrocnemius,XGBoost,GSM7064911,27.0,26.1173
+rat,gastrocnemius,XGBoost,GSM7064912,6.0,7.4716
+rat,gastrocnemius,XGBoost,GSM7064913,6.0,6.682
+rat,gastrocnemius,XGBoost,GSM7064914,6.0,7.1297
+rat,gastrocnemius,XGBoost,GSM7064915,6.0,7.956
+rat,gastrocnemius,XGBoost,GSM7064916,6.0,6.5993
+rat,gastrocnemius,XGBoost,GSM7064917,6.0,9.0546
+rat,gastrocnemius,XGBoost,GSM7064918,6.0,6.661
+rat,gastrocnemius,XGBoost,GSM7064919,6.0,6.5462
+rat,gastrocnemius,XGBoost,GSM7064920,6.0,7.0474
+rat,gastrocnemius,XGBoost,GSM7064921,6.0,7.6851
+rat,gastrocnemius,XGBoost,GSM7064922,9.0,10.9825
+rat,gastrocnemius,XGBoost,GSM7064923,9.0,7.1204
+rat,gastrocnemius,XGBoost,GSM7064924,9.0,10.4189
+rat,gastrocnemius,XGBoost,GSM7064925,9.0,9.9432
+rat,gastrocnemius,XGBoost,GSM7064926,9.0,9.1615
+rat,gastrocnemius,XGBoost,GSM7064927,9.0,8.2525
+rat,gastrocnemius,XGBoost,GSM7064928,9.0,8.5337
+rat,gastrocnemius,XGBoost,GSM7064929,9.0,9.27
+rat,gastrocnemius,XGBoost,GSM7064930,9.0,9.6341
+rat,gastrocnemius,XGBoost,GSM7064931,9.0,8.7623
+rat,gastrocnemius,XGBoost,GSM7064932,9.0,8.0476
+rat,gastrocnemius,XGBoost,GSM7064933,9.0,9.9535
+rat,gastrocnemius,MLP,GSM7064861,12.0,9.6267
+rat,gastrocnemius,MLP,GSM7064862,12.0,11.6415
+rat,gastrocnemius,MLP,GSM7064863,12.0,8.777
+rat,gastrocnemius,MLP,GSM7064864,12.0,13.7116
+rat,gastrocnemius,MLP,GSM7064865,12.0,10.8285
+rat,gastrocnemius,MLP,GSM7064866,12.0,13.935
+rat,gastrocnemius,MLP,GSM7064867,12.0,11.139
+rat,gastrocnemius,MLP,GSM7064868,12.0,11.7928
+rat,gastrocnemius,MLP,GSM7064869,12.0,9.5303
+rat,gastrocnemius,MLP,GSM7064870,12.0,14.0715
+rat,gastrocnemius,MLP,GSM7064871,12.0,13.9433
+rat,gastrocnemius,MLP,GSM7064872,18.0,8.0591
+rat,gastrocnemius,MLP,GSM7064873,18.0,13.7253
+rat,gastrocnemius,MLP,GSM7064874,18.0,19.0591
+rat,gastrocnemius,MLP,GSM7064875,18.0,17.829
+rat,gastrocnemius,MLP,GSM7064876,18.0,8.5841
+rat,gastrocnemius,MLP,GSM7064877,18.0,12.3306
+rat,gastrocnemius,MLP,GSM7064878,18.0,19.6215
+rat,gastrocnemius,MLP,GSM7064879,18.0,10.5588
+rat,gastrocnemius,MLP,GSM7064880,18.0,11.2334
+rat,gastrocnemius,MLP,GSM7064881,18.0,14.7486
+rat,gastrocnemius,MLP,GSM7064882,18.0,11.1515
+rat,gastrocnemius,MLP,GSM7064883,21.0,16.8647
+rat,gastrocnemius,MLP,GSM7064884,21.0,12.1912
+rat,gastrocnemius,MLP,GSM7064885,21.0,15.121
+rat,gastrocnemius,MLP,GSM7064886,21.0,12.3156
+rat,gastrocnemius,MLP,GSM7064887,21.0,13.0803
+rat,gastrocnemius,MLP,GSM7064888,21.0,22.2761
+rat,gastrocnemius,MLP,GSM7064889,21.0,13.2867
+rat,gastrocnemius,MLP,GSM7064890,21.0,14.4612
+rat,gastrocnemius,MLP,GSM7064891,21.0,22.0828
+rat,gastrocnemius,MLP,GSM7064892,24.0,15.1382
+rat,gastrocnemius,MLP,GSM7064893,24.0,24.5107
+rat,gastrocnemius,MLP,GSM7064894,24.0,24.2017
+rat,gastrocnemius,MLP,GSM7064895,24.0,17.2422
+rat,gastrocnemius,MLP,GSM7064896,24.0,20.3272
+rat,gastrocnemius,MLP,GSM7064897,24.0,32.6573
+rat,gastrocnemius,MLP,GSM7064898,24.0,28.0467
+rat,gastrocnemius,MLP,GSM7064899,24.0,29.5057
+rat,gastrocnemius,MLP,GSM7064900,24.0,21.8157
+rat,gastrocnemius,MLP,GSM7064901,27.0,21.951
+rat,gastrocnemius,MLP,GSM7064902,27.0,15.6613
+rat,gastrocnemius,MLP,GSM7064903,27.0,27.3519
+rat,gastrocnemius,MLP,GSM7064904,27.0,25.8956
+rat,gastrocnemius,MLP,GSM7064905,27.0,27.7586
+rat,gastrocnemius,MLP,GSM7064906,27.0,31.4853
+rat,gastrocnemius,MLP,GSM7064907,27.0,20.1217
+rat,gastrocnemius,MLP,GSM7064908,27.0,31.709
+rat,gastrocnemius,MLP,GSM7064909,27.0,21.1471
+rat,gastrocnemius,MLP,GSM7064910,27.0,23.3633
+rat,gastrocnemius,MLP,GSM7064911,27.0,29.6633
+rat,gastrocnemius,MLP,GSM7064912,6.0,7.5938
+rat,gastrocnemius,MLP,GSM7064913,6.0,6.2087
+rat,gastrocnemius,MLP,GSM7064914,6.0,6.4675
+rat,gastrocnemius,MLP,GSM7064915,6.0,8.3367
+rat,gastrocnemius,MLP,GSM7064916,6.0,11.4432
+rat,gastrocnemius,MLP,GSM7064917,6.0,5.2172
+rat,gastrocnemius,MLP,GSM7064918,6.0,7.016
+rat,gastrocnemius,MLP,GSM7064919,6.0,7.3853
+rat,gastrocnemius,MLP,GSM7064920,6.0,6.0956
+rat,gastrocnemius,MLP,GSM7064921,6.0,5.7072
+rat,gastrocnemius,MLP,GSM7064922,9.0,9.0216
+rat,gastrocnemius,MLP,GSM7064923,9.0,6.2646
+rat,gastrocnemius,MLP,GSM7064924,9.0,10.584
+rat,gastrocnemius,MLP,GSM7064925,9.0,11.2687
+rat,gastrocnemius,MLP,GSM7064926,9.0,9.109
+rat,gastrocnemius,MLP,GSM7064927,9.0,5.1599
+rat,gastrocnemius,MLP,GSM7064928,9.0,14.855
+rat,gastrocnemius,MLP,GSM7064929,9.0,10.0201
+rat,gastrocnemius,MLP,GSM7064930,9.0,8.9156
+rat,gastrocnemius,MLP,GSM7064931,9.0,10.4498
+rat,gastrocnemius,MLP,GSM7064932,9.0,7.3637
+rat,gastrocnemius,MLP,GSM7064933,9.0,10.096
+mouse,gWAT,ElasticNet,1406928,6.0,7.2177
+mouse,gWAT,ElasticNet,1406929,6.0,5.2587
+mouse,gWAT,ElasticNet,1406930,6.0,6.5972
+mouse,gWAT,ElasticNet,1406937,6.0,4.1524
+mouse,gWAT,ElasticNet,1406938,6.0,6.1362
+mouse,gWAT,ElasticNet,1406959,6.0,7.3313
+mouse,gWAT,ElasticNet,1406960,6.0,4.511
+mouse,gWAT,ElasticNet,1406962,6.0,4.7766
+mouse,gWAT,ElasticNet,1406963,6.0,5.6208
+mouse,gWAT,ElasticNet,1406964,6.0,9.512
+mouse,gWAT,ElasticNet,1406965,6.0,6.5198
+mouse,gWAT,ElasticNet,1406966,6.0,7.9298
+mouse,gWAT,ElasticNet,1406967,12.0,12.4132
+mouse,gWAT,ElasticNet,1406968,12.0,13.1117
+mouse,gWAT,ElasticNet,1406969,12.0,15.1586
+mouse,gWAT,ElasticNet,1406970,12.0,13.4346
+mouse,gWAT,ElasticNet,1406971,12.0,13.0202
+mouse,gWAT,ElasticNet,1406972,12.0,12.6863
+mouse,gWAT,ElasticNet,1406973,12.0,16.1411
+mouse,gWAT,ElasticNet,1406974,12.0,12.9831
+mouse,gWAT,ElasticNet,1406975,6.0,9.845
+mouse,gWAT,ElasticNet,1406977,18.0,16.8766
+mouse,gWAT,ElasticNet,1406978,18.0,17.2105
+mouse,gWAT,ElasticNet,1406979,18.0,18.2785
+mouse,gWAT,ElasticNet,1406980,18.0,21.9832
+mouse,gWAT,ElasticNet,1406981,18.0,17.0575
+mouse,gWAT,ElasticNet,1406982,18.0,19.7444
+mouse,gWAT,ElasticNet,1406983,18.0,14.9622
+mouse,gWAT,ElasticNet,1406984,18.0,18.2461
+mouse,gWAT,ElasticNet,1406985,18.0,18.5912
+mouse,gWAT,ElasticNet,1406986,12.0,14.5239
+mouse,gWAT,ElasticNet,1406987,12.0,16.1258
+mouse,gWAT,ElasticNet,1406988,18.0,21.5613
+mouse,gWAT,ElasticNet,1406989,12.0,11.2628
+mouse,gWAT,ElasticNet,1406990,12.0,11.302
+mouse,gWAT,ElasticNet,1406991,12.0,11.7182
+mouse,gWAT,ElasticNet,1406992,12.0,10.4276
+mouse,gWAT,ElasticNet,1406993,12.0,11.6656
+mouse,gWAT,ElasticNet,1406994,18.0,18.2843
+mouse,gWAT,ElasticNet,1406995,18.0,19.6242
+mouse,gWAT,ElasticNet,1406996,18.0,18.2647
+mouse,gWAT,ElasticNet,1406997,21.0,20.5231
+mouse,gWAT,ElasticNet,1406998,6.0,8.6029
+mouse,gWAT,ElasticNet,1406999,6.0,8.2446
+mouse,gWAT,ElasticNet,1407000,24.0,21.0871
+mouse,gWAT,ElasticNet,1407001,21.0,23.0802
+mouse,gWAT,ElasticNet,1407002,21.0,19.8875
+mouse,gWAT,ElasticNet,1407003,24.0,24.9864
+mouse,gWAT,ElasticNet,1407004,24.0,19.71
+mouse,gWAT,ElasticNet,1407005,24.0,24.1037
+mouse,gWAT,ElasticNet,1407006,24.0,23.1528
+mouse,gWAT,ElasticNet,1407007,24.0,22.5864
+mouse,gWAT,ElasticNet,1407008,24.0,22.8074
+mouse,gWAT,ElasticNet,1407009,21.0,21.0253
+mouse,gWAT,ElasticNet,1407011,24.0,25.2873
+mouse,gWAT,ElasticNet,1407012,21.0,20.3857
+mouse,gWAT,ElasticNet,1407013,21.0,21.5651
+mouse,gWAT,ElasticNet,1407014,21.0,21.8809
+mouse,gWAT,ElasticNet,1407015,21.0,20.8128
+mouse,gWAT,ElasticNet,1407016,21.0,20.2429
+mouse,gWAT,ElasticNet,1407017,21.0,22.6881
+mouse,gWAT,ElasticNet,1407018,21.0,21.9821
+mouse,gWAT,ElasticNet,1407019,21.0,23.2494
+mouse,gWAT,ElasticNet,1407020,21.0,23.3328
+mouse,gWAT,ElasticNet,1407081,27.0,25.0006
+mouse,gWAT,ElasticNet,1407082,27.0,23.3921
+mouse,gWAT,ElasticNet,1407083,27.0,27.2846
+mouse,gWAT,ElasticNet,1407084,27.0,25.9162
+mouse,gWAT,ElasticNet,1407085,27.0,20.2533
+mouse,gWAT,ElasticNet,1407086,27.0,27.2331
+mouse,gWAT,ElasticNet,1407087,24.0,22.2413
+mouse,gWAT,ElasticNet,1407088,24.0,23.6164
+mouse,gWAT,ElasticNet,1407090,24.0,25.0011
+mouse,gWAT,ElasticNet,1407091,24.0,24.1678
+mouse,gWAT,ElasticNet,1407092,24.0,26.5058
+mouse,gWAT,ElasticNet,1407093,24.0,28.6367
+mouse,gWAT,ElasticNet,1407094,24.0,22.9724
+mouse,gWAT,ElasticNet,1407095,24.0,22.8417
+mouse,gWAT,ElasticNet,1407096,24.0,20.0455
+mouse,gWAT,ElasticNet,1407097,24.0,23.1684
+mouse,gWAT,ElasticNet,1407098,24.0,24.1466
+mouse,gWAT,ElasticNet,1407099,27.0,23.4989
+mouse,gWAT,ElasticNet,1407100,21.0,23.5098
+mouse,gWAT,ElasticNet,1407101,21.0,23.2871
+mouse,gWAT,ElasticNet,1407102,24.0,20.9356
+mouse,gWAT,ElasticNet,1407103,18.0,17.7061
+mouse,gWAT,ElasticNet,1407104,18.0,16.7053
+mouse,gWAT,ElasticNet,1407105,27.0,28.336
+mouse,gWAT,ElasticNet,1407106,27.0,23.7132
+mouse,gWAT,ElasticNet,1407107,27.0,25.1668
+mouse,gWAT,ElasticNet,1407108,27.0,27.2858
+mouse,gWAT,ElasticNet,1407109,27.0,23.8118
+mouse,gWAT,ElasticNet,1407110,27.0,21.3977
+mouse,gWAT,ElasticNet,1407111,27.0,28.3312
+mouse,gWAT,ElasticNet,1407112,27.0,28.5743
+mouse,gWAT,ElasticNet,1407114,27.0,20.8626
+mouse,gWAT,ElasticNet,1407115,27.0,25.3879
+mouse,gWAT,ElasticNet,1407116,27.0,26.7943
+mouse,gWAT,ElasticNet,1407117,27.0,27.8732
+mouse,gWAT,ElasticNet,1407133,18.0,16.797
+mouse,gWAT,XGBoost,1406928,6.0,7.005
+mouse,gWAT,XGBoost,1406929,6.0,7.4057
+mouse,gWAT,XGBoost,1406930,6.0,8.587
+mouse,gWAT,XGBoost,1406937,6.0,7.0588
+mouse,gWAT,XGBoost,1406938,6.0,7.0858
+mouse,gWAT,XGBoost,1406959,6.0,8.5792
+mouse,gWAT,XGBoost,1406960,6.0,5.8993
+mouse,gWAT,XGBoost,1406962,6.0,15.1745
+mouse,gWAT,XGBoost,1406963,6.0,7.6835
+mouse,gWAT,XGBoost,1406964,6.0,9.684
+mouse,gWAT,XGBoost,1406965,6.0,8.3847
+mouse,gWAT,XGBoost,1406966,6.0,8.2314
+mouse,gWAT,XGBoost,1406967,12.0,13.2586
+mouse,gWAT,XGBoost,1406968,12.0,15.1586
+mouse,gWAT,XGBoost,1406969,12.0,18.1505
+mouse,gWAT,XGBoost,1406970,12.0,12.4524
+mouse,gWAT,XGBoost,1406971,12.0,12.3215
+mouse,gWAT,XGBoost,1406972,12.0,12.4735
+mouse,gWAT,XGBoost,1406973,12.0,18.6905
+mouse,gWAT,XGBoost,1406974,12.0,17.286
+mouse,gWAT,XGBoost,1406975,6.0,10.0716
+mouse,gWAT,XGBoost,1406977,18.0,17.1653
+mouse,gWAT,XGBoost,1406978,18.0,16.2093
+mouse,gWAT,XGBoost,1406979,18.0,18.7677
+mouse,gWAT,XGBoost,1406980,18.0,24.0303
+mouse,gWAT,XGBoost,1406981,18.0,20.56
+mouse,gWAT,XGBoost,1406982,18.0,21.2322
+mouse,gWAT,XGBoost,1406983,18.0,18.0412
+mouse,gWAT,XGBoost,1406984,18.0,23.362
+mouse,gWAT,XGBoost,1406985,18.0,19.8601
+mouse,gWAT,XGBoost,1406986,12.0,14.605
+mouse,gWAT,XGBoost,1406987,12.0,18.5981
+mouse,gWAT,XGBoost,1406988,18.0,21.4555
+mouse,gWAT,XGBoost,1406989,12.0,16.4216
+mouse,gWAT,XGBoost,1406990,12.0,12.4328
+mouse,gWAT,XGBoost,1406991,12.0,9.4504
+mouse,gWAT,XGBoost,1406992,12.0,9.9648
+mouse,gWAT,XGBoost,1406993,12.0,12.8786
+mouse,gWAT,XGBoost,1406994,18.0,19.9155
+mouse,gWAT,XGBoost,1406995,18.0,20.1076
+mouse,gWAT,XGBoost,1406996,18.0,15.7638
+mouse,gWAT,XGBoost,1406997,21.0,21.9995
+mouse,gWAT,XGBoost,1406998,6.0,11.5584
+mouse,gWAT,XGBoost,1406999,6.0,7.89
+mouse,gWAT,XGBoost,1407000,24.0,23.7008
+mouse,gWAT,XGBoost,1407001,21.0,23.3289
+mouse,gWAT,XGBoost,1407002,21.0,22.9796
+mouse,gWAT,XGBoost,1407003,24.0,24.1409
+mouse,gWAT,XGBoost,1407004,24.0,21.2574
+mouse,gWAT,XGBoost,1407005,24.0,24.9818
+mouse,gWAT,XGBoost,1407006,24.0,22.0682
+mouse,gWAT,XGBoost,1407007,24.0,18.667
+mouse,gWAT,XGBoost,1407008,24.0,23.8232
+mouse,gWAT,XGBoost,1407009,21.0,23.9326
+mouse,gWAT,XGBoost,1407011,24.0,23.2416
+mouse,gWAT,XGBoost,1407012,21.0,17.5415
+mouse,gWAT,XGBoost,1407013,21.0,19.2449
+mouse,gWAT,XGBoost,1407014,21.0,21.2369
+mouse,gWAT,XGBoost,1407015,21.0,19.9828
+mouse,gWAT,XGBoost,1407016,21.0,21.1321
+mouse,gWAT,XGBoost,1407017,21.0,22.4569
+mouse,gWAT,XGBoost,1407018,21.0,19.3534
+mouse,gWAT,XGBoost,1407019,21.0,22.6242
+mouse,gWAT,XGBoost,1407020,21.0,19.808
+mouse,gWAT,XGBoost,1407081,27.0,22.7688
+mouse,gWAT,XGBoost,1407082,27.0,20.0309
+mouse,gWAT,XGBoost,1407083,27.0,24.7535
+mouse,gWAT,XGBoost,1407084,27.0,23.5415
+mouse,gWAT,XGBoost,1407085,27.0,16.7644
+mouse,gWAT,XGBoost,1407086,27.0,26.4966
+mouse,gWAT,XGBoost,1407087,24.0,20.1554
+mouse,gWAT,XGBoost,1407088,24.0,20.9219
+mouse,gWAT,XGBoost,1407090,24.0,24.3923
+mouse,gWAT,XGBoost,1407091,24.0,22.3667
+mouse,gWAT,XGBoost,1407092,24.0,23.7172
+mouse,gWAT,XGBoost,1407093,24.0,26.0079
+mouse,gWAT,XGBoost,1407094,24.0,23.0141
+mouse,gWAT,XGBoost,1407095,24.0,20.3162
+mouse,gWAT,XGBoost,1407096,24.0,15.2286
+mouse,gWAT,XGBoost,1407097,24.0,24.057
+mouse,gWAT,XGBoost,1407098,24.0,23.0228
+mouse,gWAT,XGBoost,1407099,27.0,21.5249
+mouse,gWAT,XGBoost,1407100,21.0,23.111
+mouse,gWAT,XGBoost,1407101,21.0,24.6413
+mouse,gWAT,XGBoost,1407102,24.0,22.8431
+mouse,gWAT,XGBoost,1407103,18.0,14.2984
+mouse,gWAT,XGBoost,1407104,18.0,17.8643
+mouse,gWAT,XGBoost,1407105,27.0,25.1365
+mouse,gWAT,XGBoost,1407106,27.0,23.5951
+mouse,gWAT,XGBoost,1407107,27.0,22.7899
+mouse,gWAT,XGBoost,1407108,27.0,24.9117
+mouse,gWAT,XGBoost,1407109,27.0,23.4619
+mouse,gWAT,XGBoost,1407110,27.0,21.1305
+mouse,gWAT,XGBoost,1407111,27.0,24.1455
+mouse,gWAT,XGBoost,1407112,27.0,25.6258
+mouse,gWAT,XGBoost,1407114,27.0,23.0159
+mouse,gWAT,XGBoost,1407115,27.0,23.6176
+mouse,gWAT,XGBoost,1407116,27.0,23.52
+mouse,gWAT,XGBoost,1407117,27.0,25.0432
+mouse,gWAT,XGBoost,1407133,18.0,16.2436
+mouse,gWAT,MLP,1406928,6.0,4.743
+mouse,gWAT,MLP,1406929,6.0,5.3158
+mouse,gWAT,MLP,1406930,6.0,4.5747
+mouse,gWAT,MLP,1406937,6.0,5.5126
+mouse,gWAT,MLP,1406938,6.0,5.1416
+mouse,gWAT,MLP,1406959,6.0,13.7033
+mouse,gWAT,MLP,1406960,6.0,9.9232
+mouse,gWAT,MLP,1406962,6.0,6.9673
+mouse,gWAT,MLP,1406963,6.0,9.0557
+mouse,gWAT,MLP,1406964,6.0,7.8693
+mouse,gWAT,MLP,1406965,6.0,9.3954
+mouse,gWAT,MLP,1406966,6.0,7.4332
+mouse,gWAT,MLP,1406967,12.0,14.342
+mouse,gWAT,MLP,1406968,12.0,14.663
+mouse,gWAT,MLP,1406969,12.0,12.5677
+mouse,gWAT,MLP,1406970,12.0,10.8655
+mouse,gWAT,MLP,1406971,12.0,13.0567
+mouse,gWAT,MLP,1406972,12.0,12.4057
+mouse,gWAT,MLP,1406973,12.0,14.5768
+mouse,gWAT,MLP,1406974,12.0,17.0448
+mouse,gWAT,MLP,1406975,6.0,4.9891
+mouse,gWAT,MLP,1406977,18.0,8.6236
+mouse,gWAT,MLP,1406978,18.0,6.4801
+mouse,gWAT,MLP,1406979,18.0,12.2267
+mouse,gWAT,MLP,1406980,18.0,22.9651
+mouse,gWAT,MLP,1406981,18.0,11.8864
+mouse,gWAT,MLP,1406982,18.0,15.4086
+mouse,gWAT,MLP,1406983,18.0,13.7768
+mouse,gWAT,MLP,1406984,18.0,29.5556
+mouse,gWAT,MLP,1406985,18.0,18.2121
+mouse,gWAT,MLP,1406986,12.0,7.6564
+mouse,gWAT,MLP,1406987,12.0,12.6487
+mouse,gWAT,MLP,1406988,18.0,19.5212
+mouse,gWAT,MLP,1406989,12.0,12.9399
+mouse,gWAT,MLP,1406990,12.0,12.9594
+mouse,gWAT,MLP,1406991,12.0,9.1625
+mouse,gWAT,MLP,1406992,12.0,5.1441
+mouse,gWAT,MLP,1406993,12.0,11.5151
+mouse,gWAT,MLP,1406994,18.0,20.4003
+mouse,gWAT,MLP,1406995,18.0,20.739
+mouse,gWAT,MLP,1406996,18.0,14.9775
+mouse,gWAT,MLP,1406997,21.0,14.4655
+mouse,gWAT,MLP,1406998,6.0,8.5002
+mouse,gWAT,MLP,1406999,6.0,8.0361
+mouse,gWAT,MLP,1407000,24.0,23.6866
+mouse,gWAT,MLP,1407001,21.0,21.1237
+mouse,gWAT,MLP,1407002,21.0,15.5189
+mouse,gWAT,MLP,1407003,24.0,23.3822
+mouse,gWAT,MLP,1407004,24.0,20.121
+mouse,gWAT,MLP,1407005,24.0,22.8372
+mouse,gWAT,MLP,1407006,24.0,17.5557
+mouse,gWAT,MLP,1407007,24.0,26.0737
+mouse,gWAT,MLP,1407008,24.0,15.3917
+mouse,gWAT,MLP,1407009,21.0,18.5098
+mouse,gWAT,MLP,1407011,24.0,19.0906
+mouse,gWAT,MLP,1407012,21.0,23.3392
+mouse,gWAT,MLP,1407013,21.0,15.5581
+mouse,gWAT,MLP,1407014,21.0,17.0881
+mouse,gWAT,MLP,1407015,21.0,16.7928
+mouse,gWAT,MLP,1407016,21.0,18.0535
+mouse,gWAT,MLP,1407017,21.0,22.4082
+mouse,gWAT,MLP,1407018,21.0,21.4466
+mouse,gWAT,MLP,1407019,21.0,18.5731
+mouse,gWAT,MLP,1407020,21.0,17.3416
+mouse,gWAT,MLP,1407081,27.0,22.7994
+mouse,gWAT,MLP,1407082,27.0,16.801
+mouse,gWAT,MLP,1407083,27.0,28.3813
+mouse,gWAT,MLP,1407084,27.0,25.2561
+mouse,gWAT,MLP,1407085,27.0,13.0829
+mouse,gWAT,MLP,1407086,27.0,23.4228
+mouse,gWAT,MLP,1407087,24.0,21.278
+mouse,gWAT,MLP,1407088,24.0,12.5046
+mouse,gWAT,MLP,1407090,24.0,20.3731
+mouse,gWAT,MLP,1407091,24.0,26.2443
+mouse,gWAT,MLP,1407092,24.0,28.2386
+mouse,gWAT,MLP,1407093,24.0,30.2127
+mouse,gWAT,MLP,1407094,24.0,18.6407
+mouse,gWAT,MLP,1407095,24.0,17.1414
+mouse,gWAT,MLP,1407096,24.0,12.5708
+mouse,gWAT,MLP,1407097,24.0,19.3306
+mouse,gWAT,MLP,1407098,24.0,23.5918
+mouse,gWAT,MLP,1407099,27.0,20.1252
+mouse,gWAT,MLP,1407100,21.0,19.0531
+mouse,gWAT,MLP,1407101,21.0,23.7017
+mouse,gWAT,MLP,1407102,24.0,17.7242
+mouse,gWAT,MLP,1407103,18.0,15.6291
+mouse,gWAT,MLP,1407104,18.0,15.4004
+mouse,gWAT,MLP,1407105,27.0,23.2774
+mouse,gWAT,MLP,1407106,27.0,19.4848
+mouse,gWAT,MLP,1407107,27.0,22.566
+mouse,gWAT,MLP,1407108,27.0,21.7533
+mouse,gWAT,MLP,1407109,27.0,24.9578
+mouse,gWAT,MLP,1407110,27.0,13.4643
+mouse,gWAT,MLP,1407111,27.0,30.3485
+mouse,gWAT,MLP,1407112,27.0,24.7533
+mouse,gWAT,MLP,1407114,27.0,14.467
+mouse,gWAT,MLP,1407115,27.0,24.7279
+mouse,gWAT,MLP,1407116,27.0,21.5317
+mouse,gWAT,MLP,1407117,27.0,28.9227
+mouse,gWAT,MLP,1407133,18.0,14.469
+mouse,liver,ElasticNet,1405801,27.0,19.8934
+mouse,liver,ElasticNet,1405802,27.0,24.7526
+mouse,liver,ElasticNet,1405803,24.0,22.4584
+mouse,liver,ElasticNet,1405804,27.0,25.4294
+mouse,liver,ElasticNet,1405805,27.0,27.2658
+mouse,liver,ElasticNet,1405807,27.0,25.4638
+mouse,liver,ElasticNet,1405808,27.0,25.3259
+mouse,liver,ElasticNet,1405809,27.0,22.3864
+mouse,liver,ElasticNet,1405810,27.0,25.7971
+mouse,liver,ElasticNet,1405811,27.0,28.6855
+mouse,liver,ElasticNet,1405812,27.0,30.0041
+mouse,liver,ElasticNet,1405813,27.0,27.4171
+mouse,liver,ElasticNet,1405814,27.0,25.0764
+mouse,liver,ElasticNet,1405815,27.0,26.0775
+mouse,liver,ElasticNet,1405816,27.0,26.9595
+mouse,liver,ElasticNet,1405817,27.0,24.9685
+mouse,liver,ElasticNet,1405818,27.0,27.0061
+mouse,liver,ElasticNet,1405819,27.0,24.9291
+mouse,liver,ElasticNet,1405820,27.0,28.3824
+mouse,liver,ElasticNet,1405821,27.0,27.8545
+mouse,liver,ElasticNet,1405822,24.0,23.3807
+mouse,liver,ElasticNet,1405823,24.0,21.2677
+mouse,liver,ElasticNet,1405824,24.0,22.7326
+mouse,liver,ElasticNet,1405825,24.0,20.1873
+mouse,liver,ElasticNet,1405826,24.0,23.8616
+mouse,liver,ElasticNet,1405827,21.0,22.3215
+mouse,liver,ElasticNet,1405828,21.0,23.3748
+mouse,liver,ElasticNet,1405829,21.0,20.1787
+mouse,liver,ElasticNet,1405830,21.0,21.4681
+mouse,liver,ElasticNet,1405831,24.0,23.7848
+mouse,liver,ElasticNet,1405832,24.0,24.1499
+mouse,liver,ElasticNet,1405833,24.0,19.5412
+mouse,liver,ElasticNet,1405834,24.0,23.4407
+mouse,liver,ElasticNet,1405835,24.0,25.5969
+mouse,liver,ElasticNet,1405836,24.0,21.6155
+mouse,liver,ElasticNet,1405838,24.0,22.4006
+mouse,liver,ElasticNet,1405839,21.0,20.3068
+mouse,liver,ElasticNet,1405840,24.0,24.7313
+mouse,liver,ElasticNet,1405841,24.0,24.9412
+mouse,liver,ElasticNet,1405842,24.0,23.4152
+mouse,liver,ElasticNet,1405843,24.0,26.1308
+mouse,liver,ElasticNet,1405844,24.0,19.8158
+mouse,liver,ElasticNet,1405845,24.0,22.0834
+mouse,liver,ElasticNet,1405846,18.0,17.7037
+mouse,liver,ElasticNet,1405847,18.0,18.0494
+mouse,liver,ElasticNet,1405848,18.0,21.9213
+mouse,liver,ElasticNet,1405849,18.0,20.0215
+mouse,liver,ElasticNet,1405850,18.0,13.3196
+mouse,liver,ElasticNet,1405851,18.0,17.227
+mouse,liver,ElasticNet,1405852,18.0,17.6852
+mouse,liver,ElasticNet,1405853,21.0,23.5521
+mouse,liver,ElasticNet,1405854,18.0,18.7283
+mouse,liver,ElasticNet,1405855,18.0,18.8939
+mouse,liver,ElasticNet,1405856,18.0,20.0227
+mouse,liver,ElasticNet,1405857,18.0,18.254
+mouse,liver,ElasticNet,1405859,21.0,21.9876
+mouse,liver,ElasticNet,1405860,21.0,18.9597
+mouse,liver,ElasticNet,1405861,21.0,20.457
+mouse,liver,ElasticNet,1405862,18.0,19.9254
+mouse,liver,ElasticNet,1405863,18.0,16.9632
+mouse,liver,ElasticNet,1405864,21.0,22.6165
+mouse,liver,ElasticNet,1405865,21.0,21.5796
+mouse,liver,ElasticNet,1405866,21.0,24.2815
+mouse,liver,ElasticNet,1405867,21.0,21.8574
+mouse,liver,ElasticNet,1405868,21.0,21.3313
+mouse,liver,ElasticNet,1405869,21.0,19.9985
+mouse,liver,ElasticNet,1405870,6.0,7.3213
+mouse,liver,ElasticNet,1405871,6.0,6.8708
+mouse,liver,ElasticNet,1405872,6.0,5.9161
+mouse,liver,ElasticNet,1405873,6.0,8.8489
+mouse,liver,ElasticNet,1405874,6.0,5.3426
+mouse,liver,ElasticNet,1405875,6.0,5.6047
+mouse,liver,ElasticNet,1405876,6.0,5.7809
+mouse,liver,ElasticNet,1405877,6.0,3.7103
+mouse,liver,ElasticNet,1405878,6.0,7.2641
+mouse,liver,ElasticNet,1405879,6.0,9.1762
+mouse,liver,ElasticNet,1405880,6.0,5.9451
+mouse,liver,ElasticNet,1405881,6.0,6.5197
+mouse,liver,ElasticNet,1405882,12.0,12.7731
+mouse,liver,ElasticNet,1405883,12.0,12.0081
+mouse,liver,ElasticNet,1405884,6.0,7.7846
+mouse,liver,ElasticNet,1405885,12.0,14.5241
+mouse,liver,ElasticNet,1405886,12.0,14.1479
+mouse,liver,ElasticNet,1405887,12.0,15.3723
+mouse,liver,ElasticNet,1405888,18.0,18.2006
+mouse,liver,ElasticNet,1405889,18.0,19.6584
+mouse,liver,ElasticNet,1405890,12.0,10.9288
+mouse,liver,ElasticNet,1405891,12.0,13.4917
+mouse,liver,ElasticNet,1405892,12.0,13.3721
+mouse,liver,ElasticNet,1405893,18.0,19.3548
+mouse,liver,ElasticNet,1405900,12.0,12.6073
+mouse,liver,ElasticNet,1405901,6.0,6.7308
+mouse,liver,ElasticNet,1405902,12.0,13.7475
+mouse,liver,ElasticNet,1405903,12.0,12.3983
+mouse,liver,ElasticNet,1405904,12.0,12.932
+mouse,liver,ElasticNet,1405905,12.0,14.3761
+mouse,liver,ElasticNet,1405906,12.0,13.3172
+mouse,liver,ElasticNet,1405907,12.0,13.9951
+mouse,liver,ElasticNet,1405908,6.0,6.5069
+mouse,liver,ElasticNet,1405909,6.0,4.0839
+mouse,liver,XGBoost,1405801,27.0,18.1727
+mouse,liver,XGBoost,1405802,27.0,23.8099
+mouse,liver,XGBoost,1405803,24.0,20.5454
+mouse,liver,XGBoost,1405804,27.0,25.5084
+mouse,liver,XGBoost,1405805,27.0,24.1073
+mouse,liver,XGBoost,1405807,27.0,24.8745
+mouse,liver,XGBoost,1405808,27.0,24.7733
+mouse,liver,XGBoost,1405809,27.0,23.4357
+mouse,liver,XGBoost,1405810,27.0,25.1779
+mouse,liver,XGBoost,1405811,27.0,26.3138
+mouse,liver,XGBoost,1405812,27.0,25.8953
+mouse,liver,XGBoost,1405813,27.0,26.1926
+mouse,liver,XGBoost,1405814,27.0,24.3567
+mouse,liver,XGBoost,1405815,27.0,21.7418
+mouse,liver,XGBoost,1405816,27.0,24.4484
+mouse,liver,XGBoost,1405817,27.0,23.0455
+mouse,liver,XGBoost,1405818,27.0,26.4824
+mouse,liver,XGBoost,1405819,27.0,25.7126
+mouse,liver,XGBoost,1405820,27.0,26.6651
+mouse,liver,XGBoost,1405821,27.0,25.6261
+mouse,liver,XGBoost,1405822,24.0,21.9553
+mouse,liver,XGBoost,1405823,24.0,19.547
+mouse,liver,XGBoost,1405824,24.0,22.9919
+mouse,liver,XGBoost,1405825,24.0,21.2163
+mouse,liver,XGBoost,1405826,24.0,23.077
+mouse,liver,XGBoost,1405827,21.0,24.2393
+mouse,liver,XGBoost,1405828,21.0,19.6518
+mouse,liver,XGBoost,1405829,21.0,22.6898
+mouse,liver,XGBoost,1405830,21.0,20.1183
+mouse,liver,XGBoost,1405831,24.0,22.2613
+mouse,liver,XGBoost,1405832,24.0,22.8833
+mouse,liver,XGBoost,1405833,24.0,17.8691
+mouse,liver,XGBoost,1405834,24.0,21.8316
+mouse,liver,XGBoost,1405835,24.0,26.4656
+mouse,liver,XGBoost,1405836,24.0,20.9806
+mouse,liver,XGBoost,1405838,24.0,19.9619
+mouse,liver,XGBoost,1405839,21.0,21.6982
+mouse,liver,XGBoost,1405840,24.0,23.9803
+mouse,liver,XGBoost,1405841,24.0,25.7318
+mouse,liver,XGBoost,1405842,24.0,24.2695
+mouse,liver,XGBoost,1405843,24.0,23.7814
+mouse,liver,XGBoost,1405844,24.0,21.4665
+mouse,liver,XGBoost,1405845,24.0,18.9822
+mouse,liver,XGBoost,1405846,18.0,18.6083
+mouse,liver,XGBoost,1405847,18.0,15.7375
+mouse,liver,XGBoost,1405848,18.0,22.9344
+mouse,liver,XGBoost,1405849,18.0,20.6955
+mouse,liver,XGBoost,1405850,18.0,13.1827
+mouse,liver,XGBoost,1405851,18.0,18.3487
+mouse,liver,XGBoost,1405852,18.0,17.616
+mouse,liver,XGBoost,1405853,21.0,21.9764
+mouse,liver,XGBoost,1405854,18.0,18.9237
+mouse,liver,XGBoost,1405855,18.0,20.5515
+mouse,liver,XGBoost,1405856,18.0,20.7514
+mouse,liver,XGBoost,1405857,18.0,15.6361
+mouse,liver,XGBoost,1405859,21.0,24.5971
+mouse,liver,XGBoost,1405860,21.0,18.2265
+mouse,liver,XGBoost,1405861,21.0,19.4713
+mouse,liver,XGBoost,1405862,18.0,16.7934
+mouse,liver,XGBoost,1405863,18.0,15.9196
+mouse,liver,XGBoost,1405864,21.0,22.5582
+mouse,liver,XGBoost,1405865,21.0,19.7714
+mouse,liver,XGBoost,1405866,21.0,23.0741
+mouse,liver,XGBoost,1405867,21.0,21.7919
+mouse,liver,XGBoost,1405868,21.0,21.7809
+mouse,liver,XGBoost,1405869,21.0,21.5844
+mouse,liver,XGBoost,1405870,6.0,7.6077
+mouse,liver,XGBoost,1405871,6.0,7.8191
+mouse,liver,XGBoost,1405872,6.0,6.534
+mouse,liver,XGBoost,1405873,6.0,9.617
+mouse,liver,XGBoost,1405874,6.0,7.5094
+mouse,liver,XGBoost,1405875,6.0,10.2327
+mouse,liver,XGBoost,1405876,6.0,7.6043
+mouse,liver,XGBoost,1405877,6.0,7.1846
+mouse,liver,XGBoost,1405878,6.0,6.5017
+mouse,liver,XGBoost,1405879,6.0,10.2434
+mouse,liver,XGBoost,1405880,6.0,8.5914
+mouse,liver,XGBoost,1405881,6.0,9.8365
+mouse,liver,XGBoost,1405882,12.0,14.9853
+mouse,liver,XGBoost,1405883,12.0,12.9715
+mouse,liver,XGBoost,1405884,6.0,6.7938
+mouse,liver,XGBoost,1405885,12.0,13.6102
+mouse,liver,XGBoost,1405886,12.0,12.2356
+mouse,liver,XGBoost,1405887,12.0,20.6431
+mouse,liver,XGBoost,1405888,18.0,19.4648
+mouse,liver,XGBoost,1405889,18.0,21.6936
+mouse,liver,XGBoost,1405890,12.0,11.8025
+mouse,liver,XGBoost,1405891,12.0,14.105
+mouse,liver,XGBoost,1405892,12.0,14.3523
+mouse,liver,XGBoost,1405893,18.0,19.382
+mouse,liver,XGBoost,1405900,12.0,14.2142
+mouse,liver,XGBoost,1405901,6.0,7.3414
+mouse,liver,XGBoost,1405902,12.0,13.9231
+mouse,liver,XGBoost,1405903,12.0,11.328
+mouse,liver,XGBoost,1405904,12.0,9.8252
+mouse,liver,XGBoost,1405905,12.0,16.7797
+mouse,liver,XGBoost,1405906,12.0,13.4984
+mouse,liver,XGBoost,1405907,12.0,20.1581
+mouse,liver,XGBoost,1405908,6.0,8.0481
+mouse,liver,XGBoost,1405909,6.0,7.4968
+mouse,liver,MLP,1405801,27.0,15.2377
+mouse,liver,MLP,1405802,27.0,23.8632
+mouse,liver,MLP,1405803,24.0,22.2114
+mouse,liver,MLP,1405804,27.0,27.1924
+mouse,liver,MLP,1405805,27.0,24.1471
+mouse,liver,MLP,1405807,27.0,25.8065
+mouse,liver,MLP,1405808,27.0,30.916
+mouse,liver,MLP,1405809,27.0,23.6287
+mouse,liver,MLP,1405810,27.0,19.8957
+mouse,liver,MLP,1405811,27.0,33.5439
+mouse,liver,MLP,1405812,27.0,26.4723
+mouse,liver,MLP,1405813,27.0,25.9773
+mouse,liver,MLP,1405814,27.0,21.0702
+mouse,liver,MLP,1405815,27.0,17.6488
+mouse,liver,MLP,1405816,27.0,15.5431
+mouse,liver,MLP,1405817,27.0,24.6798
+mouse,liver,MLP,1405818,27.0,25.8641
+mouse,liver,MLP,1405819,27.0,15.2011
+mouse,liver,MLP,1405820,27.0,34.0752
+mouse,liver,MLP,1405821,27.0,21.2816
+mouse,liver,MLP,1405822,24.0,21.0507
+mouse,liver,MLP,1405823,24.0,16.3065
+mouse,liver,MLP,1405824,24.0,22.9638
+mouse,liver,MLP,1405825,24.0,19.0116
+mouse,liver,MLP,1405826,24.0,25.074
+mouse,liver,MLP,1405827,21.0,28.0312
+mouse,liver,MLP,1405828,21.0,20.759
+mouse,liver,MLP,1405829,21.0,20.4729
+mouse,liver,MLP,1405830,21.0,18.8483
+mouse,liver,MLP,1405831,24.0,15.0307
+mouse,liver,MLP,1405832,24.0,21.9238
+mouse,liver,MLP,1405833,24.0,17.0511
+mouse,liver,MLP,1405834,24.0,18.2145
+mouse,liver,MLP,1405835,24.0,21.8691
+mouse,liver,MLP,1405836,24.0,20.844
+mouse,liver,MLP,1405838,24.0,23.475
+mouse,liver,MLP,1405839,21.0,22.1115
+mouse,liver,MLP,1405840,24.0,23.2939
+mouse,liver,MLP,1405841,24.0,19.9973
+mouse,liver,MLP,1405842,24.0,23.4619
+mouse,liver,MLP,1405843,24.0,37.7438
+mouse,liver,MLP,1405844,24.0,21.3781
+mouse,liver,MLP,1405845,24.0,18.1193
+mouse,liver,MLP,1405846,18.0,13.4741
+mouse,liver,MLP,1405847,18.0,17.6924
+mouse,liver,MLP,1405848,18.0,22.8023
+mouse,liver,MLP,1405849,18.0,18.8104
+mouse,liver,MLP,1405850,18.0,11.803
+mouse,liver,MLP,1405851,18.0,18.2115
+mouse,liver,MLP,1405852,18.0,19.9286
+mouse,liver,MLP,1405853,21.0,21.7614
+mouse,liver,MLP,1405854,18.0,18.1471
+mouse,liver,MLP,1405855,18.0,14.0471
+mouse,liver,MLP,1405856,18.0,14.8097
+mouse,liver,MLP,1405857,18.0,15.6652
+mouse,liver,MLP,1405859,21.0,23.6324
+mouse,liver,MLP,1405860,21.0,20.5413
+mouse,liver,MLP,1405861,21.0,17.7812
+mouse,liver,MLP,1405862,18.0,15.2193
+mouse,liver,MLP,1405863,18.0,17.1027
+mouse,liver,MLP,1405864,21.0,21.8569
+mouse,liver,MLP,1405865,21.0,20.3874
+mouse,liver,MLP,1405866,21.0,23.7364
+mouse,liver,MLP,1405867,21.0,22.678
+mouse,liver,MLP,1405868,21.0,17.4662
+mouse,liver,MLP,1405869,21.0,19.175
+mouse,liver,MLP,1405870,6.0,10.1197
+mouse,liver,MLP,1405871,6.0,6.5752
+mouse,liver,MLP,1405872,6.0,7.1289
+mouse,liver,MLP,1405873,6.0,13.8273
+mouse,liver,MLP,1405874,6.0,7.5681
+mouse,liver,MLP,1405875,6.0,7.6827
+mouse,liver,MLP,1405876,6.0,1.3939
+mouse,liver,MLP,1405877,6.0,7.7216
+mouse,liver,MLP,1405878,6.0,6.1127
+mouse,liver,MLP,1405879,6.0,7.5318
+mouse,liver,MLP,1405880,6.0,10.4739
+mouse,liver,MLP,1405881,6.0,13.3585
+mouse,liver,MLP,1405882,12.0,12.357
+mouse,liver,MLP,1405883,12.0,8.1408
+mouse,liver,MLP,1405884,6.0,5.7556
+mouse,liver,MLP,1405885,12.0,16.7133
+mouse,liver,MLP,1405886,12.0,16.0839
+mouse,liver,MLP,1405887,12.0,15.6614
+mouse,liver,MLP,1405888,18.0,17.8548
+mouse,liver,MLP,1405889,18.0,18.7018
+mouse,liver,MLP,1405890,12.0,7.3913
+mouse,liver,MLP,1405891,12.0,12.8443
+mouse,liver,MLP,1405892,12.0,9.3871
+mouse,liver,MLP,1405893,18.0,25.3055
+mouse,liver,MLP,1405900,12.0,13.748
+mouse,liver,MLP,1405901,6.0,4.7036
+mouse,liver,MLP,1405902,12.0,16.5627
+mouse,liver,MLP,1405903,12.0,12.5132
+mouse,liver,MLP,1405904,12.0,10.409
+mouse,liver,MLP,1405905,12.0,14.4331
+mouse,liver,MLP,1405906,12.0,13.0394
+mouse,liver,MLP,1405907,12.0,14.1468
+mouse,liver,MLP,1405908,6.0,7.2144
+mouse,liver,MLP,1405909,6.0,7.067
+mouse,left ventricle,ElasticNet,1382062,27.0,26.1343
+mouse,left ventricle,ElasticNet,1382064,27.0,27.6621
+mouse,left ventricle,ElasticNet,1382066,27.0,26.8042
+mouse,left ventricle,ElasticNet,1382068,27.0,25.1355
+mouse,left ventricle,ElasticNet,1382069,18.0,17.6884
+mouse,left ventricle,ElasticNet,1382070,18.0,17.9599
+mouse,left ventricle,ElasticNet,1382071,18.0,21.0907
+mouse,left ventricle,ElasticNet,1382072,18.0,17.1045
+mouse,left ventricle,ElasticNet,1382073,18.0,16.2545
+mouse,left ventricle,ElasticNet,1382074,18.0,19.0659
+mouse,left ventricle,ElasticNet,1382075,18.0,18.5464
+mouse,left ventricle,ElasticNet,1382076,18.0,18.0041
+mouse,left ventricle,ElasticNet,1382077,18.0,18.8778
+mouse,left ventricle,ElasticNet,1382078,18.0,19.5528
+mouse,left ventricle,ElasticNet,1382079,18.0,17.9256
+mouse,left ventricle,ElasticNet,1382080,18.0,18.2732
+mouse,left ventricle,ElasticNet,1382092,24.0,24.8767
+mouse,left ventricle,ElasticNet,1382093,24.0,24.1798
+mouse,left ventricle,ElasticNet,1382095,24.0,23.1835
+mouse,left ventricle,ElasticNet,1382096,24.0,23.5776
+mouse,left ventricle,ElasticNet,1382097,24.0,24.0804
+mouse,left ventricle,ElasticNet,1382098,27.0,26.9309
+mouse,left ventricle,ElasticNet,1382099,27.0,26.772
+mouse,left ventricle,ElasticNet,1382100,27.0,27.5853
+mouse,left ventricle,ElasticNet,1382102,24.0,22.6551
+mouse,left ventricle,ElasticNet,1382103,27.0,25.8438
+mouse,left ventricle,ElasticNet,1382206,21.0,21.5365
+mouse,left ventricle,ElasticNet,1382207,21.0,21.3679
+mouse,left ventricle,ElasticNet,1382208,21.0,21.4109
+mouse,left ventricle,ElasticNet,1382209,21.0,23.7924
+mouse,left ventricle,ElasticNet,1382210,21.0,21.7492
+mouse,left ventricle,ElasticNet,1382211,21.0,21.1241
+mouse,left ventricle,ElasticNet,1382212,21.0,22.1622
+mouse,left ventricle,ElasticNet,1382213,21.0,20.5043
+mouse,left ventricle,ElasticNet,1382214,21.0,21.7376
+mouse,left ventricle,ElasticNet,1382216,27.0,23.8913
+mouse,left ventricle,ElasticNet,1382217,21.0,21.6318
+mouse,left ventricle,ElasticNet,1382219,27.0,27.82
+mouse,left ventricle,ElasticNet,1382220,27.0,24.8784
+mouse,left ventricle,ElasticNet,1382222,27.0,25.8436
+mouse,left ventricle,ElasticNet,1382224,27.0,25.7609
+mouse,left ventricle,ElasticNet,1382227,27.0,26.668
+mouse,left ventricle,ElasticNet,1382228,27.0,27.5073
+mouse,left ventricle,ElasticNet,1382229,27.0,27.8256
+mouse,left ventricle,ElasticNet,1382233,24.0,25.7819
+mouse,left ventricle,ElasticNet,1382234,27.0,28.5903
+mouse,left ventricle,ElasticNet,1382235,27.0,26.0234
+mouse,left ventricle,ElasticNet,1382237,24.0,23.2232
+mouse,left ventricle,ElasticNet,1382240,27.0,25.7829
+mouse,left ventricle,ElasticNet,1382243,27.0,26.8864
+mouse,left ventricle,ElasticNet,1382256,6.0,6.8836
+mouse,left ventricle,ElasticNet,1382257,24.0,23.6744
+mouse,left ventricle,ElasticNet,1382258,18.0,18.2704
+mouse,left ventricle,ElasticNet,1382259,18.0,16.8043
+mouse,left ventricle,ElasticNet,1382260,24.0,26.3393
+mouse,left ventricle,ElasticNet,1382261,24.0,23.1902
+mouse,left ventricle,ElasticNet,1382262,24.0,22.9194
+mouse,left ventricle,ElasticNet,1382263,24.0,25.4249
+mouse,left ventricle,ElasticNet,1382264,24.0,23.772
+mouse,left ventricle,ElasticNet,1382265,24.0,25.2531
+mouse,left ventricle,ElasticNet,1382268,24.0,23.2588
+mouse,left ventricle,ElasticNet,1382293,12.0,12.7575
+mouse,left ventricle,ElasticNet,1382294,18.0,17.8552
+mouse,left ventricle,ElasticNet,1382295,18.0,19.4765
+mouse,left ventricle,ElasticNet,1382296,12.0,11.4872
+mouse,left ventricle,ElasticNet,1382297,12.0,12.3977
+mouse,left ventricle,ElasticNet,1382298,12.0,13.0096
+mouse,left ventricle,ElasticNet,1382299,6.0,5.9606
+mouse,left ventricle,ElasticNet,1382300,6.0,5.8059
+mouse,left ventricle,ElasticNet,1382301,6.0,7.7287
+mouse,left ventricle,ElasticNet,1382383,6.0,4.7651
+mouse,left ventricle,ElasticNet,1382384,6.0,5.9505
+mouse,left ventricle,ElasticNet,1382385,6.0,5.309
+mouse,left ventricle,ElasticNet,1382386,6.0,5.775
+mouse,left ventricle,ElasticNet,1382387,6.0,4.6732
+mouse,left ventricle,ElasticNet,1382388,6.0,7.1315
+mouse,left ventricle,ElasticNet,1382389,6.0,6.4806
+mouse,left ventricle,ElasticNet,1382390,6.0,5.8996
+mouse,left ventricle,ElasticNet,1382391,6.0,6.569
+mouse,left ventricle,ElasticNet,1382392,6.0,5.4281
+mouse,left ventricle,ElasticNet,1382393,6.0,7.3878
+mouse,left ventricle,ElasticNet,1382394,6.0,6.7022
+mouse,left ventricle,ElasticNet,1382400,21.0,22.3646
+mouse,left ventricle,ElasticNet,1382413,12.0,12.2169
+mouse,left ventricle,ElasticNet,1382416,12.0,13.2649
+mouse,left ventricle,ElasticNet,1382417,12.0,12.1958
+mouse,left ventricle,ElasticNet,1382418,12.0,12.0048
+mouse,left ventricle,ElasticNet,1382419,12.0,13.0758
+mouse,left ventricle,ElasticNet,1382420,12.0,13.6479
+mouse,left ventricle,ElasticNet,1382421,12.0,12.5752
+mouse,left ventricle,ElasticNet,1382431,24.0,21.2895
+mouse,left ventricle,ElasticNet,1382432,21.0,21.5303
+mouse,left ventricle,ElasticNet,1382433,21.0,21.2503
+mouse,left ventricle,ElasticNet,1382434,24.0,22.6367
+mouse,left ventricle,ElasticNet,1382435,24.0,23.9675
+mouse,left ventricle,ElasticNet,1382436,24.0,22.3069
+mouse,left ventricle,ElasticNet,1382437,12.0,12.6663
+mouse,left ventricle,ElasticNet,1382438,12.0,13.7996
+mouse,left ventricle,ElasticNet,1382439,12.0,12.018
+mouse,left ventricle,ElasticNet,1382440,21.0,20.1601
+mouse,left ventricle,ElasticNet,1382441,21.0,20.4059
+mouse,left ventricle,ElasticNet,1382442,21.0,20.5651
+mouse,left ventricle,ElasticNet,1382444,12.0,12.1276
+mouse,left ventricle,ElasticNet,1382445,12.0,12.2848
+mouse,left ventricle,XGBoost,1382062,27.0,24.7796
+mouse,left ventricle,XGBoost,1382064,27.0,26.1761
+mouse,left ventricle,XGBoost,1382066,27.0,25.8769
+mouse,left ventricle,XGBoost,1382068,27.0,25.4515
+mouse,left ventricle,XGBoost,1382069,18.0,17.2785
+mouse,left ventricle,XGBoost,1382070,18.0,17.1877
+mouse,left ventricle,XGBoost,1382071,18.0,21.9503
+mouse,left ventricle,XGBoost,1382072,18.0,16.6801
+mouse,left ventricle,XGBoost,1382073,18.0,18.1646
+mouse,left ventricle,XGBoost,1382074,18.0,19.162
+mouse,left ventricle,XGBoost,1382075,18.0,19.5456
+mouse,left ventricle,XGBoost,1382076,18.0,17.936
+mouse,left ventricle,XGBoost,1382077,18.0,19.5773
+mouse,left ventricle,XGBoost,1382078,18.0,20.8776
+mouse,left ventricle,XGBoost,1382079,18.0,19.3037
+mouse,left ventricle,XGBoost,1382080,18.0,19.1144
+mouse,left ventricle,XGBoost,1382092,24.0,23.4117
+mouse,left ventricle,XGBoost,1382093,24.0,23.919
+mouse,left ventricle,XGBoost,1382095,24.0,23.0408
+mouse,left ventricle,XGBoost,1382096,24.0,23.6529
+mouse,left ventricle,XGBoost,1382097,24.0,24.8365
+mouse,left ventricle,XGBoost,1382098,27.0,26.1455
+mouse,left ventricle,XGBoost,1382099,27.0,25.9238
+mouse,left ventricle,XGBoost,1382100,27.0,26.5058
+mouse,left ventricle,XGBoost,1382102,24.0,23.4987
+mouse,left ventricle,XGBoost,1382103,27.0,25.841
+mouse,left ventricle,XGBoost,1382206,21.0,20.5649
+mouse,left ventricle,XGBoost,1382207,21.0,20.8614
+mouse,left ventricle,XGBoost,1382208,21.0,21.0181
+mouse,left ventricle,XGBoost,1382209,21.0,23.8495
+mouse,left ventricle,XGBoost,1382210,21.0,21.0939
+mouse,left ventricle,XGBoost,1382211,21.0,21.7539
+mouse,left ventricle,XGBoost,1382212,21.0,21.78
+mouse,left ventricle,XGBoost,1382213,21.0,19.9656
+mouse,left ventricle,XGBoost,1382214,21.0,21.0787
+mouse,left ventricle,XGBoost,1382216,27.0,24.7176
+mouse,left ventricle,XGBoost,1382217,21.0,22.1935
+mouse,left ventricle,XGBoost,1382219,27.0,25.6535
+mouse,left ventricle,XGBoost,1382220,27.0,25.2198
+mouse,left ventricle,XGBoost,1382222,27.0,24.07
+mouse,left ventricle,XGBoost,1382224,27.0,22.0701
+mouse,left ventricle,XGBoost,1382227,27.0,25.6409
+mouse,left ventricle,XGBoost,1382228,27.0,25.6526
+mouse,left ventricle,XGBoost,1382229,27.0,25.3574
+mouse,left ventricle,XGBoost,1382233,24.0,25.3812
+mouse,left ventricle,XGBoost,1382234,27.0,24.3539
+mouse,left ventricle,XGBoost,1382235,27.0,25.1156
+mouse,left ventricle,XGBoost,1382237,24.0,23.5443
+mouse,left ventricle,XGBoost,1382240,27.0,24.1759
+mouse,left ventricle,XGBoost,1382243,27.0,25.7052
+mouse,left ventricle,XGBoost,1382256,6.0,7.0995
+mouse,left ventricle,XGBoost,1382257,24.0,23.3518
+mouse,left ventricle,XGBoost,1382258,18.0,17.8541
+mouse,left ventricle,XGBoost,1382259,18.0,16.1763
+mouse,left ventricle,XGBoost,1382260,24.0,25.6317
+mouse,left ventricle,XGBoost,1382261,24.0,23.842
+mouse,left ventricle,XGBoost,1382262,24.0,24.2756
+mouse,left ventricle,XGBoost,1382263,24.0,23.6983
+mouse,left ventricle,XGBoost,1382264,24.0,21.5824
+mouse,left ventricle,XGBoost,1382265,24.0,25.6308
+mouse,left ventricle,XGBoost,1382268,24.0,23.477
+mouse,left ventricle,XGBoost,1382293,12.0,12.231
+mouse,left ventricle,XGBoost,1382294,18.0,18.9393
+mouse,left ventricle,XGBoost,1382295,18.0,18.6149
+mouse,left ventricle,XGBoost,1382296,12.0,9.7395
+mouse,left ventricle,XGBoost,1382297,12.0,11.9132
+mouse,left ventricle,XGBoost,1382298,12.0,12.693
+mouse,left ventricle,XGBoost,1382299,6.0,6.6015
+mouse,left ventricle,XGBoost,1382300,6.0,6.342
+mouse,left ventricle,XGBoost,1382301,6.0,6.3826
+mouse,left ventricle,XGBoost,1382383,6.0,6.078
+mouse,left ventricle,XGBoost,1382384,6.0,5.8383
+mouse,left ventricle,XGBoost,1382385,6.0,5.9388
+mouse,left ventricle,XGBoost,1382386,6.0,6.4912
+mouse,left ventricle,XGBoost,1382387,6.0,5.9982
+mouse,left ventricle,XGBoost,1382388,6.0,7.9708
+mouse,left ventricle,XGBoost,1382389,6.0,6.1998
+mouse,left ventricle,XGBoost,1382390,6.0,6.1022
+mouse,left ventricle,XGBoost,1382391,6.0,6.5289
+mouse,left ventricle,XGBoost,1382392,6.0,7.6692
+mouse,left ventricle,XGBoost,1382393,6.0,6.6026
+mouse,left ventricle,XGBoost,1382394,6.0,6.2461
+mouse,left ventricle,XGBoost,1382400,21.0,22.1767
+mouse,left ventricle,XGBoost,1382413,12.0,12.4509
+mouse,left ventricle,XGBoost,1382416,12.0,12.7234
+mouse,left ventricle,XGBoost,1382417,12.0,12.9661
+mouse,left ventricle,XGBoost,1382418,12.0,12.039
+mouse,left ventricle,XGBoost,1382419,12.0,12.7208
+mouse,left ventricle,XGBoost,1382420,12.0,15.5181
+mouse,left ventricle,XGBoost,1382421,12.0,11.8503
+mouse,left ventricle,XGBoost,1382431,24.0,19.7311
+mouse,left ventricle,XGBoost,1382432,21.0,20.7996
+mouse,left ventricle,XGBoost,1382433,21.0,20.0324
+mouse,left ventricle,XGBoost,1382434,24.0,22.5055
+mouse,left ventricle,XGBoost,1382435,24.0,23.777
+mouse,left ventricle,XGBoost,1382436,24.0,23.0396
+mouse,left ventricle,XGBoost,1382437,12.0,11.2935
+mouse,left ventricle,XGBoost,1382438,12.0,12.9651
+mouse,left ventricle,XGBoost,1382439,12.0,12.0373
+mouse,left ventricle,XGBoost,1382440,21.0,20.7715
+mouse,left ventricle,XGBoost,1382441,21.0,19.6457
+mouse,left ventricle,XGBoost,1382442,21.0,21.1228
+mouse,left ventricle,XGBoost,1382444,12.0,11.7627
+mouse,left ventricle,XGBoost,1382445,12.0,11.8699
+mouse,left ventricle,MLP,1382062,27.0,19.0505
+mouse,left ventricle,MLP,1382064,27.0,33.5031
+mouse,left ventricle,MLP,1382066,27.0,17.9526
+mouse,left ventricle,MLP,1382068,27.0,19.2454
+mouse,left ventricle,MLP,1382069,18.0,17.2875
+mouse,left ventricle,MLP,1382070,18.0,11.3537
+mouse,left ventricle,MLP,1382071,18.0,12.8685
+mouse,left ventricle,MLP,1382072,18.0,12.0194
+mouse,left ventricle,MLP,1382073,18.0,12.4064
+mouse,left ventricle,MLP,1382074,18.0,13.7281
+mouse,left ventricle,MLP,1382075,18.0,14.8561
+mouse,left ventricle,MLP,1382076,18.0,4.9686
+mouse,left ventricle,MLP,1382077,18.0,10.5537
+mouse,left ventricle,MLP,1382078,18.0,16.1143
+mouse,left ventricle,MLP,1382079,18.0,8.5891
+mouse,left ventricle,MLP,1382080,18.0,11.5716
+mouse,left ventricle,MLP,1382092,24.0,23.138
+mouse,left ventricle,MLP,1382093,24.0,16.2268
+mouse,left ventricle,MLP,1382095,24.0,18.4456
+mouse,left ventricle,MLP,1382096,24.0,19.6596
+mouse,left ventricle,MLP,1382097,24.0,19.9486
+mouse,left ventricle,MLP,1382098,27.0,43.2622
+mouse,left ventricle,MLP,1382099,27.0,22.7269
+mouse,left ventricle,MLP,1382100,27.0,26.614
+mouse,left ventricle,MLP,1382102,24.0,20.0708
+mouse,left ventricle,MLP,1382103,27.0,22.8911
+mouse,left ventricle,MLP,1382206,21.0,16.9553
+mouse,left ventricle,MLP,1382207,21.0,13.9975
+mouse,left ventricle,MLP,1382208,21.0,29.8302
+mouse,left ventricle,MLP,1382209,21.0,12.2794
+mouse,left ventricle,MLP,1382210,21.0,9.5908
+mouse,left ventricle,MLP,1382211,21.0,10.9854
+mouse,left ventricle,MLP,1382212,21.0,12.2055
+mouse,left ventricle,MLP,1382213,21.0,18.3037
+mouse,left ventricle,MLP,1382214,21.0,14.9962
+mouse,left ventricle,MLP,1382216,27.0,17.6993
+mouse,left ventricle,MLP,1382217,21.0,15.898
+mouse,left ventricle,MLP,1382219,27.0,26.2954
+mouse,left ventricle,MLP,1382220,27.0,13.5288
+mouse,left ventricle,MLP,1382222,27.0,19.0379
+mouse,left ventricle,MLP,1382224,27.0,15.0686
+mouse,left ventricle,MLP,1382227,27.0,15.6927
+mouse,left ventricle,MLP,1382228,27.0,30.2504
+mouse,left ventricle,MLP,1382229,27.0,16.4742
+mouse,left ventricle,MLP,1382233,24.0,25.003
+mouse,left ventricle,MLP,1382234,27.0,15.5836
+mouse,left ventricle,MLP,1382235,27.0,9.8158
+mouse,left ventricle,MLP,1382237,24.0,15.4884
+mouse,left ventricle,MLP,1382240,27.0,21.7332
+mouse,left ventricle,MLP,1382243,27.0,17.769
+mouse,left ventricle,MLP,1382256,6.0,9.4657
+mouse,left ventricle,MLP,1382257,24.0,8.1554
+mouse,left ventricle,MLP,1382258,18.0,12.5522
+mouse,left ventricle,MLP,1382259,18.0,10.8473
+mouse,left ventricle,MLP,1382260,24.0,19.0118
+mouse,left ventricle,MLP,1382261,24.0,25.7258
+mouse,left ventricle,MLP,1382262,24.0,19.2198
+mouse,left ventricle,MLP,1382263,24.0,19.3332
+mouse,left ventricle,MLP,1382264,24.0,17.0994
+mouse,left ventricle,MLP,1382265,24.0,19.9653
+mouse,left ventricle,MLP,1382268,24.0,16.6065
+mouse,left ventricle,MLP,1382293,12.0,16.4906
+mouse,left ventricle,MLP,1382294,18.0,12.3288
+mouse,left ventricle,MLP,1382295,18.0,5.3437
+mouse,left ventricle,MLP,1382296,12.0,10.3735
+mouse,left ventricle,MLP,1382297,12.0,6.3903
+mouse,left ventricle,MLP,1382298,12.0,15.1977
+mouse,left ventricle,MLP,1382299,6.0,9.9272
+mouse,left ventricle,MLP,1382300,6.0,9.8466
+mouse,left ventricle,MLP,1382301,6.0,1.6081
+mouse,left ventricle,MLP,1382383,6.0,3.5885
+mouse,left ventricle,MLP,1382384,6.0,4.3856
+mouse,left ventricle,MLP,1382385,6.0,5.3783
+mouse,left ventricle,MLP,1382386,6.0,7.7573
+mouse,left ventricle,MLP,1382387,6.0,6.9295
+mouse,left ventricle,MLP,1382388,6.0,5.0722
+mouse,left ventricle,MLP,1382389,6.0,6.0673
+mouse,left ventricle,MLP,1382390,6.0,10.0108
+mouse,left ventricle,MLP,1382391,6.0,10.8342
+mouse,left ventricle,MLP,1382392,6.0,2.9052
+mouse,left ventricle,MLP,1382393,6.0,2.6341
+mouse,left ventricle,MLP,1382394,6.0,5.35
+mouse,left ventricle,MLP,1382400,21.0,22.902
+mouse,left ventricle,MLP,1382413,12.0,10.359
+mouse,left ventricle,MLP,1382416,12.0,10.8455
+mouse,left ventricle,MLP,1382417,12.0,11.7099
+mouse,left ventricle,MLP,1382418,12.0,9.6501
+mouse,left ventricle,MLP,1382419,12.0,4.0936
+mouse,left ventricle,MLP,1382420,12.0,5.2323
+mouse,left ventricle,MLP,1382421,12.0,13.1391
+mouse,left ventricle,MLP,1382431,24.0,16.8803
+mouse,left ventricle,MLP,1382432,21.0,9.1236
+mouse,left ventricle,MLP,1382433,21.0,12.1717
+mouse,left ventricle,MLP,1382434,24.0,4.8856
+mouse,left ventricle,MLP,1382435,24.0,4.3581
+mouse,left ventricle,MLP,1382436,24.0,19.5721
+mouse,left ventricle,MLP,1382437,12.0,15.8289
+mouse,left ventricle,MLP,1382438,12.0,6.3918
+mouse,left ventricle,MLP,1382439,12.0,8.2114
+mouse,left ventricle,MLP,1382440,21.0,15.0891
+mouse,left ventricle,MLP,1382441,21.0,12.5806
+mouse,left ventricle,MLP,1382442,21.0,20.7259
+mouse,left ventricle,MLP,1382444,12.0,4.259
+mouse,left ventricle,MLP,1382445,12.0,2.2816
+mouse,kidney,ElasticNet,1398829,6.0,5.5223
+mouse,kidney,ElasticNet,1398830,6.0,5.3342
+mouse,kidney,ElasticNet,1398831,6.0,6.4831
+mouse,kidney,ElasticNet,1398832,6.0,6.9158
+mouse,kidney,ElasticNet,1398833,6.0,7.0447
+mouse,kidney,ElasticNet,1398834,6.0,5.7945
+mouse,kidney,ElasticNet,1398835,6.0,5.3183
+mouse,kidney,ElasticNet,1398836,6.0,5.908
+mouse,kidney,ElasticNet,1398837,6.0,5.4512
+mouse,kidney,ElasticNet,1398838,6.0,5.6159
+mouse,kidney,ElasticNet,1398839,6.0,5.8246
+mouse,kidney,ElasticNet,1398840,6.0,3.9351
+mouse,kidney,ElasticNet,1398841,12.0,12.6167
+mouse,kidney,ElasticNet,1398842,12.0,11.8111
+mouse,kidney,ElasticNet,1398843,12.0,12.5386
+mouse,kidney,ElasticNet,1398844,12.0,12.738
+mouse,kidney,ElasticNet,1398845,12.0,12.0055
+mouse,kidney,ElasticNet,1398846,12.0,13.9934
+mouse,kidney,ElasticNet,1398847,12.0,12.3151
+mouse,kidney,ElasticNet,1398848,12.0,12.9914
+mouse,kidney,ElasticNet,1398849,12.0,11.3674
+mouse,kidney,ElasticNet,1398850,12.0,12.7717
+mouse,kidney,ElasticNet,1398851,12.0,13.3954
+mouse,kidney,ElasticNet,1398852,12.0,13.3103
+mouse,kidney,ElasticNet,1398853,18.0,17.1825
+mouse,kidney,ElasticNet,1398854,18.0,21.3117
+mouse,kidney,ElasticNet,1398855,18.0,19.6141
+mouse,kidney,ElasticNet,1398856,18.0,18.7758
+mouse,kidney,ElasticNet,1398857,18.0,18.5611
+mouse,kidney,ElasticNet,1398858,18.0,18.4303
+mouse,kidney,ElasticNet,1398859,18.0,19.404
+mouse,kidney,ElasticNet,1398860,18.0,18.3833
+mouse,kidney,ElasticNet,1398861,18.0,18.4835
+mouse,kidney,ElasticNet,1398862,18.0,20.8741
+mouse,kidney,ElasticNet,1398863,18.0,21.5117
+mouse,kidney,ElasticNet,1398864,18.0,19.4479
+mouse,kidney,ElasticNet,1398865,21.0,21.0331
+mouse,kidney,ElasticNet,1398866,21.0,21.565
+mouse,kidney,ElasticNet,1398867,21.0,21.4959
+mouse,kidney,ElasticNet,1398868,21.0,19.9184
+mouse,kidney,ElasticNet,1398869,21.0,21.4973
+mouse,kidney,ElasticNet,1398870,21.0,21.7734
+mouse,kidney,ElasticNet,1398871,21.0,23.2139
+mouse,kidney,ElasticNet,1398872,21.0,21.2507
+mouse,kidney,ElasticNet,1398873,21.0,23.1209
+mouse,kidney,ElasticNet,1398874,21.0,21.4388
+mouse,kidney,ElasticNet,1398875,21.0,20.5783
+mouse,kidney,ElasticNet,1398876,21.0,23.1146
+mouse,kidney,ElasticNet,1398877,21.0,18.5906
+mouse,kidney,ElasticNet,1398878,21.0,22.26
+mouse,kidney,ElasticNet,1398879,21.0,22.439
+mouse,kidney,ElasticNet,1398880,21.0,19.2687
+mouse,kidney,ElasticNet,1398881,24.0,21.5407
+mouse,kidney,ElasticNet,1398882,24.0,24.0563
+mouse,kidney,ElasticNet,1398883,24.0,23.2449
+mouse,kidney,ElasticNet,1398884,24.0,21.9365
+mouse,kidney,ElasticNet,1398885,24.0,24.5268
+mouse,kidney,ElasticNet,1398886,24.0,21.9445
+mouse,kidney,ElasticNet,1398887,24.0,22.3137
+mouse,kidney,ElasticNet,1398888,24.0,23.8235
+mouse,kidney,ElasticNet,1398889,24.0,23.6543
+mouse,kidney,ElasticNet,1398890,24.0,23.3108
+mouse,kidney,ElasticNet,1398891,24.0,23.0931
+mouse,kidney,ElasticNet,1398892,27.0,23.7612
+mouse,kidney,ElasticNet,1398893,27.0,27.1761
+mouse,kidney,ElasticNet,1398894,27.0,24.8755
+mouse,kidney,ElasticNet,1398895,27.0,26.6909
+mouse,kidney,ElasticNet,1398896,27.0,24.8651
+mouse,kidney,ElasticNet,1398897,27.0,26.1369
+mouse,kidney,ElasticNet,1398898,27.0,23.399
+mouse,kidney,ElasticNet,1398899,27.0,27.8959
+mouse,kidney,ElasticNet,1398900,27.0,23.4779
+mouse,kidney,ElasticNet,1398901,27.0,22.4349
+mouse,kidney,ElasticNet,1398902,27.0,23.6969
+mouse,kidney,ElasticNet,1398903,27.0,25.7364
+mouse,kidney,ElasticNet,1398904,27.0,25.0935
+mouse,kidney,ElasticNet,1398905,27.0,22.6499
+mouse,kidney,ElasticNet,1398906,6.0,7.4675
+mouse,kidney,ElasticNet,1398907,6.0,5.5593
+mouse,kidney,ElasticNet,1398908,6.0,6.2879
+mouse,kidney,ElasticNet,1398909,6.0,7.8787
+mouse,kidney,ElasticNet,1398910,12.0,12.7618
+mouse,kidney,ElasticNet,1398911,12.0,13.2612
+mouse,kidney,ElasticNet,1398912,12.0,15.1746
+mouse,kidney,ElasticNet,1398913,12.0,13.1818
+mouse,kidney,ElasticNet,1398914,18.0,17.6925
+mouse,kidney,ElasticNet,1398915,18.0,18.5789
+mouse,kidney,ElasticNet,1398916,18.0,19.6375
+mouse,kidney,ElasticNet,1398917,18.0,18.0587
+mouse,kidney,ElasticNet,1398918,24.0,23.5046
+mouse,kidney,ElasticNet,1398919,24.0,23.383
+mouse,kidney,ElasticNet,1398920,24.0,22.6906
+mouse,kidney,ElasticNet,1398921,24.0,27.94
+mouse,kidney,ElasticNet,1398922,24.0,27.3327
+mouse,kidney,ElasticNet,1398923,24.0,24.576
+mouse,kidney,ElasticNet,1398924,24.0,24.0361
+mouse,kidney,ElasticNet,1398925,24.0,22.9478
+mouse,kidney,ElasticNet,1398926,24.0,25.4719
+mouse,kidney,ElasticNet,1398927,27.0,26.2642
+mouse,kidney,ElasticNet,1398928,27.0,31.2504
+mouse,kidney,ElasticNet,1398930,27.0,22.3596
+mouse,kidney,ElasticNet,1398931,27.0,24.8498
+mouse,kidney,ElasticNet,1398932,27.0,27.1301
+mouse,kidney,XGBoost,1398829,6.0,7.3975
+mouse,kidney,XGBoost,1398830,6.0,6.6442
+mouse,kidney,XGBoost,1398831,6.0,6.9913
+mouse,kidney,XGBoost,1398832,6.0,6.484
+mouse,kidney,XGBoost,1398833,6.0,8.3517
+mouse,kidney,XGBoost,1398834,6.0,6.9142
+mouse,kidney,XGBoost,1398835,6.0,9.728
+mouse,kidney,XGBoost,1398836,6.0,6.5149
+mouse,kidney,XGBoost,1398837,6.0,6.7711
+mouse,kidney,XGBoost,1398838,6.0,6.1681
+mouse,kidney,XGBoost,1398839,6.0,7.0069
+mouse,kidney,XGBoost,1398840,6.0,6.9318
+mouse,kidney,XGBoost,1398841,12.0,13.7154
+mouse,kidney,XGBoost,1398842,12.0,13.2799
+mouse,kidney,XGBoost,1398843,12.0,10.982
+mouse,kidney,XGBoost,1398844,12.0,13.1044
+mouse,kidney,XGBoost,1398845,12.0,10.264
+mouse,kidney,XGBoost,1398846,12.0,14.9117
+mouse,kidney,XGBoost,1398847,12.0,11.8068
+mouse,kidney,XGBoost,1398848,12.0,12.4977
+mouse,kidney,XGBoost,1398849,12.0,9.9673
+mouse,kidney,XGBoost,1398850,12.0,17.48
+mouse,kidney,XGBoost,1398851,12.0,11.8925
+mouse,kidney,XGBoost,1398852,12.0,11.4009
+mouse,kidney,XGBoost,1398853,18.0,16.8366
+mouse,kidney,XGBoost,1398854,18.0,21.7734
+mouse,kidney,XGBoost,1398855,18.0,17.9995
+mouse,kidney,XGBoost,1398856,18.0,16.4446
+mouse,kidney,XGBoost,1398857,18.0,17.859
+mouse,kidney,XGBoost,1398858,18.0,16.4844
+mouse,kidney,XGBoost,1398859,18.0,17.0063
+mouse,kidney,XGBoost,1398860,18.0,15.6504
+mouse,kidney,XGBoost,1398861,18.0,17.618
+mouse,kidney,XGBoost,1398862,18.0,22.3786
+mouse,kidney,XGBoost,1398863,18.0,24.806
+mouse,kidney,XGBoost,1398864,18.0,19.4921
+mouse,kidney,XGBoost,1398865,21.0,19.7267
+mouse,kidney,XGBoost,1398866,21.0,21.7674
+mouse,kidney,XGBoost,1398867,21.0,22.3698
+mouse,kidney,XGBoost,1398868,21.0,20.2313
+mouse,kidney,XGBoost,1398869,21.0,21.2118
+mouse,kidney,XGBoost,1398870,21.0,21.8563
+mouse,kidney,XGBoost,1398871,21.0,21.752
+mouse,kidney,XGBoost,1398872,21.0,21.4538
+mouse,kidney,XGBoost,1398873,21.0,23.0196
+mouse,kidney,XGBoost,1398874,21.0,23.7731
+mouse,kidney,XGBoost,1398875,21.0,21.9429
+mouse,kidney,XGBoost,1398876,21.0,24.2873
+mouse,kidney,XGBoost,1398877,21.0,19.756
+mouse,kidney,XGBoost,1398878,21.0,21.8878
+mouse,kidney,XGBoost,1398879,21.0,22.3306
+mouse,kidney,XGBoost,1398880,21.0,19.9467
+mouse,kidney,XGBoost,1398881,24.0,22.4779
+mouse,kidney,XGBoost,1398882,24.0,23.2761
+mouse,kidney,XGBoost,1398883,24.0,21.1858
+mouse,kidney,XGBoost,1398884,24.0,22.5761
+mouse,kidney,XGBoost,1398885,24.0,23.6972
+mouse,kidney,XGBoost,1398886,24.0,23.368
+mouse,kidney,XGBoost,1398887,24.0,19.3055
+mouse,kidney,XGBoost,1398888,24.0,22.6116
+mouse,kidney,XGBoost,1398889,24.0,23.6817
+mouse,kidney,XGBoost,1398890,24.0,23.5228
+mouse,kidney,XGBoost,1398891,24.0,21.6715
+mouse,kidney,XGBoost,1398892,27.0,24.6938
+mouse,kidney,XGBoost,1398893,27.0,26.0039
+mouse,kidney,XGBoost,1398894,27.0,26.0374
+mouse,kidney,XGBoost,1398895,27.0,24.77
+mouse,kidney,XGBoost,1398896,27.0,24.2624
+mouse,kidney,XGBoost,1398897,27.0,26.21
+mouse,kidney,XGBoost,1398898,27.0,25.1188
+mouse,kidney,XGBoost,1398899,27.0,26.2086
+mouse,kidney,XGBoost,1398900,27.0,23.1635
+mouse,kidney,XGBoost,1398901,27.0,23.8435
+mouse,kidney,XGBoost,1398902,27.0,21.8787
+mouse,kidney,XGBoost,1398903,27.0,23.7348
+mouse,kidney,XGBoost,1398904,27.0,24.5969
+mouse,kidney,XGBoost,1398905,27.0,24.1919
+mouse,kidney,XGBoost,1398906,6.0,7.5158
+mouse,kidney,XGBoost,1398907,6.0,6.9242
+mouse,kidney,XGBoost,1398908,6.0,7.7603
+mouse,kidney,XGBoost,1398909,6.0,8.0867
+mouse,kidney,XGBoost,1398910,12.0,10.5185
+mouse,kidney,XGBoost,1398911,12.0,15.0361
+mouse,kidney,XGBoost,1398912,12.0,10.7762
+mouse,kidney,XGBoost,1398913,12.0,8.6312
+mouse,kidney,XGBoost,1398914,18.0,17.4408
+mouse,kidney,XGBoost,1398915,18.0,18.6313
+mouse,kidney,XGBoost,1398916,18.0,16.0311
+mouse,kidney,XGBoost,1398917,18.0,16.8998
+mouse,kidney,XGBoost,1398918,24.0,22.1162
+mouse,kidney,XGBoost,1398919,24.0,24.405
+mouse,kidney,XGBoost,1398920,24.0,20.8318
+mouse,kidney,XGBoost,1398921,24.0,26.5552
+mouse,kidney,XGBoost,1398922,24.0,26.7927
+mouse,kidney,XGBoost,1398923,24.0,25.3219
+mouse,kidney,XGBoost,1398924,24.0,23.1937
+mouse,kidney,XGBoost,1398925,24.0,24.8182
+mouse,kidney,XGBoost,1398926,24.0,25.2644
+mouse,kidney,XGBoost,1398927,27.0,25.2798
+mouse,kidney,XGBoost,1398928,27.0,25.3585
+mouse,kidney,XGBoost,1398930,27.0,22.3216
+mouse,kidney,XGBoost,1398931,27.0,24.4412
+mouse,kidney,XGBoost,1398932,27.0,25.5306
+mouse,kidney,MLP,1398829,6.0,8.2156
+mouse,kidney,MLP,1398830,6.0,6.5752
+mouse,kidney,MLP,1398831,6.0,8.9394
+mouse,kidney,MLP,1398832,6.0,7.6131
+mouse,kidney,MLP,1398833,6.0,9.4997
+mouse,kidney,MLP,1398834,6.0,5.8588
+mouse,kidney,MLP,1398835,6.0,9.4137
+mouse,kidney,MLP,1398836,6.0,10.2292
+mouse,kidney,MLP,1398837,6.0,7.3353
+mouse,kidney,MLP,1398838,6.0,11.6766
+mouse,kidney,MLP,1398839,6.0,5.7139
+mouse,kidney,MLP,1398840,6.0,5.6693
+mouse,kidney,MLP,1398841,12.0,13.0639
+mouse,kidney,MLP,1398842,12.0,15.6064
+mouse,kidney,MLP,1398843,12.0,9.0781
+mouse,kidney,MLP,1398844,12.0,13.8282
+mouse,kidney,MLP,1398845,12.0,7.1827
+mouse,kidney,MLP,1398846,12.0,17.7781
+mouse,kidney,MLP,1398847,12.0,13.5375
+mouse,kidney,MLP,1398848,12.0,12.1218
+mouse,kidney,MLP,1398849,12.0,9.4082
+mouse,kidney,MLP,1398850,12.0,14.8125
+mouse,kidney,MLP,1398851,12.0,12.5769
+mouse,kidney,MLP,1398852,12.0,12.1114
+mouse,kidney,MLP,1398853,18.0,14.7696
+mouse,kidney,MLP,1398854,18.0,17.8061
+mouse,kidney,MLP,1398855,18.0,17.4806
+mouse,kidney,MLP,1398856,18.0,14.4799
+mouse,kidney,MLP,1398857,18.0,15.3138
+mouse,kidney,MLP,1398858,18.0,12.6202
+mouse,kidney,MLP,1398859,18.0,16.979
+mouse,kidney,MLP,1398860,18.0,16.6208
+mouse,kidney,MLP,1398861,18.0,17.4574
+mouse,kidney,MLP,1398862,18.0,22.9695
+mouse,kidney,MLP,1398863,18.0,21.0203
+mouse,kidney,MLP,1398864,18.0,16.3031
+mouse,kidney,MLP,1398865,21.0,18.0135
+mouse,kidney,MLP,1398866,21.0,21.146
+mouse,kidney,MLP,1398867,21.0,24.9976
+mouse,kidney,MLP,1398868,21.0,19.8712
+mouse,kidney,MLP,1398869,21.0,21.9415
+mouse,kidney,MLP,1398870,21.0,27.0965
+mouse,kidney,MLP,1398871,21.0,18.5896
+mouse,kidney,MLP,1398872,21.0,26.4071
+mouse,kidney,MLP,1398873,21.0,19.8784
+mouse,kidney,MLP,1398874,21.0,20.9827
+mouse,kidney,MLP,1398875,21.0,20.3149
+mouse,kidney,MLP,1398876,21.0,24.5139
+mouse,kidney,MLP,1398877,21.0,20.0643
+mouse,kidney,MLP,1398878,21.0,18.0362
+mouse,kidney,MLP,1398879,21.0,22.6872
+mouse,kidney,MLP,1398880,21.0,21.1216
+mouse,kidney,MLP,1398881,24.0,16.3741
+mouse,kidney,MLP,1398882,24.0,22.4594
+mouse,kidney,MLP,1398883,24.0,15.3469
+mouse,kidney,MLP,1398884,24.0,21.4693
+mouse,kidney,MLP,1398885,24.0,21.463
+mouse,kidney,MLP,1398886,24.0,23.9148
+mouse,kidney,MLP,1398887,24.0,12.1261
+mouse,kidney,MLP,1398888,24.0,23.2063
+mouse,kidney,MLP,1398889,24.0,22.2926
+mouse,kidney,MLP,1398890,24.0,21.6582
+mouse,kidney,MLP,1398891,24.0,23.1286
+mouse,kidney,MLP,1398892,27.0,24.7978
+mouse,kidney,MLP,1398893,27.0,29.6608
+mouse,kidney,MLP,1398894,27.0,22.185
+mouse,kidney,MLP,1398895,27.0,24.3858
+mouse,kidney,MLP,1398896,27.0,18.6451
+mouse,kidney,MLP,1398897,27.0,25.5098
+mouse,kidney,MLP,1398898,27.0,19.3453
+mouse,kidney,MLP,1398899,27.0,27.1291
+mouse,kidney,MLP,1398900,27.0,23.6402
+mouse,kidney,MLP,1398901,27.0,23.3332
+mouse,kidney,MLP,1398902,27.0,24.3838
+mouse,kidney,MLP,1398903,27.0,33.3189
+mouse,kidney,MLP,1398904,27.0,22.0291
+mouse,kidney,MLP,1398905,27.0,24.8666
+mouse,kidney,MLP,1398906,6.0,5.1434
+mouse,kidney,MLP,1398907,6.0,7.4281
+mouse,kidney,MLP,1398908,6.0,5.6987
+mouse,kidney,MLP,1398909,6.0,8.6302
+mouse,kidney,MLP,1398910,12.0,11.9604
+mouse,kidney,MLP,1398911,12.0,16.2429
+mouse,kidney,MLP,1398912,12.0,15.3386
+mouse,kidney,MLP,1398913,12.0,12.3191
+mouse,kidney,MLP,1398914,18.0,14.0514
+mouse,kidney,MLP,1398915,18.0,19.9399
+mouse,kidney,MLP,1398916,18.0,17.3223
+mouse,kidney,MLP,1398917,18.0,16.7164
+mouse,kidney,MLP,1398918,24.0,22.3976
+mouse,kidney,MLP,1398919,24.0,18.8699
+mouse,kidney,MLP,1398920,24.0,22.9272
+mouse,kidney,MLP,1398921,24.0,24.3789
+mouse,kidney,MLP,1398922,24.0,21.4616
+mouse,kidney,MLP,1398923,24.0,32.0218
+mouse,kidney,MLP,1398924,24.0,22.6528
+mouse,kidney,MLP,1398925,24.0,28.8717
+mouse,kidney,MLP,1398926,24.0,28.4757
+mouse,kidney,MLP,1398927,27.0,17.5952
+mouse,kidney,MLP,1398928,27.0,25.7163
+mouse,kidney,MLP,1398930,27.0,15.1792
+mouse,kidney,MLP,1398931,27.0,23.5065
+mouse,kidney,MLP,1398932,27.0,26.1099
+mouse,gastrocnemius,ElasticNet,GSM7064421,12.0,12.928
+mouse,gastrocnemius,ElasticNet,GSM7064422,12.0,14.629
+mouse,gastrocnemius,ElasticNet,GSM7064423,12.0,11.995
+mouse,gastrocnemius,ElasticNet,GSM7064424,12.0,13.2656
+mouse,gastrocnemius,ElasticNet,GSM7064425,12.0,12.0724
+mouse,gastrocnemius,ElasticNet,GSM7064426,12.0,13.92
+mouse,gastrocnemius,ElasticNet,GSM7064427,12.0,13.3997
+mouse,gastrocnemius,ElasticNet,GSM7064428,12.0,11.963
+mouse,gastrocnemius,ElasticNet,GSM7064429,18.0,18.6282
+mouse,gastrocnemius,ElasticNet,GSM7064430,18.0,17.8357
+mouse,gastrocnemius,ElasticNet,GSM7064431,18.0,17.3213
+mouse,gastrocnemius,ElasticNet,GSM7064432,18.0,17.2308
+mouse,gastrocnemius,ElasticNet,GSM7064433,18.0,17.2823
+mouse,gastrocnemius,ElasticNet,GSM7064434,18.0,17.7825
+mouse,gastrocnemius,ElasticNet,GSM7064435,18.0,18.7593
+mouse,gastrocnemius,ElasticNet,GSM7064436,18.0,18.4155
+mouse,gastrocnemius,ElasticNet,GSM7064437,21.0,24.0024
+mouse,gastrocnemius,ElasticNet,GSM7064438,21.0,22.846
+mouse,gastrocnemius,ElasticNet,GSM7064439,21.0,22.3964
+mouse,gastrocnemius,ElasticNet,GSM7064440,21.0,20.4178
+mouse,gastrocnemius,ElasticNet,GSM7064441,21.0,21.4319
+mouse,gastrocnemius,ElasticNet,GSM7064442,21.0,20.8202
+mouse,gastrocnemius,ElasticNet,GSM7064443,21.0,20.5264
+mouse,gastrocnemius,ElasticNet,GSM7064444,21.0,20.4092
+mouse,gastrocnemius,ElasticNet,GSM7064445,24.0,22.4825
+mouse,gastrocnemius,ElasticNet,GSM7064446,24.0,20.7639
+mouse,gastrocnemius,ElasticNet,GSM7064447,24.0,22.6741
+mouse,gastrocnemius,ElasticNet,GSM7064448,24.0,25.6825
+mouse,gastrocnemius,ElasticNet,GSM7064449,24.0,23.9255
+mouse,gastrocnemius,ElasticNet,GSM7064450,24.0,23.6966
+mouse,gastrocnemius,ElasticNet,GSM7064451,24.0,23.5679
+mouse,gastrocnemius,ElasticNet,GSM7064452,24.0,23.8076
+mouse,gastrocnemius,ElasticNet,GSM7064453,24.0,23.3145
+mouse,gastrocnemius,ElasticNet,GSM7064454,24.0,21.1351
+mouse,gastrocnemius,ElasticNet,GSM7064455,27.0,21.1085
+mouse,gastrocnemius,ElasticNet,GSM7064456,27.0,26.249
+mouse,gastrocnemius,ElasticNet,GSM7064457,27.0,25.5039
+mouse,gastrocnemius,ElasticNet,GSM7064458,27.0,24.4935
+mouse,gastrocnemius,ElasticNet,GSM7064459,27.0,25.009
+mouse,gastrocnemius,ElasticNet,GSM7064460,27.0,26.1765
+mouse,gastrocnemius,ElasticNet,GSM7064461,27.0,22.6623
+mouse,gastrocnemius,ElasticNet,GSM7064462,27.0,27.1009
+mouse,gastrocnemius,ElasticNet,GSM7064463,27.0,26.4948
+mouse,gastrocnemius,ElasticNet,GSM7064464,27.0,29.0282
+mouse,gastrocnemius,ElasticNet,GSM7064465,6.0,6.8215
+mouse,gastrocnemius,ElasticNet,GSM7064466,6.0,5.7304
+mouse,gastrocnemius,ElasticNet,GSM7064467,6.0,7.0387
+mouse,gastrocnemius,ElasticNet,GSM7064468,6.0,6.4201
+mouse,gastrocnemius,ElasticNet,GSM7064469,6.0,8.7304
+mouse,gastrocnemius,ElasticNet,GSM7064470,6.0,4.9534
+mouse,gastrocnemius,ElasticNet,GSM7064471,6.0,8.2912
+mouse,gastrocnemius,ElasticNet,GSM7064472,6.0,6.6986
+mouse,gastrocnemius,ElasticNet,GSM7064623,12.0,12.3057
+mouse,gastrocnemius,ElasticNet,GSM7064624,12.0,13.9956
+mouse,gastrocnemius,ElasticNet,GSM7064625,12.0,12.8719
+mouse,gastrocnemius,ElasticNet,GSM7064626,12.0,12.7391
+mouse,gastrocnemius,ElasticNet,GSM7064627,12.0,15.1834
+mouse,gastrocnemius,ElasticNet,GSM7064628,12.0,13.6805
+mouse,gastrocnemius,ElasticNet,GSM7064629,12.0,13.3093
+mouse,gastrocnemius,ElasticNet,GSM7064630,12.0,14.7731
+mouse,gastrocnemius,ElasticNet,GSM7064631,18.0,18.7564
+mouse,gastrocnemius,ElasticNet,GSM7064632,18.0,16.4975
+mouse,gastrocnemius,ElasticNet,GSM7064633,18.0,16.8346
+mouse,gastrocnemius,ElasticNet,GSM7064634,18.0,18.6226
+mouse,gastrocnemius,ElasticNet,GSM7064635,18.0,15.7299
+mouse,gastrocnemius,ElasticNet,GSM7064636,18.0,19.1446
+mouse,gastrocnemius,ElasticNet,GSM7064637,18.0,16.4312
+mouse,gastrocnemius,ElasticNet,GSM7064638,18.0,16.4611
+mouse,gastrocnemius,ElasticNet,GSM7064639,21.0,22.8458
+mouse,gastrocnemius,ElasticNet,GSM7064640,21.0,21.291
+mouse,gastrocnemius,ElasticNet,GSM7064641,21.0,19.0569
+mouse,gastrocnemius,ElasticNet,GSM7064642,21.0,19.9554
+mouse,gastrocnemius,ElasticNet,GSM7064643,21.0,20.3987
+mouse,gastrocnemius,ElasticNet,GSM7064644,21.0,22.0318
+mouse,gastrocnemius,ElasticNet,GSM7064645,21.0,23.1879
+mouse,gastrocnemius,ElasticNet,GSM7064646,21.0,21.8778
+mouse,gastrocnemius,ElasticNet,GSM7064647,24.0,20.6868
+mouse,gastrocnemius,ElasticNet,GSM7064648,24.0,21.281
+mouse,gastrocnemius,ElasticNet,GSM7064649,24.0,22.9375
+mouse,gastrocnemius,ElasticNet,GSM7064650,24.0,23.9018
+mouse,gastrocnemius,ElasticNet,GSM7064651,24.0,25.5361
+mouse,gastrocnemius,ElasticNet,GSM7064652,24.0,26.4776
+mouse,gastrocnemius,ElasticNet,GSM7064653,24.0,23.1223
+mouse,gastrocnemius,ElasticNet,GSM7064654,24.0,23.5399
+mouse,gastrocnemius,ElasticNet,GSM7064655,24.0,25.44
+mouse,gastrocnemius,ElasticNet,GSM7064656,24.0,23.1886
+mouse,gastrocnemius,ElasticNet,GSM7064657,27.0,25.8895
+mouse,gastrocnemius,ElasticNet,GSM7064658,27.0,29.8818
+mouse,gastrocnemius,ElasticNet,GSM7064659,27.0,23.468
+mouse,gastrocnemius,ElasticNet,GSM7064660,27.0,25.897
+mouse,gastrocnemius,ElasticNet,GSM7064661,27.0,26.9214
+mouse,gastrocnemius,ElasticNet,GSM7064662,27.0,27.7022
+mouse,gastrocnemius,ElasticNet,GSM7064663,27.0,27.0848
+mouse,gastrocnemius,ElasticNet,GSM7064664,27.0,25.2052
+mouse,gastrocnemius,ElasticNet,GSM7064665,27.0,25.8678
+mouse,gastrocnemius,ElasticNet,GSM7064666,27.0,25.9843
+mouse,gastrocnemius,ElasticNet,GSM7064667,6.0,8.0449
+mouse,gastrocnemius,ElasticNet,GSM7064668,6.0,6.2085
+mouse,gastrocnemius,ElasticNet,GSM7064669,6.0,7.0565
+mouse,gastrocnemius,ElasticNet,GSM7064670,6.0,6.3834
+mouse,gastrocnemius,ElasticNet,GSM7064671,6.0,5.6973
+mouse,gastrocnemius,ElasticNet,GSM7064672,6.0,5.1821
+mouse,gastrocnemius,ElasticNet,GSM7064673,6.0,6.8264
+mouse,gastrocnemius,ElasticNet,GSM7064674,6.0,6.2615
+mouse,gastrocnemius,XGBoost,GSM7064421,12.0,12.123
+mouse,gastrocnemius,XGBoost,GSM7064422,12.0,14.527
+mouse,gastrocnemius,XGBoost,GSM7064423,12.0,11.9171
+mouse,gastrocnemius,XGBoost,GSM7064424,12.0,11.9717
+mouse,gastrocnemius,XGBoost,GSM7064425,12.0,10.546
+mouse,gastrocnemius,XGBoost,GSM7064426,12.0,12.3566
+mouse,gastrocnemius,XGBoost,GSM7064427,12.0,13.4811
+mouse,gastrocnemius,XGBoost,GSM7064428,12.0,14.2348
+mouse,gastrocnemius,XGBoost,GSM7064429,18.0,18.4134
+mouse,gastrocnemius,XGBoost,GSM7064430,18.0,18.8446
+mouse,gastrocnemius,XGBoost,GSM7064431,18.0,14.6084
+mouse,gastrocnemius,XGBoost,GSM7064432,18.0,16.1936
+mouse,gastrocnemius,XGBoost,GSM7064433,18.0,18.1055
+mouse,gastrocnemius,XGBoost,GSM7064434,18.0,17.925
+mouse,gastrocnemius,XGBoost,GSM7064435,18.0,17.8682
+mouse,gastrocnemius,XGBoost,GSM7064436,18.0,16.8865
+mouse,gastrocnemius,XGBoost,GSM7064437,21.0,23.373
+mouse,gastrocnemius,XGBoost,GSM7064438,21.0,23.8399
+mouse,gastrocnemius,XGBoost,GSM7064439,21.0,22.2666
+mouse,gastrocnemius,XGBoost,GSM7064440,21.0,22.7918
+mouse,gastrocnemius,XGBoost,GSM7064441,21.0,23.2445
+mouse,gastrocnemius,XGBoost,GSM7064442,21.0,23.1398
+mouse,gastrocnemius,XGBoost,GSM7064443,21.0,21.8196
+mouse,gastrocnemius,XGBoost,GSM7064444,21.0,19.5189
+mouse,gastrocnemius,XGBoost,GSM7064445,24.0,22.54
+mouse,gastrocnemius,XGBoost,GSM7064446,24.0,18.9871
+mouse,gastrocnemius,XGBoost,GSM7064447,24.0,22.1551
+mouse,gastrocnemius,XGBoost,GSM7064448,24.0,25.327
+mouse,gastrocnemius,XGBoost,GSM7064449,24.0,23.2572
+mouse,gastrocnemius,XGBoost,GSM7064450,24.0,22.5476
+mouse,gastrocnemius,XGBoost,GSM7064451,24.0,23.5525
+mouse,gastrocnemius,XGBoost,GSM7064452,24.0,25.4768
+mouse,gastrocnemius,XGBoost,GSM7064453,24.0,25.1435
+mouse,gastrocnemius,XGBoost,GSM7064454,24.0,22.4127
+mouse,gastrocnemius,XGBoost,GSM7064455,27.0,22.9672
+mouse,gastrocnemius,XGBoost,GSM7064456,27.0,25.742
+mouse,gastrocnemius,XGBoost,GSM7064457,27.0,25.3874
+mouse,gastrocnemius,XGBoost,GSM7064458,27.0,25.729
+mouse,gastrocnemius,XGBoost,GSM7064459,27.0,24.3355
+mouse,gastrocnemius,XGBoost,GSM7064460,27.0,25.3128
+mouse,gastrocnemius,XGBoost,GSM7064461,27.0,24.581
+mouse,gastrocnemius,XGBoost,GSM7064462,27.0,26.5898
+mouse,gastrocnemius,XGBoost,GSM7064463,27.0,26.1227
+mouse,gastrocnemius,XGBoost,GSM7064464,27.0,26.2878
+mouse,gastrocnemius,XGBoost,GSM7064465,6.0,6.9097
+mouse,gastrocnemius,XGBoost,GSM7064466,6.0,6.9353
+mouse,gastrocnemius,XGBoost,GSM7064467,6.0,7.8612
+mouse,gastrocnemius,XGBoost,GSM7064468,6.0,6.4322
+mouse,gastrocnemius,XGBoost,GSM7064469,6.0,8.263
+mouse,gastrocnemius,XGBoost,GSM7064470,6.0,7.108
+mouse,gastrocnemius,XGBoost,GSM7064471,6.0,9.1551
+mouse,gastrocnemius,XGBoost,GSM7064472,6.0,5.9572
+mouse,gastrocnemius,XGBoost,GSM7064623,12.0,14.0288
+mouse,gastrocnemius,XGBoost,GSM7064624,12.0,13.6637
+mouse,gastrocnemius,XGBoost,GSM7064625,12.0,12.7636
+mouse,gastrocnemius,XGBoost,GSM7064626,12.0,13.5991
+mouse,gastrocnemius,XGBoost,GSM7064627,12.0,14.5424
+mouse,gastrocnemius,XGBoost,GSM7064628,12.0,13.4562
+mouse,gastrocnemius,XGBoost,GSM7064629,12.0,12.0949
+mouse,gastrocnemius,XGBoost,GSM7064630,12.0,16.2513
+mouse,gastrocnemius,XGBoost,GSM7064631,18.0,17.8683
+mouse,gastrocnemius,XGBoost,GSM7064632,18.0,16.7078
+mouse,gastrocnemius,XGBoost,GSM7064633,18.0,15.4969
+mouse,gastrocnemius,XGBoost,GSM7064634,18.0,18.5191
+mouse,gastrocnemius,XGBoost,GSM7064635,18.0,16.3878
+mouse,gastrocnemius,XGBoost,GSM7064636,18.0,16.7811
+mouse,gastrocnemius,XGBoost,GSM7064637,18.0,14.9907
+mouse,gastrocnemius,XGBoost,GSM7064638,18.0,16.0679
+mouse,gastrocnemius,XGBoost,GSM7064639,21.0,22.2459
+mouse,gastrocnemius,XGBoost,GSM7064640,21.0,21.0158
+mouse,gastrocnemius,XGBoost,GSM7064641,21.0,19.0456
+mouse,gastrocnemius,XGBoost,GSM7064642,21.0,19.3293
+mouse,gastrocnemius,XGBoost,GSM7064643,21.0,19.5659
+mouse,gastrocnemius,XGBoost,GSM7064644,21.0,23.0232
+mouse,gastrocnemius,XGBoost,GSM7064645,21.0,24.6963
+mouse,gastrocnemius,XGBoost,GSM7064646,21.0,21.1319
+mouse,gastrocnemius,XGBoost,GSM7064647,24.0,18.6542
+mouse,gastrocnemius,XGBoost,GSM7064648,24.0,20.8621
+mouse,gastrocnemius,XGBoost,GSM7064649,24.0,23.2347
+mouse,gastrocnemius,XGBoost,GSM7064650,24.0,24.4811
+mouse,gastrocnemius,XGBoost,GSM7064651,24.0,24.4477
+mouse,gastrocnemius,XGBoost,GSM7064652,24.0,25.8318
+mouse,gastrocnemius,XGBoost,GSM7064653,24.0,24.2158
+mouse,gastrocnemius,XGBoost,GSM7064654,24.0,25.2134
+mouse,gastrocnemius,XGBoost,GSM7064655,24.0,24.4407
+mouse,gastrocnemius,XGBoost,GSM7064656,24.0,22.2234
+mouse,gastrocnemius,XGBoost,GSM7064657,27.0,24.7908
+mouse,gastrocnemius,XGBoost,GSM7064658,27.0,25.8766
+mouse,gastrocnemius,XGBoost,GSM7064659,27.0,23.0175
+mouse,gastrocnemius,XGBoost,GSM7064660,27.0,24.7148
+mouse,gastrocnemius,XGBoost,GSM7064661,27.0,26.4401
+mouse,gastrocnemius,XGBoost,GSM7064662,27.0,26.4873
+mouse,gastrocnemius,XGBoost,GSM7064663,27.0,24.8601
+mouse,gastrocnemius,XGBoost,GSM7064664,27.0,26.3405
+mouse,gastrocnemius,XGBoost,GSM7064665,27.0,24.9879
+mouse,gastrocnemius,XGBoost,GSM7064666,27.0,26.3591
+mouse,gastrocnemius,XGBoost,GSM7064667,6.0,7.9814
+mouse,gastrocnemius,XGBoost,GSM7064668,6.0,6.4105
+mouse,gastrocnemius,XGBoost,GSM7064669,6.0,7.8002
+mouse,gastrocnemius,XGBoost,GSM7064670,6.0,7.035
+mouse,gastrocnemius,XGBoost,GSM7064671,6.0,6.3217
+mouse,gastrocnemius,XGBoost,GSM7064672,6.0,6.3342
+mouse,gastrocnemius,XGBoost,GSM7064673,6.0,8.3962
+mouse,gastrocnemius,XGBoost,GSM7064674,6.0,7.2849
+mouse,gastrocnemius,MLP,GSM7064421,12.0,12.7853
+mouse,gastrocnemius,MLP,GSM7064422,12.0,11.861
+mouse,gastrocnemius,MLP,GSM7064423,12.0,13.4442
+mouse,gastrocnemius,MLP,GSM7064424,12.0,12.4977
+mouse,gastrocnemius,MLP,GSM7064425,12.0,13.6532
+mouse,gastrocnemius,MLP,GSM7064426,12.0,10.6835
+mouse,gastrocnemius,MLP,GSM7064427,12.0,12.5118
+mouse,gastrocnemius,MLP,GSM7064428,12.0,10.0105
+mouse,gastrocnemius,MLP,GSM7064429,18.0,19.5288
+mouse,gastrocnemius,MLP,GSM7064430,18.0,16.2384
+mouse,gastrocnemius,MLP,GSM7064431,18.0,11.6731
+mouse,gastrocnemius,MLP,GSM7064432,18.0,12.5202
+mouse,gastrocnemius,MLP,GSM7064433,18.0,14.8789
+mouse,gastrocnemius,MLP,GSM7064434,18.0,18.6747
+mouse,gastrocnemius,MLP,GSM7064435,18.0,17.2954
+mouse,gastrocnemius,MLP,GSM7064436,18.0,17.2061
+mouse,gastrocnemius,MLP,GSM7064437,21.0,22.878
+mouse,gastrocnemius,MLP,GSM7064438,21.0,25.3062
+mouse,gastrocnemius,MLP,GSM7064439,21.0,21.4972
+mouse,gastrocnemius,MLP,GSM7064440,21.0,23.128
+mouse,gastrocnemius,MLP,GSM7064441,21.0,23.8851
+mouse,gastrocnemius,MLP,GSM7064442,21.0,21.4241
+mouse,gastrocnemius,MLP,GSM7064443,21.0,21.5889
+mouse,gastrocnemius,MLP,GSM7064444,21.0,12.7877
+mouse,gastrocnemius,MLP,GSM7064445,24.0,20.0073
+mouse,gastrocnemius,MLP,GSM7064446,24.0,19.422
+mouse,gastrocnemius,MLP,GSM7064447,24.0,23.0367
+mouse,gastrocnemius,MLP,GSM7064448,24.0,32.3157
+mouse,gastrocnemius,MLP,GSM7064449,24.0,21.0673
+mouse,gastrocnemius,MLP,GSM7064450,24.0,19.857
+mouse,gastrocnemius,MLP,GSM7064451,24.0,21.3572
+mouse,gastrocnemius,MLP,GSM7064452,24.0,23.5241
+mouse,gastrocnemius,MLP,GSM7064453,24.0,22.8967
+mouse,gastrocnemius,MLP,GSM7064454,24.0,21.1834
+mouse,gastrocnemius,MLP,GSM7064455,27.0,31.7688
+mouse,gastrocnemius,MLP,GSM7064456,27.0,27.8938
+mouse,gastrocnemius,MLP,GSM7064457,27.0,23.7107
+mouse,gastrocnemius,MLP,GSM7064458,27.0,17.4101
+mouse,gastrocnemius,MLP,GSM7064459,27.0,22.5973
+mouse,gastrocnemius,MLP,GSM7064460,27.0,19.5292
+mouse,gastrocnemius,MLP,GSM7064461,27.0,19.9737
+mouse,gastrocnemius,MLP,GSM7064462,27.0,32.2534
+mouse,gastrocnemius,MLP,GSM7064463,27.0,21.2681
+mouse,gastrocnemius,MLP,GSM7064464,27.0,28.1047
+mouse,gastrocnemius,MLP,GSM7064465,6.0,6.1298
+mouse,gastrocnemius,MLP,GSM7064466,6.0,5.9118
+mouse,gastrocnemius,MLP,GSM7064467,6.0,8.5601
+mouse,gastrocnemius,MLP,GSM7064468,6.0,9.4723
+mouse,gastrocnemius,MLP,GSM7064469,6.0,8.0582
+mouse,gastrocnemius,MLP,GSM7064470,6.0,10.7887
+mouse,gastrocnemius,MLP,GSM7064471,6.0,8.4462
+mouse,gastrocnemius,MLP,GSM7064472,6.0,6.6328
+mouse,gastrocnemius,MLP,GSM7064623,12.0,15.5536
+mouse,gastrocnemius,MLP,GSM7064624,12.0,13.8529
+mouse,gastrocnemius,MLP,GSM7064625,12.0,10.4294
+mouse,gastrocnemius,MLP,GSM7064626,12.0,14.1465
+mouse,gastrocnemius,MLP,GSM7064627,12.0,13.9091
+mouse,gastrocnemius,MLP,GSM7064628,12.0,11.6883
+mouse,gastrocnemius,MLP,GSM7064629,12.0,12.3153
+mouse,gastrocnemius,MLP,GSM7064630,12.0,17.7283
+mouse,gastrocnemius,MLP,GSM7064631,18.0,18.2756
+mouse,gastrocnemius,MLP,GSM7064632,18.0,14.029
+mouse,gastrocnemius,MLP,GSM7064633,18.0,18.7226
+mouse,gastrocnemius,MLP,GSM7064634,18.0,15.8111
+mouse,gastrocnemius,MLP,GSM7064635,18.0,12.5109
+mouse,gastrocnemius,MLP,GSM7064636,18.0,16.1207
+mouse,gastrocnemius,MLP,GSM7064637,18.0,19.0129
+mouse,gastrocnemius,MLP,GSM7064638,18.0,17.8682
+mouse,gastrocnemius,MLP,GSM7064639,21.0,14.9669
+mouse,gastrocnemius,MLP,GSM7064640,21.0,13.1388
+mouse,gastrocnemius,MLP,GSM7064641,21.0,14.3743
+mouse,gastrocnemius,MLP,GSM7064642,21.0,19.8706
+mouse,gastrocnemius,MLP,GSM7064643,21.0,14.1364
+mouse,gastrocnemius,MLP,GSM7064644,21.0,24.7266
+mouse,gastrocnemius,MLP,GSM7064645,21.0,18.8577
+mouse,gastrocnemius,MLP,GSM7064646,21.0,17.1166
+mouse,gastrocnemius,MLP,GSM7064647,24.0,10.1807
+mouse,gastrocnemius,MLP,GSM7064648,24.0,13.3404
+mouse,gastrocnemius,MLP,GSM7064649,24.0,21.1931
+mouse,gastrocnemius,MLP,GSM7064650,24.0,20.163
+mouse,gastrocnemius,MLP,GSM7064651,24.0,19.883
+mouse,gastrocnemius,MLP,GSM7064652,24.0,22.8911
+mouse,gastrocnemius,MLP,GSM7064653,24.0,29.1947
+mouse,gastrocnemius,MLP,GSM7064654,24.0,16.6402
+mouse,gastrocnemius,MLP,GSM7064655,24.0,25.2787
+mouse,gastrocnemius,MLP,GSM7064656,24.0,21.0269
+mouse,gastrocnemius,MLP,GSM7064657,27.0,19.2671
+mouse,gastrocnemius,MLP,GSM7064658,27.0,30.4476
+mouse,gastrocnemius,MLP,GSM7064659,27.0,21.1793
+mouse,gastrocnemius,MLP,GSM7064660,27.0,21.3436
+mouse,gastrocnemius,MLP,GSM7064661,27.0,26.3185
+mouse,gastrocnemius,MLP,GSM7064662,27.0,27.8155
+mouse,gastrocnemius,MLP,GSM7064663,27.0,24.7866
+mouse,gastrocnemius,MLP,GSM7064664,27.0,16.8793
+mouse,gastrocnemius,MLP,GSM7064665,27.0,26.9697
+mouse,gastrocnemius,MLP,GSM7064666,27.0,20.7409
+mouse,gastrocnemius,MLP,GSM7064667,6.0,6.0814
+mouse,gastrocnemius,MLP,GSM7064668,6.0,7.0962
+mouse,gastrocnemius,MLP,GSM7064669,6.0,5.5251
+mouse,gastrocnemius,MLP,GSM7064670,6.0,5.7113
+mouse,gastrocnemius,MLP,GSM7064671,6.0,2.8313
+mouse,gastrocnemius,MLP,GSM7064672,6.0,4.3527
+mouse,gastrocnemius,MLP,GSM7064673,6.0,8.9856
+mouse,gastrocnemius,MLP,GSM7064674,6.0,6.9255
