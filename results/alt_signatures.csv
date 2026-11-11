@@ -1,0 +1,88 @@
+dataset,tissue,sex,signature,n_genes,rho_raw,p_raw,rho_marker_adj,p_marker_adj,rho_deconv_adj,p_deconv_adj,r_with_senmayo_core,block,q_raw,q_marker_adj,q_deconv_adj
+TMS_mouse,BAT,female,KEGG_senescence,135,0.2133,0.4841,-0.1413,0.6452,0.0499,0.8715,0.8873,TMS,0.6672,0.9568,0.8863
+TMS_mouse,BAT,female,Reactome_senescence,118,0.0942,0.7596,-0.1579,0.6064,0.0,1.0,0.9046,TMS,0.8478,0.9381,1.0
+TMS_mouse,BAT,female,Reactome_SASP,45,0.0443,0.8857,-0.1247,0.6849,-0.0443,0.8857,0.782,TMS,0.8857,0.9622,0.9341
+TMS_mouse,BAT,male,KEGG_senescence,134,-0.4299,0.0112,0.0081,0.9635,-0.3216,0.0637,0.8839,TMS,0.047,0.9692,0.4457
+TMS_mouse,BAT,male,Reactome_senescence,118,-0.4604,0.0062,0.0138,0.9381,-0.3429,0.0471,0.8044,TMS,0.0431,0.9381,0.3297
+TMS_mouse,BAT,male,Reactome_SASP,45,-0.3658,0.0334,0.0085,0.9622,-0.2668,0.1271,0.6457,TMS,0.1557,0.9622,0.4851
+TMS_mouse,GAT,female,KEGG_senescence,148,0.4321,0.1403,0.1191,0.6983,-0.0776,0.8011,0.7154,TMS,0.309,0.9568,0.8863
+TMS_mouse,GAT,female,Reactome_senescence,121,0.0831,0.7872,0.1247,0.6849,-0.0942,0.7596,0.8083,TMS,0.8478,0.9381,1.0
+TMS_mouse,GAT,female,Reactome_SASP,47,0.2909,0.335,0.0332,0.9141,0.2161,0.4783,0.6416,TMS,0.494,0.9622,0.8983
+TMS_mouse,GAT,male,KEGG_senescence,147,0.6371,0.0,0.0068,0.9692,-0.0533,0.7613,0.9427,TMS,0.0003,0.9692,0.8863
+TMS_mouse,GAT,male,Reactome_senescence,121,0.5565,0.0005,-0.0464,0.7915,-0.0783,0.6547,0.878,TMS,0.0072,0.9381,1.0
+TMS_mouse,GAT,male,Reactome_SASP,47,0.5613,0.0005,-0.1367,0.4337,-0.1075,0.5388,0.8372,TMS,0.0063,0.9622,0.8983
+TMS_mouse,Heart,female,KEGG_senescence,150,0.6879,0.0134,0.1023,0.7517,0.2716,0.3931,0.8566,TMS,0.047,0.9568,0.8863
+TMS_mouse,Heart,female,Reactome_senescence,123,0.5397,0.0701,0.0882,0.7852,0.0741,0.819,0.7826,TMS,0.2454,0.9381,1.0
+TMS_mouse,Heart,female,Reactome_SASP,48,0.3669,0.2408,0.0564,0.8617,0.0317,0.922,0.6306,TMS,0.494,0.9622,0.9341
+TMS_mouse,Heart,male,KEGG_senescence,144,0.2984,0.0817,0.1751,0.3143,0.0251,0.8863,0.9154,TMS,0.2286,0.8801,0.8863
+TMS_mouse,Heart,male,Reactome_senescence,121,0.2054,0.2365,0.2003,0.2485,0.0073,0.9667,0.8872,TMS,0.5312,0.9381,1.0
+TMS_mouse,Heart,male,Reactome_SASP,47,0.1806,0.2991,-0.0799,0.6483,0.0145,0.9341,0.7991,TMS,0.494,0.9622,0.9341
+TMS_mouse,Kidney,female,KEGG_senescence,145,0.0089,0.976,-0.1063,0.7175,0.0709,0.8097,0.6933,TMS,0.976,0.9568,0.8863
+TMS_mouse,Kidney,female,Reactome_senescence,121,-0.1861,0.5242,-0.1063,0.7175,0.0354,0.9043,0.6583,TMS,0.8155,0.9381,1.0
+TMS_mouse,Kidney,female,Reactome_SASP,47,0.1772,0.5445,0.0709,0.8097,0.1949,0.5043,0.8011,TMS,0.6353,0.9622,0.8983
+TMS_mouse,Kidney,male,KEGG_senescence,146,0.2496,0.1545,-0.0224,0.8998,0.3294,0.0571,0.9206,TMS,0.309,0.9692,0.4457
+TMS_mouse,Kidney,male,Reactome_senescence,120,0.2422,0.1675,-0.0178,0.9203,0.3555,0.0391,0.8973,TMS,0.469,0.9381,0.3297
+TMS_mouse,Kidney,male,Reactome_SASP,46,0.2785,0.1107,0.0363,0.8386,0.3586,0.0373,0.8249,TMS,0.3875,0.9622,0.4851
+TMS_mouse,Limb_Muscle,female,KEGG_senescence,131,-0.0443,0.8805,0.3101,0.2806,-0.2038,0.4847,0.8904,TMS,0.9482,0.8801,0.8863
+TMS_mouse,Limb_Muscle,female,Reactome_senescence,118,-0.0797,0.7864,0.0709,0.8097,-0.2304,0.4282,0.8801,TMS,0.8478,0.9381,1.0
+TMS_mouse,Limb_Muscle,female,Reactome_SASP,46,-0.2392,0.4101,-0.1683,0.5651,-0.4164,0.1386,0.9471,TMS,0.522,0.9622,0.4851
+TMS_mouse,Limb_Muscle,male,KEGG_senescence,133,-0.1991,0.2591,0.0792,0.6563,-0.1915,0.2779,0.5927,TMS,0.4534,0.9568,0.8863
+TMS_mouse,Limb_Muscle,male,Reactome_senescence,119,-0.1579,0.3726,0.0965,0.5871,-0.2441,0.1642,0.5634,TMS,0.652,0.9381,0.7661
+TMS_mouse,Limb_Muscle,male,Reactome_SASP,47,-0.2023,0.2513,0.0975,0.5835,-0.2679,0.1255,0.7056,TMS,0.494,0.9622,0.4851
+TMS_mouse,Liver,female,KEGG_senescence,139,-0.072,0.8151,-0.3324,0.2671,-0.1163,0.705,0.8112,TMS,0.9482,0.8801,0.8863
+TMS_mouse,Liver,female,Reactome_senescence,118,0.0416,0.8928,-0.1939,0.5256,0.0332,0.9141,0.8043,TMS,0.8928,0.9381,1.0
+TMS_mouse,Liver,female,Reactome_SASP,46,0.3906,0.187,-0.2881,0.3398,0.169,0.581,0.7953,TMS,0.494,0.9622,0.8983
+TMS_mouse,Liver,male,KEGG_senescence,138,0.6538,0.0,0.4022,0.0203,0.1372,0.4465,0.8894,TMS,0.0003,0.2847,0.8863
+TMS_mouse,Liver,male,Reactome_senescence,119,0.4306,0.0124,0.2229,0.2124,0.0208,0.9083,0.8362,TMS,0.0577,0.9381,1.0
+TMS_mouse,Liver,male,Reactome_SASP,46,0.4065,0.0189,0.2793,0.1155,0.0683,0.7058,0.778,TMS,0.1322,0.9622,0.8983
+TMS_mouse,SCAT,female,KEGG_senescence,159,-0.1861,0.5242,0.0975,0.7403,0.124,0.6727,0.7541,TMS,0.6672,0.9568,0.8863
+TMS_mouse,SCAT,female,Reactome_senescence,125,-0.0886,0.7633,0.1063,0.7175,0.124,0.6727,0.7625,TMS,0.8478,0.9381,1.0
+TMS_mouse,SCAT,female,Reactome_SASP,50,0.1063,0.7175,0.1861,0.5242,0.1329,0.6506,0.7806,TMS,0.7727,0.9622,0.8983
+TMS_mouse,SCAT,male,KEGG_senescence,153,0.1408,0.4126,0.203,0.2351,0.0621,0.7188,0.7666,TMS,0.6418,0.8801,0.8863
+TMS_mouse,SCAT,male,Reactome_senescence,124,0.1906,0.2656,0.2579,0.1289,0.1388,0.4196,0.6883,TMS,0.5312,0.9381,1.0
+TMS_mouse,SCAT,male,Reactome_SASP,49,0.1595,0.3528,0.1864,0.2763,0.0673,0.6965,0.6388,TMS,0.494,0.9622,0.8983
+atlas_mouse,gWAT,female,KEGG_senescence,145,0.2811,0.0435,-0.203,0.1489,-0.0607,0.6689,0.8453,atlas,0.0467,0.3722,0.9484
+atlas_mouse,gWAT,female,Reactome_senescence,120,0.1261,0.373,-0.2189,0.119,-0.095,0.5028,0.8062,atlas,0.373,0.357,0.9062
+atlas_mouse,gWAT,female,Reactome_SASP,47,0.0947,0.5044,-0.2599,0.0627,-0.18,0.2017,0.7978,atlas,0.5044,0.2433,0.5555
+atlas_mouse,gWAT,male,KEGG_senescence,146,0.6691,0.0,-0.1138,0.4412,0.0603,0.6841,0.8749,atlas,0.0,0.8272,0.9484
+atlas_mouse,gWAT,male,Reactome_senescence,120,0.6324,0.0,-0.0413,0.7804,-0.0225,0.8792,0.8073,atlas,0.0,0.8938,0.9062
+atlas_mouse,gWAT,male,Reactome_SASP,47,0.497,0.0003,-0.1456,0.3233,-0.103,0.486,0.7588,atlas,0.0004,0.6061,0.729
+atlas_mouse,gastrocnemius,female,KEGG_senescence,124,0.633,0.0,0.3461,0.012,0.3861,0.0047,0.8688,atlas,0.0,0.1357,0.0176
+atlas_mouse,gastrocnemius,female,Reactome_senescence,113,0.4803,0.0003,0.2628,0.0598,0.0936,0.5091,0.8991,atlas,0.0005,0.2243,0.9062
+atlas_mouse,gastrocnemius,female,Reactome_SASP,44,0.5181,0.0001,0.3171,0.022,0.1136,0.4225,0.9019,atlas,0.0001,0.1649,0.729
+atlas_mouse,gastrocnemius,male,KEGG_senescence,125,0.5146,0.0001,0.3064,0.0271,0.4798,0.0003,0.8164,atlas,0.0001,0.1357,0.0048
+atlas_mouse,gastrocnemius,male,Reactome_senescence,114,0.345,0.0123,0.2766,0.0471,0.2673,0.0554,0.6897,atlas,0.0153,0.2243,0.277
+atlas_mouse,gastrocnemius,male,Reactome_SASP,44,0.3807,0.0054,0.2442,0.0811,0.3618,0.0084,0.7569,atlas,0.0067,0.2433,0.063
+atlas_mouse,kidney,female,KEGG_senescence,142,0.7477,0.0,-0.0291,0.8377,-0.0261,0.8544,0.9323,atlas,0.0,0.8976,0.9484
+atlas_mouse,kidney,female,Reactome_senescence,120,0.637,0.0,-0.0461,0.7457,-0.0664,0.6398,0.9209,atlas,0.0,0.8938,0.9062
+atlas_mouse,kidney,female,Reactome_SASP,47,0.7178,0.0,-0.0035,0.9806,0.01,0.9441,0.9419,atlas,0.0,0.9927,0.963
+atlas_mouse,kidney,male,KEGG_senescence,139,0.7559,0.0,0.2404,0.0893,0.408,0.003,0.9523,atlas,0.0,0.2679,0.0148
+atlas_mouse,kidney,male,Reactome_senescence,119,0.667,0.0,0.0613,0.669,0.3671,0.008,0.8884,atlas,0.0,0.8938,0.0603
+atlas_mouse,kidney,male,Reactome_SASP,46,0.6977,0.0,0.1774,0.2129,0.3406,0.0145,0.914,atlas,0.0,0.5322,0.0723
+atlas_mouse,left ventricle,female,KEGG_senescence,133,0.607,0.0,0.0391,0.7834,-0.0253,0.8587,0.8986,atlas,0.0,0.8976,0.9484
+atlas_mouse,left ventricle,female,Reactome_senescence,117,0.3863,0.0047,-0.019,0.8938,-0.0405,0.7754,0.7786,atlas,0.007,0.8938,0.9062
+atlas_mouse,left ventricle,female,Reactome_SASP,46,0.528,0.0001,-0.0013,0.9927,-0.0078,0.9563,0.8179,atlas,0.0001,0.9927,0.963
+atlas_mouse,left ventricle,male,KEGG_senescence,132,0.7406,0.0,0.0701,0.6216,0.0205,0.8851,0.9419,atlas,0.0,0.8976,0.9484
+atlas_mouse,left ventricle,male,Reactome_senescence,116,0.693,0.0,-0.0268,0.8506,0.034,0.8111,0.9241,atlas,0.0,0.8938,0.9062
+atlas_mouse,left ventricle,male,Reactome_SASP,45,0.7497,0.0,-0.0429,0.7628,0.0724,0.61,0.9095,atlas,0.0,0.9535,0.8318
+atlas_mouse,liver,female,KEGG_senescence,135,0.4404,0.0014,-0.2621,0.066,0.0388,0.7889,0.8744,atlas,0.0017,0.2473,0.9484
+atlas_mouse,liver,female,Reactome_senescence,115,0.3672,0.0087,-0.2914,0.04,0.0171,0.9062,0.8648,atlas,0.0119,0.2243,0.9062
+atlas_mouse,liver,female,Reactome_SASP,45,0.496,0.0002,-0.1142,0.4297,-0.0067,0.963,0.8928,atlas,0.0004,0.7162,0.963
+atlas_mouse,liver,male,KEGG_senescence,135,0.8073,0.0,0.1301,0.3678,-0.0064,0.9646,0.9047,atlas,0.0,0.788,0.9646
+atlas_mouse,liver,male,Reactome_senescence,115,0.7627,0.0,0.0586,0.686,0.0345,0.812,0.8869,atlas,0.0,0.8938,0.9062
+atlas_mouse,liver,male,Reactome_SASP,45,0.8574,0.0,0.2588,0.0696,0.1715,0.2337,0.9143,atlas,0.0,0.2433,0.5555
+atlas_rat,gWAT,male,KEGG_senescence,129,0.2222,0.0434,-0.0299,0.7886,0.1233,0.2668,0.3719,atlas,0.0467,0.8976,0.6669
+atlas_rat,gWAT,male,Reactome_senescence,124,0.1536,0.1657,-0.1021,0.3585,0.0259,0.8162,0.3648,atlas,0.1776,0.8938,0.9062
+atlas_rat,gWAT,male,Reactome_SASP,49,0.1463,0.187,-0.047,0.6734,-0.0062,0.9556,0.4426,atlas,0.2003,0.9182,0.963
+atlas_rat,gastrocnemius,male,KEGG_senescence,116,0.6883,0.0,0.2705,0.0207,0.3549,0.0021,0.8185,atlas,0.0,0.1357,0.0148
+atlas_rat,gastrocnemius,male,Reactome_senescence,102,0.718,0.0,0.291,0.0125,0.3874,0.0007,0.835,atlas,0.0,0.1873,0.0106
+atlas_rat,gastrocnemius,male,Reactome_SASP,41,0.8389,0.0,0.3494,0.0024,0.5108,0.0,0.8595,atlas,0.0,0.0367,0.0001
+atlas_rat,kidney,male,KEGG_senescence,129,0.702,0.0,-0.0357,0.7977,0.253,0.0649,0.9805,atlas,0.0,0.8976,0.1947
+atlas_rat,kidney,male,Reactome_senescence,122,0.6644,0.0,-0.0676,0.627,0.1445,0.2973,0.9651,atlas,0.0,0.8938,0.9062
+atlas_rat,kidney,male,Reactome_SASP,50,0.6722,0.0,-0.0064,0.9632,0.2241,0.1034,0.9612,atlas,0.0,0.9927,0.3876
+atlas_rat,left ventricle,male,KEGG_senescence,119,0.4938,0.0,0.0329,0.7648,0.082,0.4557,0.8761,atlas,0.0,0.8976,0.9484
+atlas_rat,left ventricle,male,Reactome_senescence,116,0.4272,0.0,0.0374,0.7339,0.0749,0.4955,0.7063,atlas,0.0001,0.8938,0.9062
+atlas_rat,left ventricle,male,Reactome_SASP,46,0.5169,0.0,0.0471,0.6689,0.1237,0.2592,0.655,atlas,0.0,0.9182,0.5555
+atlas_rat,liver,male,KEGG_senescence,120,0.1091,0.3449,-0.0091,0.9375,-0.0573,0.6208,0.7793,atlas,0.3449,0.9375,0.9484
+atlas_rat,liver,male,Reactome_senescence,117,0.2077,0.0699,0.0776,0.5022,-0.0196,0.8656,0.7054,atlas,0.0807,0.8938,0.9062
+atlas_rat,liver,male,Reactome_SASP,48,0.2699,0.0176,0.1152,0.3185,0.0888,0.4424,0.7538,atlas,0.0203,0.6061,0.729

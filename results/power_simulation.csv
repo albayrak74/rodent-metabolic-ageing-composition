@@ -1,0 +1,37 @@
+dataset,tissue,sex,n,shift,power,median_estimate,amp_sen_over_sd,amp_met_over_sd
+atlas_rat,kidney,male,54,0,0.01,-0.15,2.4185,-1.4743
+atlas_rat,kidney,male,54,-3,0.12,-1.9125,2.4185,-1.4743
+atlas_rat,kidney,male,54,-6,0.32,-5.325,2.4185,-1.4743
+atlas_rat,kidney,male,54,-9,0.51,-6.825,2.4185,-1.4743
+atlas_mouse,gWAT,male,48,0,0.03,-0.4625,4.6955,-2.4256
+atlas_mouse,gWAT,male,48,-3,0.22,-2.2875,4.6955,-2.4256
+atlas_mouse,gWAT,male,48,-6,0.71,-5.4125,4.6955,-2.4256
+atlas_mouse,gWAT,male,48,-9,0.89,-6.6875,4.6955,-2.4256
+atlas_mouse,left ventricle,male,52,0,0.02,-1.0375,3.3557,0.7163
+atlas_mouse,left ventricle,male,52,-3,0.01,-3.0125,3.3557,0.7163
+atlas_mouse,left ventricle,male,52,-6,0.05,-5.25,3.3557,0.7163
+atlas_mouse,left ventricle,male,52,-9,0.14,-7.5875,3.3557,0.7163
+atlas_mouse,liver,female,50,0,0.0,1.225,2.1891,-1.0361
+atlas_mouse,liver,female,50,-3,0.02,-2.0625,2.1891,-1.0361
+atlas_mouse,liver,female,50,-6,0.12,-6.1125,2.1891,-1.0361
+atlas_mouse,liver,female,50,-9,0.11,-6.05,2.1891,-1.0361
+atlas_mouse,liver,male,50,0,0.0,0.85,5.188,-1.1021
+atlas_mouse,liver,male,50,-3,0.05,-1.65,5.188,-1.1021
+atlas_mouse,liver,male,50,-6,0.1,-3.9625,5.188,-1.1021
+atlas_mouse,liver,male,50,-9,0.21,-6.7125,5.188,-1.1021
+atlas_mouse,gastrocnemius,female,52,0,0.01,1.3875,1.0296,0.7843
+atlas_mouse,gastrocnemius,female,52,-3,0.0,-1.125,1.0296,0.7843
+atlas_mouse,gastrocnemius,female,52,-6,0.01,-5.05,1.0296,0.7843
+atlas_mouse,gastrocnemius,female,52,-9,0.02,-4.575,1.0296,0.7843
+TMS_mouse,GAT,male,35,0,0.02,0.7143,3.7124,-1.308
+TMS_mouse,GAT,male,35,-3,0.04,-2.3714,3.7124,-1.308
+TMS_mouse,GAT,male,35,-6,0.2,-5.4857,3.7124,-1.308
+TMS_mouse,GAT,male,35,-9,0.21,-7.5143,3.7124,-1.308
+TMS_mouse,Heart,male,35,0,0.02,-1.3714,1.4867,-1.5133
+TMS_mouse,Heart,male,35,-3,0.04,-1.1857,1.4867,-1.5133
+TMS_mouse,Heart,male,35,-6,0.05,-2.6286,1.4867,-1.5133
+TMS_mouse,Heart,male,35,-9,0.01,-2.0143,1.4867,-1.5133
+TMS_mouse,Kidney,male,34,0,0.02,0.2714,2.8619,-1.4386
+TMS_mouse,Kidney,male,34,-3,0.07,-1.6857,2.8619,-1.4386
+TMS_mouse,Kidney,male,34,-6,0.16,-4.6,2.8619,-1.4386
+TMS_mouse,Kidney,male,34,-9,0.16,-6.0,2.8619,-1.4386

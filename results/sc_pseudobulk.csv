@@ -1,0 +1,470 @@
+tissue,mouse,ct,broad,immune,age,sex,n,Senescence,Metabolic
+GAT,3_8_M,B cell,lymphoid,True,3.0,male,10,0.084,0.193
+GAT,3_8_M,endothelial cell,endothelial,False,3.0,male,33,0.258,0.292
+GAT,3_8_M,mesenchymal stem cell of adipose,stromal,False,3.0,male,117,0.502,0.353
+GAT,3_8_M,myeloid cell,myeloid,True,3.0,male,65,0.172,0.273
+GAT,3_9_M,endothelial cell,endothelial,False,3.0,male,54,0.266,0.309
+GAT,3_9_M,mesenchymal stem cell of adipose,stromal,False,3.0,male,108,0.508,0.36
+GAT,3_9_M,myeloid cell,myeloid,True,3.0,male,71,0.183,0.31
+GAT,3_10_M,endothelial cell,endothelial,False,3.0,male,25,0.347,0.426
+GAT,3_10_M,mesenchymal stem cell of adipose,stromal,False,3.0,male,104,0.559,0.424
+GAT,3_10_M,myeloid cell,myeloid,True,3.0,male,74,0.204,0.34
+GAT,3_11_M,endothelial cell,endothelial,False,3.0,male,20,0.311,0.4
+GAT,3_11_M,mesenchymal stem cell of adipose,stromal,False,3.0,male,96,0.536,0.444
+GAT,3_11_M,myeloid cell,myeloid,True,3.0,male,51,0.208,0.391
+GAT,3_38_F,mesenchymal stem cell of adipose,stromal,False,3.0,female,91,0.545,0.391
+GAT,3_38_F,myeloid cell,myeloid,True,3.0,female,63,0.178,0.287
+GAT,3_39_F,endothelial cell,endothelial,False,3.0,female,15,0.294,0.389
+GAT,3_39_F,mesenchymal stem cell of adipose,stromal,False,3.0,female,94,0.58,0.424
+GAT,3_39_F,myeloid cell,myeloid,True,3.0,female,65,0.188,0.3
+GAT,3_56_F,B cell,lymphoid,True,3.0,female,13,0.108,0.231
+GAT,3_56_F,mesenchymal stem cell of adipose,stromal,False,3.0,female,79,0.57,0.436
+GAT,3_56_F,myeloid cell,myeloid,True,3.0,female,72,0.202,0.323
+GAT,18_45_M,B cell,lymphoid,True,18.0,male,47,0.108,0.277
+GAT,18_45_M,"CD4-positive, alpha-beta T cell",lymphoid,True,18.0,male,11,0.178,0.318
+GAT,18_45_M,"CD8-positive, alpha-beta T cell",lymphoid,True,18.0,male,12,0.107,0.302
+GAT,18_45_M,endothelial cell,endothelial,False,18.0,male,26,0.189,0.3
+GAT,18_45_M,mesenchymal stem cell of adipose,stromal,False,18.0,male,117,0.526,0.472
+GAT,18_45_M,myeloid cell,myeloid,True,18.0,male,38,0.205,0.315
+GAT,18_46_F,B cell,lymphoid,True,18.0,female,47,0.115,0.241
+GAT,18_46_F,"CD8-positive, alpha-beta T cell",lymphoid,True,18.0,female,21,0.11,0.284
+GAT,18_46_F,mesenchymal stem cell of adipose,stromal,False,18.0,female,169,0.55,0.374
+GAT,18_46_F,myeloid cell,myeloid,True,18.0,female,37,0.174,0.297
+GAT,18_47_F,B cell,lymphoid,True,18.0,female,46,0.082,0.272
+GAT,18_47_F,"CD4-positive, alpha-beta T cell",lymphoid,True,18.0,female,21,0.12,0.317
+GAT,18_47_F,"CD8-positive, alpha-beta T cell",lymphoid,True,18.0,female,26,0.085,0.329
+GAT,18_47_F,T cell,lymphoid,True,18.0,female,12,0.092,0.311
+GAT,18_47_F,endothelial cell,endothelial,False,18.0,female,14,0.191,0.3
+GAT,18_47_F,epithelial cell,parenchymal/other,False,18.0,female,39,0.106,0.505
+GAT,18_47_F,mesenchymal stem cell of adipose,stromal,False,18.0,female,143,0.496,0.41
+GAT,18_47_F,myeloid cell,myeloid,True,18.0,female,14,0.15,0.359
+GAT,24_58_M,B cell,lymphoid,True,24.0,male,38,0.082,0.241
+GAT,24_58_M,"CD4-positive, alpha-beta T cell",lymphoid,True,24.0,male,21,0.091,0.233
+GAT,24_58_M,T cell,lymphoid,True,24.0,male,10,0.097,0.281
+GAT,24_58_M,endothelial cell,endothelial,False,24.0,male,29,0.166,0.284
+GAT,24_58_M,epithelial cell,parenchymal/other,False,24.0,male,13,0.089,0.288
+GAT,24_58_M,mesenchymal stem cell of adipose,stromal,False,24.0,male,90,0.466,0.363
+GAT,24_58_M,myeloid cell,myeloid,True,24.0,male,49,0.174,0.281
+GAT,24_59_M,B cell,lymphoid,True,24.0,male,29,0.091,0.252
+GAT,24_59_M,"CD4-positive, alpha-beta T cell",lymphoid,True,24.0,male,28,0.152,0.254
+GAT,24_59_M,"CD8-positive, alpha-beta T cell",lymphoid,True,24.0,male,18,0.109,0.293
+GAT,24_59_M,endothelial cell,endothelial,False,24.0,male,49,0.222,0.27
+GAT,24_59_M,mesenchymal stem cell of adipose,stromal,False,24.0,male,104,0.559,0.338
+GAT,24_59_M,myeloid cell,myeloid,True,24.0,male,40,0.202,0.297
+GAT,24_60_M,B cell,lymphoid,True,24.0,male,27,0.096,0.25
+GAT,24_60_M,"CD4-positive, alpha-beta T cell",lymphoid,True,24.0,male,17,0.108,0.212
+GAT,24_60_M,T cell,lymphoid,True,24.0,male,10,0.084,0.266
+GAT,24_60_M,endothelial cell,endothelial,False,24.0,male,23,0.195,0.248
+GAT,24_60_M,mesenchymal stem cell of adipose,stromal,False,24.0,male,117,0.54,0.337
+GAT,24_60_M,myeloid cell,myeloid,True,24.0,male,51,0.179,0.252
+GAT,24_61_M,B cell,lymphoid,True,24.0,male,33,0.124,0.341
+GAT,24_61_M,"CD4-positive, alpha-beta T cell",lymphoid,True,24.0,male,22,0.122,0.221
+GAT,24_61_M,"CD8-positive, alpha-beta T cell",lymphoid,True,24.0,male,25,0.093,0.261
+GAT,24_61_M,T cell,lymphoid,True,24.0,male,12,0.118,0.266
+GAT,24_61_M,endothelial cell,endothelial,False,24.0,male,34,0.24,0.289
+GAT,24_61_M,mesenchymal stem cell of adipose,stromal,False,24.0,male,133,0.547,0.36
+GAT,24_61_M,myeloid cell,myeloid,True,24.0,male,28,0.181,0.291
+SCAT,3_8_M,B cell,lymphoid,True,3.0,male,31,0.096,0.22
+SCAT,3_8_M,T cell,lymphoid,True,3.0,male,31,0.105,0.265
+SCAT,3_8_M,endothelial cell,endothelial,False,3.0,male,28,0.284,0.334
+SCAT,3_8_M,mesenchymal stem cell of adipose,stromal,False,3.0,male,99,0.567,0.35
+SCAT,3_8_M,myeloid cell,myeloid,True,3.0,male,13,0.19,0.322
+SCAT,3_9_M,B cell,lymphoid,True,3.0,male,45,0.114,0.231
+SCAT,3_9_M,"CD4-positive, alpha-beta T cell",lymphoid,True,3.0,male,10,0.154,0.288
+SCAT,3_9_M,T cell,lymphoid,True,3.0,male,14,0.133,0.312
+SCAT,3_9_M,endothelial cell,endothelial,False,3.0,male,34,0.305,0.371
+SCAT,3_9_M,mesenchymal stem cell of adipose,stromal,False,3.0,male,129,0.537,0.35
+SCAT,3_9_M,myeloid cell,myeloid,True,3.0,male,31,0.181,0.288
+SCAT,3_10_M,B cell,lymphoid,True,3.0,male,35,0.096,0.25
+SCAT,3_10_M,T cell,lymphoid,True,3.0,male,18,0.127,0.302
+SCAT,3_10_M,endothelial cell,endothelial,False,3.0,male,33,0.268,0.349
+SCAT,3_10_M,epithelial cell,parenchymal/other,False,3.0,male,15,0.287,0.514
+SCAT,3_10_M,mesenchymal stem cell of adipose,stromal,False,3.0,male,24,0.548,0.415
+SCAT,3_10_M,myeloid cell,myeloid,True,3.0,male,53,0.209,0.312
+SCAT,3_11_M,endothelial cell,endothelial,False,3.0,male,48,0.291,0.389
+SCAT,3_11_M,mesenchymal stem cell of adipose,stromal,False,3.0,male,126,0.642,0.449
+SCAT,3_11_M,myeloid cell,myeloid,True,3.0,male,73,0.255,0.396
+SCAT,3_38_F,endothelial cell,endothelial,False,3.0,female,59,0.204,0.289
+SCAT,3_38_F,epithelial cell,parenchymal/other,False,3.0,female,29,0.22,0.559
+SCAT,3_38_F,mesenchymal stem cell of adipose,stromal,False,3.0,female,108,0.476,0.308
+SCAT,3_38_F,myeloid cell,myeloid,True,3.0,female,87,0.202,0.323
+SCAT,3_39_F,B cell,lymphoid,True,3.0,female,51,0.099,0.275
+SCAT,3_39_F,T cell,lymphoid,True,3.0,female,16,0.102,0.305
+SCAT,3_39_F,endothelial cell,endothelial,False,3.0,female,10,0.31,0.396
+SCAT,3_39_F,mesenchymal stem cell of adipose,stromal,False,3.0,female,138,0.577,0.378
+SCAT,3_39_F,myeloid cell,myeloid,True,3.0,female,25,0.21,0.304
+SCAT,3_56_F,endothelial cell,endothelial,False,3.0,female,34,0.232,0.341
+SCAT,3_56_F,mesenchymal stem cell of adipose,stromal,False,3.0,female,113,0.604,0.414
+SCAT,3_56_F,myeloid cell,myeloid,True,3.0,female,77,0.239,0.337
+SCAT,18_45_M,endothelial cell,endothelial,False,18.0,male,52,0.19,0.326
+SCAT,18_45_M,mesenchymal stem cell of adipose,stromal,False,18.0,male,120,0.606,0.437
+SCAT,18_45_M,myeloid cell,myeloid,True,18.0,male,78,0.237,0.359
+SCAT,18_46_F,"CD8-positive, alpha-beta T cell",lymphoid,True,18.0,female,37,0.118,0.295
+SCAT,18_46_F,NK cell,lymphoid,True,18.0,female,13,0.117,0.289
+SCAT,18_46_F,endothelial cell,endothelial,False,18.0,female,27,0.266,0.336
+SCAT,18_46_F,epithelial cell,parenchymal/other,False,18.0,female,14,0.087,0.394
+SCAT,18_46_F,mesenchymal stem cell of adipose,stromal,False,18.0,female,100,0.54,0.345
+SCAT,18_46_F,myeloid cell,myeloid,True,18.0,female,41,0.156,0.292
+SCAT,18_47_F,B cell,lymphoid,True,18.0,female,27,0.116,0.238
+SCAT,18_47_F,"CD8-positive, alpha-beta T cell",lymphoid,True,18.0,female,17,0.117,0.296
+SCAT,18_47_F,NK cell,lymphoid,True,18.0,female,10,0.166,0.308
+SCAT,18_47_F,endothelial cell,endothelial,False,18.0,female,30,0.264,0.343
+SCAT,18_47_F,epithelial cell,parenchymal/other,False,18.0,female,12,0.093,0.49
+SCAT,18_47_F,mesenchymal stem cell of adipose,stromal,False,18.0,female,118,0.561,0.324
+SCAT,18_47_F,myeloid cell,myeloid,True,18.0,female,36,0.174,0.26
+SCAT,18_53_M,endothelial cell,endothelial,False,18.0,male,38,0.165,0.25
+SCAT,18_53_M,mesenchymal stem cell of adipose,stromal,False,18.0,male,110,0.509,0.366
+SCAT,18_53_M,myeloid cell,myeloid,True,18.0,male,88,0.216,0.296
+SCAT,24_58_M,B cell,lymphoid,True,24.0,male,23,0.086,0.204
+SCAT,24_58_M,"CD4-positive, alpha-beta T cell",lymphoid,True,24.0,male,10,0.102,0.273
+SCAT,24_58_M,NK cell,lymphoid,True,24.0,male,16,0.084,0.27
+SCAT,24_58_M,endothelial cell,endothelial,False,24.0,male,16,0.184,0.257
+SCAT,24_58_M,epithelial cell,parenchymal/other,False,24.0,male,10,0.264,0.303
+SCAT,24_58_M,mesenchymal stem cell of adipose,stromal,False,24.0,male,70,0.362,0.251
+SCAT,24_58_M,myeloid cell,myeloid,True,24.0,male,64,0.192,0.24
+SCAT,24_59_M,B cell,lymphoid,True,24.0,male,10,0.109,0.174
+SCAT,24_59_M,endothelial cell,endothelial,False,24.0,male,12,0.248,0.271
+SCAT,24_59_M,epithelial cell,parenchymal/other,False,24.0,male,79,0.094,0.289
+SCAT,24_59_M,mesenchymal stem cell of adipose,stromal,False,24.0,male,97,0.576,0.282
+SCAT,24_59_M,myeloid cell,myeloid,True,24.0,male,79,0.175,0.242
+SCAT,24_60_M,B cell,lymphoid,True,24.0,male,17,0.084,0.214
+SCAT,24_60_M,endothelial cell,endothelial,False,24.0,male,26,0.191,0.216
+SCAT,24_60_M,mesenchymal stem cell of adipose,stromal,False,24.0,male,89,0.457,0.281
+SCAT,24_60_M,myeloid cell,myeloid,True,24.0,male,68,0.193,0.239
+SCAT,24_61_M,B cell,lymphoid,True,24.0,male,47,0.14,0.341
+SCAT,24_61_M,endothelial cell,endothelial,False,24.0,male,42,0.182,0.195
+SCAT,24_61_M,mesenchymal stem cell of adipose,stromal,False,24.0,male,129,0.587,0.299
+SCAT,24_61_M,myeloid cell,myeloid,True,24.0,male,44,0.162,0.236
+BAT,3_8_M,B cell,lymphoid,True,3.0,male,11,0.065,0.18
+BAT,3_9_M,B cell,lymphoid,True,3.0,male,42,0.088,0.213
+BAT,3_9_M,T cell,lymphoid,True,3.0,male,30,0.088,0.235
+BAT,3_9_M,endothelial cell,endothelial,False,3.0,male,57,0.168,0.242
+BAT,3_9_M,mesenchymal stem cell of adipose,stromal,False,3.0,male,25,0.454,0.334
+BAT,3_9_M,myeloid cell,myeloid,True,3.0,male,13,0.13,0.15
+BAT,3_10_M,B cell,lymphoid,True,3.0,male,16,0.115,0.273
+BAT,3_10_M,endothelial cell,endothelial,False,3.0,male,11,0.255,0.413
+BAT,3_10_M,myeloid cell,myeloid,True,3.0,male,45,0.19,0.303
+BAT,3_11_M,B cell,lymphoid,True,3.0,male,22,0.113,0.282
+BAT,3_11_M,T cell,lymphoid,True,3.0,male,15,0.116,0.288
+BAT,3_11_M,endothelial cell,endothelial,False,3.0,male,50,0.219,0.324
+BAT,3_11_M,mesenchymal stem cell of adipose,stromal,False,3.0,male,20,0.525,0.368
+BAT,3_11_M,myeloid cell,myeloid,True,3.0,male,47,0.204,0.259
+BAT,3_38_F,B cell,lymphoid,True,3.0,female,46,0.088,0.183
+BAT,3_38_F,endothelial cell,endothelial,False,3.0,female,19,0.131,0.244
+BAT,3_38_F,myeloid cell,myeloid,True,3.0,female,24,0.152,0.168
+BAT,3_39_F,B cell,lymphoid,True,3.0,female,20,0.119,0.266
+BAT,3_39_F,mesenchymal stem cell of adipose,stromal,False,3.0,female,15,0.52,0.369
+BAT,3_39_F,myeloid cell,myeloid,True,3.0,female,14,0.196,0.188
+BAT,3_56_F,B cell,lymphoid,True,3.0,female,41,0.114,0.228
+BAT,3_56_F,T cell,lymphoid,True,3.0,female,13,0.106,0.27
+BAT,3_56_F,endothelial cell,endothelial,False,3.0,female,19,0.172,0.264
+BAT,3_56_F,myeloid cell,myeloid,True,3.0,female,21,0.184,0.217
+BAT,18_45_M,B cell,lymphoid,True,18.0,male,48,0.106,0.254
+BAT,18_45_M,endothelial cell,endothelial,False,18.0,male,34,0.191,0.27
+BAT,18_45_M,myeloid cell,myeloid,True,18.0,male,48,0.174,0.23
+BAT,18_46_F,B cell,lymphoid,True,18.0,female,59,0.115,0.251
+BAT,18_46_F,NK cell,lymphoid,True,18.0,female,12,0.126,0.323
+BAT,18_46_F,endothelial cell,endothelial,False,18.0,female,58,0.184,0.242
+BAT,18_46_F,myeloid cell,myeloid,True,18.0,female,49,0.172,0.203
+BAT,18_47_F,B cell,lymphoid,True,18.0,female,57,0.102,0.275
+BAT,18_47_F,T cell,lymphoid,True,18.0,female,10,0.086,0.283
+BAT,18_47_F,endothelial cell,endothelial,False,18.0,female,54,0.166,0.243
+BAT,18_47_F,myeloid cell,myeloid,True,18.0,female,45,0.196,0.255
+BAT,18_53_M,B cell,lymphoid,True,18.0,male,47,0.1,0.217
+BAT,18_53_M,T cell,lymphoid,True,18.0,male,13,0.078,0.233
+BAT,18_53_M,endothelial cell,endothelial,False,18.0,male,24,0.152,0.22
+BAT,18_53_M,mesenchymal stem cell of adipose,stromal,False,18.0,male,13,0.506,0.319
+BAT,18_53_M,myeloid cell,myeloid,True,18.0,male,59,0.195,0.235
+BAT,24_58_M,B cell,lymphoid,True,24.0,male,38,0.069,0.198
+BAT,24_58_M,T cell,lymphoid,True,24.0,male,18,0.082,0.237
+BAT,24_58_M,endothelial cell,endothelial,False,24.0,male,21,0.152,0.242
+BAT,24_58_M,epithelial cell,parenchymal/other,False,24.0,male,91,0.25,0.333
+BAT,24_58_M,myeloid cell,myeloid,True,24.0,male,51,0.185,0.194
+BAT,24_59_M,B cell,lymphoid,True,24.0,male,22,0.092,0.18
+BAT,24_59_M,T cell,lymphoid,True,24.0,male,10,0.079,0.239
+BAT,24_59_M,endothelial cell,endothelial,False,24.0,male,35,0.146,0.221
+BAT,24_59_M,mesenchymal stem cell of adipose,stromal,False,24.0,male,11,0.505,0.258
+BAT,24_59_M,myeloid cell,myeloid,True,24.0,male,84,0.209,0.224
+BAT,24_60_M,B cell,lymphoid,True,24.0,male,60,0.08,0.173
+BAT,24_60_M,T cell,lymphoid,True,24.0,male,16,0.08,0.228
+BAT,24_60_M,endothelial cell,endothelial,False,24.0,male,21,0.152,0.232
+BAT,24_60_M,mesenchymal stem cell of adipose,stromal,False,24.0,male,84,0.417,0.29
+BAT,24_60_M,myeloid cell,myeloid,True,24.0,male,38,0.17,0.192
+BAT,24_61_M,epithelial cell,parenchymal/other,False,24.0,male,20,0.125,0.265
+BAT,24_61_M,myeloid cell,myeloid,True,24.0,male,218,0.131,0.237
+Heart,3_8_M,endocardial cell,endothelial,False,3.0,male,14,0.293,0.323
+Heart,3_8_M,endothelial cell of coronary artery,endothelial,False,3.0,male,154,0.247,0.342
+Heart,3_8_M,fibroblast of cardiac tissue,stromal,False,3.0,male,286,0.438,0.376
+Heart,3_8_M,monocyte,myeloid,True,3.0,male,83,0.235,0.35
+Heart,3_8_M,valve cell,stromal,False,3.0,male,41,0.233,0.434
+Heart,3_9_M,endothelial cell of coronary artery,endothelial,False,3.0,male,173,0.246,0.362
+Heart,3_9_M,fibroblast of cardiac tissue,stromal,False,3.0,male,199,0.459,0.408
+Heart,3_9_M,monocyte,myeloid,True,3.0,male,107,0.225,0.352
+Heart,3_9_M,smooth muscle cell,stromal,False,3.0,male,15,0.242,0.528
+Heart,3_9_M,valve cell,stromal,False,3.0,male,43,0.277,0.447
+Heart,3_10_M,atrial myocyte,parenchymal/other,False,3.0,male,13,0.183,0.474
+Heart,3_10_M,endocardial cell,endothelial,False,3.0,male,15,0.316,0.374
+Heart,3_10_M,endothelial cell of coronary artery,endothelial,False,3.0,male,85,0.224,0.308
+Heart,3_10_M,fibroblast of cardiac tissue,stromal,False,3.0,male,125,0.448,0.366
+Heart,3_10_M,monocyte,myeloid,True,3.0,male,58,0.203,0.329
+Heart,3_10_M,valve cell,stromal,False,3.0,male,18,0.224,0.391
+Heart,3_10_M/3_11_M,atrial myocyte,parenchymal/other,False,3.0,male,38,0.103,0.669
+Heart,3_10_M/3_11_M,ventricular myocyte,parenchymal/other,False,3.0,male,16,0.107,1.033
+Heart,3_11_M,atrial myocyte,parenchymal/other,False,3.0,male,17,0.087,0.397
+Heart,3_11_M,endocardial cell,endothelial,False,3.0,male,10,0.358,0.337
+Heart,3_11_M,endothelial cell of coronary artery,endothelial,False,3.0,male,120,0.207,0.3
+Heart,3_11_M,fibroblast of cardiac tissue,stromal,False,3.0,male,153,0.443,0.338
+Heart,3_11_M,monocyte,myeloid,True,3.0,male,63,0.197,0.306
+Heart,3_11_M,valve cell,stromal,False,3.0,male,22,0.204,0.342
+Heart,3_38_F,endocardial cell,endothelial,False,3.0,female,25,0.224,0.319
+Heart,3_38_F,endothelial cell of coronary artery,endothelial,False,3.0,female,114,0.169,0.255
+Heart,3_38_F,fibroblast of cardiac tissue,stromal,False,3.0,female,466,0.335,0.3
+Heart,3_38_F,monocyte,myeloid,True,3.0,female,29,0.152,0.246
+Heart,3_38_F,smooth muscle cell,stromal,False,3.0,female,10,0.182,0.451
+Heart,3_38_F/3_39_F,atrial myocyte,parenchymal/other,False,3.0,female,45,0.128,0.861
+Heart,3_38_F/3_39_F,ventricular myocyte,parenchymal/other,False,3.0,female,28,0.096,1.101
+Heart,3_39_F,T cell,lymphoid,True,3.0,female,10,0.128,0.378
+Heart,3_39_F,atrial myocyte,parenchymal/other,False,3.0,female,21,0.187,0.456
+Heart,3_39_F,endocardial cell,endothelial,False,3.0,female,43,0.299,0.37
+Heart,3_39_F,endothelial cell of coronary artery,endothelial,False,3.0,female,288,0.222,0.336
+Heart,3_39_F,fibroblast of cardiac tissue,stromal,False,3.0,female,595,0.411,0.376
+Heart,3_39_F,monocyte,myeloid,True,3.0,female,101,0.205,0.346
+Heart,3_39_F,smooth muscle cell,stromal,False,3.0,female,15,0.238,0.514
+Heart,3_39_F,valve cell,stromal,False,3.0,female,17,0.262,0.44
+Heart,3_56_F,atrial myocyte,parenchymal/other,False,3.0,female,12,0.13,0.464
+Heart,3_56_F,endocardial cell,endothelial,False,3.0,female,47,0.317,0.417
+Heart,3_56_F,endothelial cell of coronary artery,endothelial,False,3.0,female,243,0.211,0.32
+Heart,3_56_F,fibroblast of cardiac tissue,stromal,False,3.0,female,293,0.427,0.388
+Heart,3_56_F,monocyte,myeloid,True,3.0,female,43,0.228,0.359
+Heart,3_56_F,smooth muscle cell,stromal,False,3.0,female,11,0.262,0.456
+Heart,3_56_F,valve cell,stromal,False,3.0,female,12,0.232,0.432
+Heart,18_46_F,B cell,lymphoid,True,18.0,female,48,0.073,0.231
+Heart,18_46_F,T cell,lymphoid,True,18.0,female,18,0.112,0.315
+Heart,18_46_F,atrial myocyte,parenchymal/other,False,18.0,female,23,0.165,0.507
+Heart,18_46_F,endothelial cell of coronary artery,endothelial,False,18.0,female,161,0.211,0.306
+Heart,18_46_F,fibroblast of cardiac tissue,stromal,False,18.0,female,304,0.411,0.366
+Heart,18_46_F,macrophage,myeloid,True,18.0,female,35,0.135,0.438
+Heart,18_46_F,monocyte,myeloid,True,18.0,female,141,0.206,0.286
+Heart,18_46_F,valve cell,stromal,False,18.0,female,17,0.216,0.378
+Heart,18_47_F,B cell,lymphoid,True,18.0,female,12,0.092,0.3
+Heart,18_47_F,T cell,lymphoid,True,18.0,female,28,0.1,0.31
+Heart,18_47_F,atrial myocyte,parenchymal/other,False,18.0,female,42,0.084,0.557
+Heart,18_47_F,endocardial cell,endothelial,False,18.0,female,12,0.244,0.301
+Heart,18_47_F,endothelial cell of coronary artery,endothelial,False,18.0,female,110,0.203,0.275
+Heart,18_47_F,fibroblast of cardiac tissue,stromal,False,18.0,female,297,0.421,0.365
+Heart,18_47_F,monocyte,myeloid,True,18.0,female,78,0.187,0.3
+Heart,18_53_M,B cell,lymphoid,True,18.0,male,67,0.136,0.244
+Heart,18_53_M,T cell,lymphoid,True,18.0,male,47,0.105,0.33
+Heart,18_53_M,atrial myocyte,parenchymal/other,False,18.0,male,35,0.117,0.291
+Heart,18_53_M,endocardial cell,endothelial,False,18.0,male,26,0.351,0.348
+Heart,18_53_M,endothelial cell of coronary artery,endothelial,False,18.0,male,187,0.245,0.324
+Heart,18_53_M,fibroblast of cardiac tissue,stromal,False,18.0,male,174,0.461,0.355
+Heart,18_53_M,macrophage,myeloid,True,18.0,male,19,0.057,0.594
+Heart,18_53_M,monocyte,myeloid,True,18.0,male,125,0.227,0.33
+Heart,18_53_M,valve cell,stromal,False,18.0,male,16,0.268,0.456
+Heart,24_58_M,T cell,lymphoid,True,24.0,male,18,0.094,0.312
+Heart,24_58_M,atrial myocyte,parenchymal/other,False,24.0,male,18,0.136,0.442
+Heart,24_58_M,endocardial cell,endothelial,False,24.0,male,60,0.262,0.329
+Heart,24_58_M,endothelial cell of coronary artery,endothelial,False,24.0,male,256,0.184,0.273
+Heart,24_58_M,fibroblast of cardiac tissue,stromal,False,24.0,male,293,0.41,0.361
+Heart,24_58_M,macrophage,myeloid,True,24.0,male,12,0.156,0.301
+Heart,24_58_M,monocyte,myeloid,True,24.0,male,142,0.193,0.291
+Heart,24_58_M,smooth muscle cell,stromal,False,24.0,male,14,0.227,0.438
+Heart,24_58_M,valve cell,stromal,False,24.0,male,28,0.219,0.378
+Heart,24_58_M,ventricular myocyte,parenchymal/other,False,24.0,male,32,0.11,0.705
+Heart,24_59_M,T cell,lymphoid,True,24.0,male,15,0.082,0.284
+Heart,24_59_M,atrial myocyte,parenchymal/other,False,24.0,male,18,0.109,0.502
+Heart,24_59_M,endocardial cell,endothelial,False,24.0,male,32,0.273,0.296
+Heart,24_59_M,endothelial cell of coronary artery,endothelial,False,24.0,male,315,0.21,0.266
+Heart,24_59_M,fibroblast of cardiac tissue,stromal,False,24.0,male,180,0.404,0.328
+Heart,24_59_M,monocyte,myeloid,True,24.0,male,117,0.203,0.291
+Heart,24_59_M,valve cell,stromal,False,24.0,male,29,0.219,0.341
+Heart,24_59_M,ventricular myocyte,parenchymal/other,False,24.0,male,27,0.111,0.851
+Heart,24_60_M,B cell,lymphoid,True,24.0,male,11,0.072,0.229
+Heart,24_60_M,atrial myocyte,parenchymal/other,False,24.0,male,83,0.08,0.194
+Heart,24_60_M,endocardial cell,endothelial,False,24.0,male,53,0.248,0.294
+Heart,24_60_M,endothelial cell of coronary artery,endothelial,False,24.0,male,274,0.166,0.242
+Heart,24_60_M,fibroblast of cardiac tissue,stromal,False,24.0,male,166,0.376,0.302
+Heart,24_60_M,monocyte,myeloid,True,24.0,male,90,0.183,0.282
+Heart,24_60_M,valve cell,stromal,False,24.0,male,22,0.174,0.355
+Heart,24_60_M,ventricular myocyte,parenchymal/other,False,24.0,male,23,0.108,0.766
+Heart,24_61_M,B cell,lymphoid,True,24.0,male,192,0.102,0.339
+Heart,24_61_M,T cell,lymphoid,True,24.0,male,26,0.08,0.268
+Heart,24_61_M,atrial myocyte,parenchymal/other,False,24.0,male,25,0.124,0.379
+Heart,24_61_M,endocardial cell,endothelial,False,24.0,male,19,0.264,0.27
+Heart,24_61_M,endothelial cell of coronary artery,endothelial,False,24.0,male,212,0.187,0.254
+Heart,24_61_M,fibroblast of cardiac tissue,stromal,False,24.0,male,179,0.353,0.304
+Heart,24_61_M,monocyte,myeloid,True,24.0,male,98,0.159,0.244
+Heart,24_61_M,valve cell,stromal,False,24.0,male,37,0.18,0.324
+Heart,24_61_M,ventricular myocyte,parenchymal/other,False,24.0,male,19,0.115,0.685
+Kidney,3_8_M,epithelial cell of proximal tubule,parenchymal/other,False,3.0,male,18,0.105,0.689
+Kidney,3_8_M,fenestrated cell,endothelial,False,3.0,male,18,0.325,0.283
+Kidney,3_8_M,kidney collecting duct epithelial cell,parenchymal/other,False,3.0,male,18,0.146,0.62
+Kidney,3_9_M,kidney collecting duct epithelial cell,parenchymal/other,False,3.0,male,12,0.146,0.63
+Kidney,3_10_M,kidney collecting duct epithelial cell,parenchymal/other,False,3.0,male,18,0.176,0.746
+Kidney,3_10_M,kidney loop of Henle ascending limb epithelial cell,parenchymal/other,False,3.0,male,12,0.2,0.689
+Kidney,3_11_M,epithelial cell of proximal tubule,parenchymal/other,False,3.0,male,11,0.104,0.607
+Kidney,3_11_M,fenestrated cell,endothelial,False,3.0,male,23,0.311,0.293
+Kidney,3_11_M,kidney collecting duct epithelial cell,parenchymal/other,False,3.0,male,36,0.168,0.613
+Kidney,3_11_M,kidney collecting duct principal cell,parenchymal/other,False,3.0,male,11,0.168,0.594
+Kidney,3_11_M,kidney loop of Henle ascending limb epithelial cell,parenchymal/other,False,3.0,male,27,0.172,0.554
+Kidney,3_11_M,macrophage,myeloid,True,3.0,male,19,0.215,0.243
+Kidney,3_38_F,fenestrated cell,endothelial,False,3.0,female,40,0.23,0.206
+Kidney,3_38_F,kidney collecting duct epithelial cell,parenchymal/other,False,3.0,female,23,0.152,0.582
+Kidney,3_38_F,kidney collecting duct principal cell,parenchymal/other,False,3.0,female,17,0.122,0.526
+Kidney,3_38_F,kidney loop of Henle ascending limb epithelial cell,parenchymal/other,False,3.0,female,11,0.153,0.403
+Kidney,3_39_F,fenestrated cell,endothelial,False,3.0,female,17,0.297,0.289
+Kidney,3_39_F,kidney collecting duct epithelial cell,parenchymal/other,False,3.0,female,17,0.157,0.667
+Kidney,3_39_F,kidney collecting duct principal cell,parenchymal/other,False,3.0,female,12,0.166,0.59
+Kidney,3_39_F,kidney loop of Henle ascending limb epithelial cell,parenchymal/other,False,3.0,female,15,0.185,0.507
+Kidney,18_45_M,B cell,lymphoid,True,18.0,male,35,0.105,0.222
+Kidney,18_45_M,epithelial cell of proximal tubule,parenchymal/other,False,18.0,male,13,0.152,0.735
+Kidney,18_46_F,epithelial cell of proximal tubule,parenchymal/other,False,18.0,female,35,0.115,0.723
+Kidney,18_46_F,fenestrated cell,endothelial,False,18.0,female,24,0.289,0.338
+Kidney,18_46_F,kidney collecting duct epithelial cell,parenchymal/other,False,18.0,female,94,0.178,0.645
+Kidney,18_46_F,kidney collecting duct principal cell,parenchymal/other,False,18.0,female,14,0.181,0.694
+Kidney,18_46_F,macrophage,myeloid,True,18.0,female,11,0.212,0.248
+Kidney,18_47_F,B cell,lymphoid,True,18.0,female,11,0.104,0.168
+Kidney,18_47_F,epithelial cell of proximal tubule,parenchymal/other,False,18.0,female,50,0.119,0.691
+Kidney,18_47_F,kidney collecting duct epithelial cell,parenchymal/other,False,18.0,female,121,0.187,0.663
+Kidney,18_47_F,kidney collecting duct principal cell,parenchymal/other,False,18.0,female,14,0.17,0.624
+Kidney,18_47_F,macrophage,myeloid,True,18.0,female,12,0.171,0.23
+Kidney,18_47_F,mesangial cell,stromal,False,18.0,female,35,0.157,0.21
+Kidney,18_53_M,epithelial cell of proximal tubule,parenchymal/other,False,18.0,male,28,0.137,0.663
+Kidney,18_53_M,fenestrated cell,endothelial,False,18.0,male,17,0.296,0.271
+Kidney,18_53_M,kidney collecting duct epithelial cell,parenchymal/other,False,18.0,male,27,0.153,0.527
+Kidney,18_53_M,kidney loop of Henle ascending limb epithelial cell,parenchymal/other,False,18.0,male,11,0.161,0.614
+Kidney,18_53_M,macrophage,myeloid,True,18.0,male,13,0.19,0.205
+Kidney,24_58_M,epithelial cell of proximal tubule,parenchymal/other,False,24.0,male,55,0.113,0.626
+Kidney,24_58_M,fenestrated cell,endothelial,False,24.0,male,26,0.274,0.286
+Kidney,24_58_M,kidney collecting duct epithelial cell,parenchymal/other,False,24.0,male,17,0.15,0.556
+Kidney,24_58_M,macrophage,myeloid,True,24.0,male,10,0.138,0.235
+Kidney,24_59_M,T cell,lymphoid,True,24.0,male,25,0.085,0.27
+Kidney,24_59_M,epithelial cell of proximal tubule,parenchymal/other,False,24.0,male,48,0.119,0.634
+Kidney,24_59_M,fenestrated cell,endothelial,False,24.0,male,29,0.268,0.262
+Kidney,24_59_M,kidney collecting duct epithelial cell,parenchymal/other,False,24.0,male,32,0.149,0.468
+Kidney,24_59_M,macrophage,myeloid,True,24.0,male,33,0.154,0.22
+Kidney,24_60_M,epithelial cell of proximal tubule,parenchymal/other,False,24.0,male,41,0.11,0.552
+Kidney,24_60_M,fenestrated cell,endothelial,False,24.0,male,29,0.231,0.258
+Kidney,24_60_M,kidney collecting duct principal cell,parenchymal/other,False,24.0,male,19,0.145,0.476
+Kidney,24_60_M,kidney loop of Henle ascending limb epithelial cell,parenchymal/other,False,24.0,male,17,0.108,0.343
+Kidney,24_60_M,macrophage,myeloid,True,24.0,male,15,0.154,0.193
+Kidney,24_61_M,epithelial cell of proximal tubule,parenchymal/other,False,24.0,male,77,0.157,0.55
+Kidney,24_61_M,fenestrated cell,endothelial,False,24.0,male,21,0.233,0.268
+Kidney,24_61_M,kidney collecting duct epithelial cell,parenchymal/other,False,24.0,male,12,0.118,0.459
+Kidney,24_61_M,kidney collecting duct principal cell,parenchymal/other,False,24.0,male,28,0.164,0.398
+Kidney,24_61_M,kidney interstitial fibroblast,stromal,False,24.0,male,16,0.26,0.304
+Kidney,24_61_M,macrophage,myeloid,True,24.0,male,10,0.147,0.201
+Kidney,24_61_M,mesangial cell,stromal,False,24.0,male,10,0.159,0.261
+Liver,3_9_M,Kupffer cell,myeloid,True,3.0,male,14,0.176,0.306
+Liver,3_9_M,endothelial cell of hepatic sinusoid,endothelial,False,3.0,male,26,0.334,0.293
+Liver,3_9_M,hepatocyte,parenchymal/other,False,3.0,male,92,0.174,0.737
+Liver,3_11_M,B cell,lymphoid,True,3.0,male,28,0.086,0.259
+Liver,3_11_M,Kupffer cell,myeloid,True,3.0,male,33,0.156,0.262
+Liver,3_11_M,endothelial cell of hepatic sinusoid,endothelial,False,3.0,male,163,0.341,0.275
+Liver,3_11_M,hepatocyte,parenchymal/other,False,3.0,male,148,0.185,0.592
+Liver,3_11_M,mature NK T cell,lymphoid,True,3.0,male,27,0.126,0.338
+Liver,3_11_M,myeloid leukocyte,myeloid,True,3.0,male,12,0.129,0.339
+Liver,3_56_F,hepatocyte,parenchymal/other,False,3.0,female,82,0.195,0.634
+Liver,3_57_F,hepatocyte,parenchymal/other,False,3.0,female,79,0.185,0.627
+Liver,18_45_M,B cell,lymphoid,True,18.0,male,15,0.085,0.265
+Liver,18_45_M,Kupffer cell,myeloid,True,18.0,male,19,0.182,0.249
+Liver,18_45_M,endothelial cell of hepatic sinusoid,endothelial,False,18.0,male,118,0.314,0.29
+Liver,18_45_M,hepatocyte,parenchymal/other,False,18.0,male,94,0.117,0.561
+Liver,18_45_M,myeloid leukocyte,myeloid,True,18.0,male,13,0.171,0.438
+Liver,18_46_F,B cell,lymphoid,True,18.0,female,91,0.085,0.269
+Liver,18_46_F,"CD4-positive, alpha-beta T cell",lymphoid,True,18.0,female,12,0.114,0.302
+Liver,18_46_F,"CD8-positive, alpha-beta T cell",lymphoid,True,18.0,female,11,0.078,0.32
+Liver,18_46_F,Kupffer cell,myeloid,True,18.0,female,76,0.187,0.293
+Liver,18_46_F,NK cell,lymphoid,True,18.0,female,17,0.137,0.345
+Liver,18_46_F,T cell,lymphoid,True,18.0,female,13,0.078,0.328
+Liver,18_46_F,endothelial cell of hepatic sinusoid,endothelial,False,18.0,female,125,0.32,0.295
+Liver,18_46_F,hepatocyte,parenchymal/other,False,18.0,female,63,0.161,0.329
+Liver,18_46_F,mature NK T cell,lymphoid,True,18.0,female,65,0.094,0.321
+Liver,18_46_F,myeloid leukocyte,myeloid,True,18.0,female,53,0.181,0.384
+Liver,18_53_M,B cell,lymphoid,True,18.0,male,13,0.079,0.229
+Liver,18_53_M,Kupffer cell,myeloid,True,18.0,male,12,0.163,0.261
+Liver,18_53_M,endothelial cell of hepatic sinusoid,endothelial,False,18.0,male,87,0.291,0.27
+Liver,18_53_M,hepatocyte,parenchymal/other,False,18.0,male,226,0.115,0.439
+Liver,18_53_M,myeloid leukocyte,myeloid,True,18.0,male,10,0.157,0.348
+Liver,24_58_M,B cell,lymphoid,True,24.0,male,22,0.073,0.23
+Liver,24_58_M,"CD4-positive, alpha-beta T cell",lymphoid,True,24.0,male,11,0.096,0.296
+Liver,24_58_M,Kupffer cell,myeloid,True,24.0,male,36,0.172,0.255
+Liver,24_58_M,T cell,lymphoid,True,24.0,male,10,0.076,0.308
+Liver,24_58_M,endothelial cell of hepatic sinusoid,endothelial,False,24.0,male,87,0.299,0.253
+Liver,24_58_M,hepatocyte,parenchymal/other,False,24.0,male,258,0.188,0.509
+Liver,24_58_M,mature NK T cell,lymphoid,True,24.0,male,43,0.091,0.271
+Liver,24_58_M,myeloid leukocyte,myeloid,True,24.0,male,22,0.152,0.292
+Liver,24_59_M,B cell,lymphoid,True,24.0,male,35,0.076,0.225
+Liver,24_59_M,"CD4-positive, alpha-beta T cell",lymphoid,True,24.0,male,17,0.088,0.268
+Liver,24_59_M,"CD8-positive, alpha-beta T cell",lymphoid,True,24.0,male,49,0.086,0.26
+Liver,24_59_M,Kupffer cell,myeloid,True,24.0,male,72,0.248,0.383
+Liver,24_59_M,T cell,lymphoid,True,24.0,male,12,0.086,0.341
+Liver,24_59_M,endothelial cell of hepatic sinusoid,endothelial,False,24.0,male,11,0.295,0.284
+Liver,24_59_M,hepatocyte,parenchymal/other,False,24.0,male,120,0.159,0.352
+Liver,24_59_M,mature NK T cell,lymphoid,True,24.0,male,20,0.078,0.26
+Liver,24_59_M,myeloid leukocyte,myeloid,True,24.0,male,94,0.117,0.31
+Limb_Muscle,3_8_M,B cell,lymphoid,True,3.0,male,19,0.111,0.298
+Limb_Muscle,3_8_M,T cell,lymphoid,True,3.0,male,17,0.132,0.278
+Limb_Muscle,3_8_M,endothelial cell,endothelial,False,3.0,male,40,0.332,0.233
+Limb_Muscle,3_8_M,mesenchymal stem cell,stromal,False,3.0,male,75,0.596,0.325
+Limb_Muscle,3_8_M,skeletal muscle satellite cell,parenchymal/other,False,3.0,male,169,0.392,0.351
+Limb_Muscle,3_9_M,endothelial cell,endothelial,False,3.0,male,15,0.297,0.223
+Limb_Muscle,3_9_M,mesenchymal stem cell,stromal,False,3.0,male,17,0.568,0.331
+Limb_Muscle,3_9_M,skeletal muscle satellite cell,parenchymal/other,False,3.0,male,41,0.33,0.316
+Limb_Muscle,3_10_M,B cell,lymphoid,True,3.0,male,22,0.098,0.267
+Limb_Muscle,3_10_M,endothelial cell,endothelial,False,3.0,male,10,0.319,0.266
+Limb_Muscle,3_10_M,mesenchymal stem cell,stromal,False,3.0,male,28,0.579,0.351
+Limb_Muscle,3_10_M,skeletal muscle satellite cell,parenchymal/other,False,3.0,male,14,0.306,0.309
+Limb_Muscle,3_11_M,endothelial cell,endothelial,False,3.0,male,11,0.226,0.214
+Limb_Muscle,3_11_M,mesenchymal stem cell,stromal,False,3.0,male,14,0.524,0.357
+Limb_Muscle,3_11_M,skeletal muscle satellite cell,parenchymal/other,False,3.0,male,40,0.276,0.276
+Limb_Muscle,3_38_F,endothelial cell,endothelial,False,3.0,female,42,0.295,0.226
+Limb_Muscle,3_38_F,macrophage,myeloid,True,3.0,female,31,0.196,0.292
+Limb_Muscle,3_38_F,mesenchymal stem cell,stromal,False,3.0,female,77,0.498,0.314
+Limb_Muscle,3_38_F,skeletal muscle satellite cell,parenchymal/other,False,3.0,female,170,0.223,0.319
+Limb_Muscle,3_39_F,B cell,lymphoid,True,3.0,female,12,0.08,0.316
+Limb_Muscle,3_39_F,endothelial cell,endothelial,False,3.0,female,23,0.306,0.223
+Limb_Muscle,3_39_F,mesenchymal stem cell,stromal,False,3.0,female,53,0.53,0.3
+Limb_Muscle,3_39_F,skeletal muscle satellite cell,parenchymal/other,False,3.0,female,101,0.237,0.345
+Limb_Muscle,18_45_M,B cell,lymphoid,True,18.0,male,25,0.126,0.242
+Limb_Muscle,18_45_M,endothelial cell,endothelial,False,18.0,male,17,0.208,0.231
+Limb_Muscle,18_45_M,macrophage,myeloid,True,18.0,male,48,0.154,0.185
+Limb_Muscle,18_45_M,mesenchymal stem cell,stromal,False,18.0,male,31,0.429,0.301
+Limb_Muscle,18_45_M,skeletal muscle satellite cell,parenchymal/other,False,18.0,male,75,0.166,0.272
+Limb_Muscle,18_46_F,T cell,lymphoid,True,18.0,female,14,0.144,0.439
+Limb_Muscle,18_46_F,endothelial cell,endothelial,False,18.0,female,65,0.23,0.259
+Limb_Muscle,18_46_F,macrophage,myeloid,True,18.0,female,79,0.201,0.285
+Limb_Muscle,18_46_F,mesenchymal stem cell,stromal,False,18.0,female,157,0.444,0.32
+Limb_Muscle,18_46_F,skeletal muscle satellite cell,parenchymal/other,False,18.0,female,277,0.188,0.303
+Limb_Muscle,18_47_F,B cell,lymphoid,True,18.0,female,18,0.188,0.314
+Limb_Muscle,18_47_F,T cell,lymphoid,True,18.0,female,19,0.143,0.346
+Limb_Muscle,18_47_F,endothelial cell,endothelial,False,18.0,female,56,0.235,0.208
+Limb_Muscle,18_47_F,macrophage,myeloid,True,18.0,female,22,0.187,0.2
+Limb_Muscle,18_47_F,mesenchymal stem cell,stromal,False,18.0,female,121,0.515,0.302
+Limb_Muscle,18_47_F,skeletal muscle satellite cell,parenchymal/other,False,18.0,female,259,0.226,0.292
+Limb_Muscle,18_53_M,B cell,lymphoid,True,18.0,male,18,0.292,0.396
+Limb_Muscle,18_53_M,endothelial cell,endothelial,False,18.0,male,34,0.225,0.258
+Limb_Muscle,18_53_M,macrophage,myeloid,True,18.0,male,56,0.175,0.258
+Limb_Muscle,18_53_M,mesenchymal stem cell,stromal,False,18.0,male,45,0.464,0.342
+Limb_Muscle,18_53_M,skeletal muscle satellite cell,parenchymal/other,False,18.0,male,72,0.222,0.307
+Limb_Muscle,24_58_M,endothelial cell,endothelial,False,24.0,male,33,0.207,0.229
+Limb_Muscle,24_58_M,macrophage,myeloid,True,24.0,male,17,0.178,0.288
+Limb_Muscle,24_58_M,mesenchymal stem cell,stromal,False,24.0,male,79,0.437,0.286
+Limb_Muscle,24_58_M,skeletal muscle satellite cell,parenchymal/other,False,24.0,male,157,0.2,0.247
+Limb_Muscle,24_59_M,B cell,lymphoid,True,24.0,male,12,0.064,0.22
+Limb_Muscle,24_59_M,T cell,lymphoid,True,24.0,male,11,0.065,0.204
+Limb_Muscle,24_59_M,endothelial cell,endothelial,False,24.0,male,31,0.215,0.188
+Limb_Muscle,24_59_M,mesenchymal stem cell,stromal,False,24.0,male,68,0.401,0.264
+Limb_Muscle,24_59_M,skeletal muscle satellite cell,parenchymal/other,False,24.0,male,131,0.209,0.229
+Limb_Muscle,24_60_M,B cell,lymphoid,True,24.0,male,24,0.061,0.18
+Limb_Muscle,24_60_M,T cell,lymphoid,True,24.0,male,16,0.068,0.207
+Limb_Muscle,24_60_M,endothelial cell,endothelial,False,24.0,male,32,0.2,0.153
+Limb_Muscle,24_60_M,macrophage,myeloid,True,24.0,male,11,0.223,0.207
+Limb_Muscle,24_60_M,mesenchymal stem cell,stromal,False,24.0,male,91,0.448,0.202
+Limb_Muscle,24_60_M,skeletal muscle satellite cell,parenchymal/other,False,24.0,male,159,0.219,0.198
+Limb_Muscle,24_61_M,T cell,lymphoid,True,24.0,male,26,0.072,0.245
+Limb_Muscle,24_61_M,endothelial cell,endothelial,False,24.0,male,44,0.194,0.154
+Limb_Muscle,24_61_M,macrophage,myeloid,True,24.0,male,15,0.143,0.279
+Limb_Muscle,24_61_M,mesenchymal stem cell,stromal,False,24.0,male,79,0.482,0.222
+Limb_Muscle,24_61_M,skeletal muscle satellite cell,parenchymal/other,False,24.0,male,168,0.227,0.211
