@@ -1,0 +1,501 @@
+species,tissue,gene,mean_abs_shap,rho_age
+rat,gWAT,Cyp4b1,0.9274,0.7637
+rat,gWAT,Clec7a,0.9003,0.747
+rat,gWAT,Adcy1,0.6823,0.7843
+rat,gWAT,Cntn1,0.5868,0.7543
+rat,gWAT,Slc16a14,0.4685,-0.6973
+rat,gWAT,Pclo,0.4645,0.7327
+rat,gWAT,Nlrp5,0.2589,0.7895
+rat,gWAT,Scin,0.1646,0.7203
+rat,gWAT,Clcn4,0.1414,-0.6614
+rat,gWAT,Wasf3,0.1366,0.6813
+rat,gWAT,Rbm46,0.135,0.6723
+rat,gWAT,Sbspon,0.1172,0.7666
+rat,gWAT,Apba2,0.112,0.7057
+rat,gWAT,Pcbd1,0.1062,-0.6721
+rat,gWAT,Tfrc,0.1037,-0.6464
+rat,gWAT,Adgra1,0.1028,-0.1613
+rat,gWAT,Nrxn3,0.0963,-0.1925
+rat,gWAT,Pde1c,0.0916,0.6186
+rat,gWAT,Chl1,0.0874,-0.7996
+rat,gWAT,Pik3c2b,0.0865,-0.1754
+rat,gWAT,Kcnk5,0.0845,-0.4469
+rat,gWAT,Abi3bp,0.0843,-0.3651
+rat,gWAT,Agt,0.0833,-0.6649
+rat,gWAT,Pigl,0.0806,-0.0731
+rat,gWAT,Stimate,0.0806,-0.2027
+rat,gWAT,Snrpn,0.0793,0.6122
+rat,gWAT,Sparc,0.076,-0.3452
+rat,gWAT,Rdh11,0.0689,0.4268
+rat,gWAT,Has1,0.0683,-0.2106
+rat,gWAT,Cdkn1c,0.0674,0.6233
+rat,gWAT,Cracd,0.0647,-0.3193
+rat,gWAT,Pacc1,0.0629,0.4803
+rat,gWAT,Il7,0.062,0.6677
+rat,gWAT,Rgs17,0.0596,-0.5747
+rat,gWAT,Adamts19,0.0578,-0.557
+rat,gWAT,Vopp1,0.0573,-0.0468
+rat,gWAT,Hoxc10,0.0545,-0.5916
+rat,gWAT,F2rl1,0.0541,-0.3408
+rat,gWAT,Tmprss2,0.051,-0.5272
+rat,gWAT,Mcm10,0.0506,-0.5349
+rat,gWAT,Fgg,0.0474,0.489
+rat,gWAT,Plxnc1,0.0455,0.4183
+rat,gWAT,Mrgprg,0.0452,0.389
+rat,gWAT,Kcnj12,0.0448,0.6926
+rat,gWAT,Ucp3,0.0444,-0.3007
+rat,gWAT,Ssc5d,0.0428,-0.225
+rat,gWAT,Myo1e,0.0426,0.1552
+rat,gWAT,Lrat,0.0418,0.1855
+rat,gWAT,Ncoa4,0.0403,0.2946
+rat,gWAT,Depp1,0.0399,0.5075
+mouse,gWAT,Smyd1,0.6695,-0.7512
+mouse,gWAT,Aldh3b2,0.5592,-0.7427
+mouse,gWAT,Pou2af1,0.4914,0.5793
+mouse,gWAT,Slfn8,0.4316,0.7281
+mouse,gWAT,Slc2a12,0.3781,-0.74
+mouse,gWAT,Chpt1,0.3307,-0.7093
+mouse,gWAT,Pcdhac2,0.3221,0.7578
+mouse,gWAT,2410018L13Rik,0.3071,0.6101
+mouse,gWAT,Disp2,0.2008,-0.6334
+mouse,gWAT,Clec4n,0.1785,0.7457
+mouse,gWAT,Lypd1,0.1596,0.5561
+mouse,gWAT,Gldc,0.1497,0.5341
+mouse,gWAT,Fam213b,0.1432,-0.6778
+mouse,gWAT,Oas2,0.1392,0.6723
+mouse,gWAT,Gm7609,0.1346,0.5279
+mouse,gWAT,Slc6a13,0.1259,-0.6491
+mouse,gWAT,Acta1,0.1209,-0.5269
+mouse,gWAT,Angpt1,0.1196,0.4041
+mouse,gWAT,Ncam2,0.114,-0.593
+mouse,gWAT,Ms4a6d,0.107,0.6505
+mouse,gWAT,Unc5c,0.102,0.2833
+mouse,gWAT,Gprin3,0.1017,-0.5723
+mouse,gWAT,Adamts19,0.0932,-0.6683
+mouse,gWAT,Siglec1,0.0877,0.6855
+mouse,gWAT,C130026I21Rik,0.0864,0.3969
+mouse,gWAT,Lamb3,0.0768,-0.4746
+mouse,gWAT,Rorc,0.0756,0.4097
+mouse,gWAT,Gapt,0.0741,-0.3431
+mouse,gWAT,Ldb3,0.066,-0.461
+mouse,gWAT,Cd163l1,0.0658,0.5341
+mouse,gWAT,Trp53inp2,0.0623,-0.3672
+mouse,gWAT,Mgl2,0.0616,-0.3591
+mouse,gWAT,Pla2g2e,0.0606,-0.4914
+mouse,gWAT,Usp18,0.06,0.6352
+mouse,gWAT,Dab2,0.0551,0.6353
+mouse,gWAT,Pck1,0.0547,-0.4903
+mouse,gWAT,Msln,0.0544,-0.5915
+mouse,gWAT,3425401B19Rik,0.0511,0.1778
+mouse,gWAT,Apod,0.0501,0.6306
+mouse,gWAT,Fcmr,0.0501,0.4724
+mouse,gWAT,Cyfip2,0.0485,0.5477
+mouse,gWAT,Eya4,0.048,0.5941
+mouse,gWAT,Fcgr1,0.0468,0.6725
+mouse,gWAT,Ptgs2,0.0468,-0.1425
+mouse,gWAT,Nap1l5,0.0463,0.4791
+mouse,gWAT,Pkp2,0.0454,-0.4345
+mouse,gWAT,Rsad2,0.0443,0.5536
+mouse,gWAT,Alb,0.0436,0.3153
+mouse,gWAT,Tmem8,0.043,0.708
+mouse,gWAT,Pfkfb3,0.0428,-0.6407
+rat,liver,Rdh16,0.8131,-0.8117
+rat,liver,Slc22a8,0.7336,-0.9155
+rat,liver,Otogl,0.5098,0.8797
+rat,liver,Hao2,0.414,-0.9037
+rat,liver,Bmp7,0.3223,0.9059
+rat,liver,Lect2,0.2722,-0.9113
+rat,liver,Zmiz2,0.2376,-0.8824
+rat,liver,Tmem150a,0.2128,-0.8605
+rat,liver,Ppp2r1b,0.2018,0.8564
+rat,liver,Ncam2,0.1847,-0.8544
+rat,liver,Sik2,0.1727,0.8705
+rat,liver,Cpq,0.1595,-0.8054
+rat,liver,Ccdc198,0.1427,0.8628
+rat,liver,Cux2,0.1371,0.8856
+rat,liver,Cask,0.1349,-0.9001
+rat,liver,Tcf24,0.1277,-0.8646
+rat,liver,Rgn,0.126,-0.8787
+rat,liver,Cdh13,0.1094,0.7949
+rat,liver,Fas,0.1049,0.8448
+rat,liver,Bicd2,0.1019,0.6018
+rat,liver,Prkcz,0.0914,0.8413
+rat,liver,Panx2,0.0898,-0.7795
+rat,liver,Amdhd1,0.0895,-0.8634
+rat,liver,Osbpl7,0.0871,0.6114
+rat,liver,Aqp1,0.086,0.6874
+rat,liver,St8sia3,0.0809,-0.8748
+rat,liver,Cryab,0.0768,0.7366
+rat,liver,Pla1a,0.0725,0.7768
+rat,liver,Harbi1,0.0722,-0.1011
+rat,liver,Grhl2,0.0712,0.8557
+rat,liver,Lipc,0.0688,-0.7563
+rat,liver,Bnip3,0.0641,0.8694
+rat,liver,Rasl10b,0.057,0.827
+rat,liver,Arhgef3,0.0568,0.8291
+rat,liver,Cemip,0.0556,0.838
+rat,liver,Atp6v1d,0.052,0.7417
+rat,liver,Dclk1,0.0507,0.3207
+rat,liver,Polg,0.0503,-0.0718
+rat,liver,Csrp1,0.0495,-0.7716
+rat,liver,Tlr3,0.0475,0.8272
+rat,liver,Adamtsl2,0.0447,-0.1126
+rat,liver,Kcnj15,0.0447,0.5371
+rat,liver,Mgat2,0.0446,0.5809
+rat,liver,Lum,0.044,-0.3069
+rat,liver,Marveld1,0.0418,-0.8626
+rat,liver,Phtf1,0.0384,-0.7376
+rat,liver,Cpt1b,0.0382,-0.0937
+rat,liver,Il13ra1,0.038,0.8314
+rat,liver,Adam8,0.0379,0.7694
+rat,liver,Ctps2,0.0369,0.7875
+mouse,liver,Gpnmb,0.8825,0.7914
+mouse,liver,Gpx3,0.8096,0.7995
+mouse,liver,Anxa1,0.7824,0.8113
+mouse,liver,Ppp1r3a,0.5504,0.7447
+mouse,liver,Cd163,0.2343,-0.5086
+mouse,liver,Dmrta1,0.2251,0.5252
+mouse,liver,Esm1,0.2049,0.7837
+mouse,liver,Clec4n,0.2014,0.744
+mouse,liver,Clca3a1,0.1985,0.7357
+mouse,liver,Olfr1029,0.1979,0.6547
+mouse,liver,Cd63,0.1968,0.789
+mouse,liver,Mrc2,0.1897,0.7936
+mouse,liver,Hk2,0.1878,0.7457
+mouse,liver,Slc7a7,0.1725,0.7679
+mouse,liver,Msr1,0.161,0.6233
+mouse,liver,Ehbp1l1,0.156,0.8046
+mouse,liver,Tmc3,0.1471,0.638
+mouse,liver,Rnf150,0.1319,0.7029
+mouse,liver,Nebl,0.1254,0.6165
+mouse,liver,Cdh19,0.1011,0.5972
+mouse,liver,Galns,0.0746,0.4209
+mouse,liver,Hpx,0.0702,0.5906
+mouse,liver,Cdkn1a,0.0687,0.5312
+mouse,liver,Fabp5,0.0673,0.4327
+mouse,liver,Cyp1a2,0.0669,-0.6886
+mouse,liver,Cyp2c40,0.0664,-0.1329
+mouse,liver,Jchain,0.0657,0.5033
+mouse,liver,Ifi27,0.0631,0.6984
+mouse,liver,Xkrx,0.063,0.1196
+mouse,liver,Ccl6,0.0611,0.6871
+mouse,liver,Nedd9,0.0564,0.6532
+mouse,liver,Dpy19l3,0.0542,-0.0223
+mouse,liver,Ccrn4l,0.0534,0.5999
+mouse,liver,Hnrnpa1,0.053,0.6385
+mouse,liver,Ifit2,0.0504,0.5224
+mouse,liver,Ier5,0.0501,0.6679
+mouse,liver,Cd38,0.0474,0.6754
+mouse,liver,Nid1,0.0468,0.697
+mouse,liver,Ppbp,0.0465,0.7647
+mouse,liver,Rpl34,0.0462,0.5414
+mouse,liver,Rtn4,0.0456,0.3056
+mouse,liver,Sult3a1,0.0433,-0.1476
+mouse,liver,Gas1,0.0424,-0.2734
+mouse,liver,Fgd2,0.0403,0.6177
+mouse,liver,Fmo3,0.0381,-0.032
+mouse,liver,Cd33,0.038,0.7441
+mouse,liver,Sh3pxd2b,0.037,0.7391
+mouse,liver,Bag3,0.0362,0.3606
+mouse,liver,Tsc22d3,0.0353,-0.153
+mouse,liver,Cyp2e1,0.0353,-0.6985
+rat,left ventricle,Cnpy1,1.5922,0.8879
+rat,left ventricle,Cpxm2,0.6966,0.8302
+rat,left ventricle,Gpnmb,0.5789,0.8874
+rat,left ventricle,Nos1,0.4336,0.9115
+rat,left ventricle,Postn,0.3855,0.8472
+rat,left ventricle,Mybpc2,0.3787,0.8703
+rat,left ventricle,Gdf15,0.3025,0.85
+rat,left ventricle,Sfrp2,0.2763,0.8641
+rat,left ventricle,Gsta1,0.2613,0.8049
+rat,left ventricle,Pak5,0.2129,0.6428
+rat,left ventricle,Uchl1,0.2064,0.9057
+rat,left ventricle,Ccn5,0.2024,0.8484
+rat,left ventricle,Spon1,0.1761,0.8417
+rat,left ventricle,Camk2b,0.171,0.8757
+rat,left ventricle,Nap1l5,0.1587,0.4537
+rat,left ventricle,Col8a1,0.1382,0.7979
+rat,left ventricle,Ncam1,0.1305,0.8136
+rat,left ventricle,Tgm1,0.1034,0.7503
+rat,left ventricle,Hyal1,0.0839,0.6799
+rat,left ventricle,Nmrk2,0.0821,0.7645
+rat,left ventricle,Plod2,0.0746,0.5122
+rat,left ventricle,Fjx1,0.0746,0.695
+rat,left ventricle,Tnfrsf11b,0.0708,0.6354
+rat,left ventricle,Cilp,0.0676,0.7905
+rat,left ventricle,Bgn,0.0656,0.8219
+rat,left ventricle,Nrxn1,0.0635,0.7744
+rat,left ventricle,Tgfa,0.0628,0.6956
+rat,left ventricle,Ankrd23,0.0621,0.8156
+rat,left ventricle,Spp1,0.0611,0.7266
+rat,left ventricle,Cpeb1,0.0602,0.8996
+rat,left ventricle,Hspb1,0.0588,0.608
+rat,left ventricle,C6,0.0541,0.5022
+rat,left ventricle,Sema3b,0.0539,0.6462
+rat,left ventricle,Ildr2,0.0462,0.7761
+rat,left ventricle,Rasgef1b,0.0458,0.7095
+rat,left ventricle,Pcolce,0.0454,0.7926
+rat,left ventricle,Shtn1,0.0432,0.7122
+rat,left ventricle,Ric3,0.0431,0.7316
+rat,left ventricle,Chrna1,0.0409,0.623
+rat,left ventricle,Alox15,0.0407,0.1895
+rat,left ventricle,Pik3c2g,0.0399,-0.2964
+rat,left ventricle,Mrc1,0.0382,0.6974
+rat,left ventricle,Ifitm10,0.0374,0.7686
+rat,left ventricle,Smoc2,0.0371,0.7112
+rat,left ventricle,Lrp1,0.037,0.7532
+rat,left ventricle,Thbs4,0.0362,0.7983
+rat,left ventricle,Col14a1,0.0352,0.8226
+rat,left ventricle,Prkcq,0.0337,0.6321
+rat,left ventricle,Hr,0.0331,0.4138
+rat,left ventricle,Apbb1,0.0324,0.2659
+mouse,left ventricle,Bnc2,1.3701,0.9097
+mouse,left ventricle,Dlgap1,1.001,0.9209
+mouse,left ventricle,Pcdhb20,0.5848,0.8612
+mouse,left ventricle,Prkcq,0.4401,0.8922
+mouse,left ventricle,Skap2,0.3913,0.8934
+mouse,left ventricle,Nmrk2,0.3722,0.7969
+mouse,left ventricle,Cdh22,0.3219,0.7799
+mouse,left ventricle,C4b,0.2834,0.8858
+mouse,left ventricle,Apod,0.1788,0.8927
+mouse,left ventricle,Cyp2b10,0.1755,0.7913
+mouse,left ventricle,Snhg11,0.1506,0.6408
+mouse,left ventricle,Tdrp,0.1314,0.8033
+mouse,left ventricle,Amy1,0.1298,0.8383
+mouse,left ventricle,Gm7609,0.1014,0.7958
+mouse,left ventricle,Ryr1,0.0889,0.8457
+mouse,left ventricle,Vsig4,0.0886,0.8747
+mouse,left ventricle,Ric3,0.0878,0.8574
+mouse,left ventricle,Cfh,0.0839,0.783
+mouse,left ventricle,Pcdhb18,0.0796,0.8772
+mouse,left ventricle,Nepn,0.0786,0.8093
+mouse,left ventricle,Vgll2,0.0619,0.8075
+mouse,left ventricle,Pcdhb17,0.0609,0.8149
+mouse,left ventricle,Pcdhb19,0.06,0.8082
+mouse,left ventricle,Scn4b,0.0587,0.6649
+mouse,left ventricle,Prom2,0.056,0.7795
+mouse,left ventricle,Nppa,0.0535,0.5203
+mouse,left ventricle,Ryr3,0.0533,0.7353
+mouse,left ventricle,Serpine2,0.0517,0.759
+mouse,left ventricle,Sh3gl2,0.0509,0.787
+mouse,left ventricle,Myoc,0.0497,0.7814
+mouse,left ventricle,Akr1b8,0.0493,0.8459
+mouse,left ventricle,Pcdhb22,0.0472,0.8365
+mouse,left ventricle,March1,0.0434,0.6644
+mouse,left ventricle,Cd84,0.0424,0.7809
+mouse,left ventricle,Lrrcc1,0.0387,0.7197
+mouse,left ventricle,Tgfb2,0.0358,0.8024
+mouse,left ventricle,Pcdhb14,0.0347,0.8609
+mouse,left ventricle,Naip2,0.0322,0.8033
+mouse,left ventricle,Mrc1,0.0317,0.7778
+mouse,left ventricle,Serpinb8,0.0313,0.788
+mouse,left ventricle,Rasgrp1,0.0292,0.7522
+mouse,left ventricle,Gpnmb,0.0286,0.8707
+mouse,left ventricle,Casp12,0.0284,0.8161
+mouse,left ventricle,Thsd7a,0.0275,0.7446
+mouse,left ventricle,Ano5,0.0273,0.7782
+mouse,left ventricle,2310002L09Rik,0.0259,0.7458
+mouse,left ventricle,Edn3,0.0253,0.7832
+mouse,left ventricle,Lingo3,0.0246,-0.489
+mouse,left ventricle,Ccr2,0.0233,0.7728
+mouse,left ventricle,Star,0.0228,0.6988
+rat,kidney,Slc22a6,0.9839,-0.8159
+rat,kidney,Pnoc,0.6969,0.7812
+rat,kidney,Atp12a,0.6087,0.7303
+rat,kidney,Pigr,0.6002,0.7813
+rat,kidney,Tlr5,0.4596,0.7808
+rat,kidney,Tmem144,0.2696,-0.8207
+rat,kidney,H2-DMa,0.2416,0.728
+rat,kidney,Lrg1,0.2126,0.7896
+rat,kidney,Plxnc1,0.19,0.7835
+rat,kidney,Folr2,0.161,0.7801
+rat,kidney,Ddx60,0.1541,0.7547
+rat,kidney,Cfd,0.1282,0.537
+rat,kidney,Steap4,0.1278,0.687
+rat,kidney,Gspt2,0.1193,0.7685
+rat,kidney,F2,0.1184,-0.5227
+rat,kidney,Herc6,0.1143,0.608
+rat,kidney,Pfkfb4,0.1129,-0.7181
+rat,kidney,Lix1l,0.1118,0.8003
+rat,kidney,Mrap,0.1071,-0.7441
+rat,kidney,Dlgap3,0.1054,-0.7863
+rat,kidney,Cdkn1a,0.0965,0.7294
+rat,kidney,Acmsd,0.095,-0.144
+rat,kidney,Bend6,0.0924,0.7703
+rat,kidney,Rtel1,0.0881,0.1266
+rat,kidney,F2r,0.0845,0.7794
+rat,kidney,Golm2,0.0818,0.7692
+rat,kidney,Serpina10,0.081,0.6652
+rat,kidney,Begain,0.0808,0.5751
+rat,kidney,Stx11,0.077,0.6687
+rat,kidney,Anxa6,0.0752,0.7194
+rat,kidney,Sfmbt2,0.0736,-0.6274
+rat,kidney,Asgr2,0.0688,-0.5454
+rat,kidney,Eci1,0.0664,-0.5076
+rat,kidney,Agmo,0.0634,0.6168
+rat,kidney,Foxg1,0.0633,0.4722
+rat,kidney,Arhgdib,0.0622,0.6955
+rat,kidney,Cndp1,0.0611,-0.6251
+rat,kidney,Aox1,0.0596,0.6109
+rat,kidney,Ano5,0.0589,0.7507
+rat,kidney,Nr2f1,0.0583,0.7319
+rat,kidney,Ifitm3,0.0551,0.7808
+rat,kidney,Tm4sf20,0.0537,-0.6398
+rat,kidney,Rtp4,0.053,0.757
+rat,kidney,Iqch,0.053,-0.7659
+rat,kidney,Smoc1,0.0524,0.7617
+rat,kidney,Matn1,0.0514,0.4749
+rat,kidney,Ddc,0.0499,-0.2703
+rat,kidney,Rpl10l,0.0466,-0.1396
+rat,kidney,S100a6,0.0462,0.6053
+rat,kidney,Tmem252,0.0457,0.6331
+mouse,kidney,Eda2r,2.1417,0.8727
+mouse,kidney,Grem1,0.6456,0.8711
+mouse,kidney,Ltbp2,0.5205,0.8659
+mouse,kidney,Muc4,0.3797,0.7769
+mouse,kidney,Aldh1a1,0.3684,0.8329
+mouse,kidney,Gpc3,0.2555,0.7738
+mouse,kidney,Fbn2,0.2245,0.8347
+mouse,kidney,Havcr1,0.1877,0.822
+mouse,kidney,Gabrp,0.181,0.8099
+mouse,kidney,Dpysl3,0.1665,0.8614
+mouse,kidney,Scn2b,0.1526,0.811
+mouse,kidney,Pcdh9,0.1335,0.8157
+mouse,kidney,Adgrg2,0.1246,0.6681
+mouse,kidney,Phlda3,0.1214,0.8157
+mouse,kidney,Luzp2,0.1082,0.7909
+mouse,kidney,Serpine2,0.1011,0.8537
+mouse,kidney,Tgfbi,0.0932,0.8814
+mouse,kidney,Edn1,0.0773,0.8
+mouse,kidney,C6,0.0771,0.8309
+mouse,kidney,Ptprn2,0.0711,0.6221
+mouse,kidney,Rarres2,0.0675,0.6661
+mouse,kidney,Trim30a,0.0597,0.7113
+mouse,kidney,C7,0.059,0.8492
+mouse,kidney,Adgra1,0.0503,0.8314
+mouse,kidney,H2-Ab1,0.0496,0.736
+mouse,kidney,C5ar1,0.0487,0.7538
+mouse,kidney,Il7r,0.0469,0.8181
+mouse,kidney,Pappa2,0.0452,0.7689
+mouse,kidney,Ren1,0.0446,-0.6725
+mouse,kidney,Cyp2d12,0.0423,0.46
+mouse,kidney,C4b,0.0417,0.8062
+mouse,kidney,Card11,0.0388,0.7292
+mouse,kidney,Cfd,0.037,0.1897
+mouse,kidney,Aoc1,0.0367,0.7773
+mouse,kidney,Oasl1,0.035,0.6058
+mouse,kidney,Acsbg1,0.0328,0.8389
+mouse,kidney,Col6a5,0.0328,0.6917
+mouse,kidney,Kcna2,0.0314,0.4149
+mouse,kidney,Cd74,0.0301,0.7569
+mouse,kidney,Cx3cr1,0.0287,0.7137
+mouse,kidney,Gm4070,0.0282,0.724
+mouse,kidney,Rasd1,0.0271,-0.0017
+mouse,kidney,Plek,0.0266,0.7969
+mouse,kidney,Hpgds,0.0254,0.7341
+mouse,kidney,Gm5820,0.0253,0.6785
+mouse,kidney,Itga11,0.0248,0.8454
+mouse,kidney,Jchain,0.0242,0.6365
+mouse,kidney,D030045P18Rik,0.0242,0.2799
+mouse,kidney,F5,0.0234,-0.2199
+mouse,kidney,Plin4,0.0231,0.3247
+rat,gastrocnemius,Slc51a,0.9648,0.9133
+rat,gastrocnemius,Chrna1,0.6475,0.9143
+rat,gastrocnemius,Adra1b,0.6472,0.8794
+rat,gastrocnemius,Lrtm2,0.5179,0.9095
+rat,gastrocnemius,Dclk1,0.434,0.9191
+rat,gastrocnemius,Asb11,0.3627,-0.8856
+rat,gastrocnemius,Sln,0.2554,0.9664
+rat,gastrocnemius,Scn5a,0.2444,0.8917
+rat,gastrocnemius,Ctxn3,0.2057,0.9332
+rat,gastrocnemius,Tmem158,0.1874,0.8999
+rat,gastrocnemius,Runx1,0.1766,0.9155
+rat,gastrocnemius,Faah,0.1623,0.909
+rat,gastrocnemius,C3,0.162,0.7967
+rat,gastrocnemius,Cdkn1a,0.1566,0.9308
+rat,gastrocnemius,Dusp26,0.138,-0.8213
+rat,gastrocnemius,Mgmt,0.1116,0.9224
+rat,gastrocnemius,Emb,0.103,0.8991
+rat,gastrocnemius,Kif3c,0.1023,0.8908
+rat,gastrocnemius,Atp1b4,0.0998,0.7642
+rat,gastrocnemius,Chrng,0.0997,0.914
+rat,gastrocnemius,Uchl1,0.0984,0.9208
+rat,gastrocnemius,Tgif1,0.0944,0.8768
+rat,gastrocnemius,Ppp1r14c,0.083,0.906
+rat,gastrocnemius,Ppm1e,0.0819,0.8663
+rat,gastrocnemius,Lipg,0.0772,0.9228
+rat,gastrocnemius,Igf2,0.0744,0.9372
+rat,gastrocnemius,Lpin1,0.0727,-0.9075
+rat,gastrocnemius,Nog,0.0664,-0.6193
+rat,gastrocnemius,Csrp3,0.0613,0.681
+rat,gastrocnemius,Bex1,0.0611,0.9556
+rat,gastrocnemius,Tnc,0.0599,-0.4861
+rat,gastrocnemius,Tfrc,0.0582,-0.8548
+rat,gastrocnemius,Kcnh1,0.0562,0.051
+rat,gastrocnemius,Slc24a2,0.0547,0.7015
+rat,gastrocnemius,Tspan4,0.0532,0.4684
+rat,gastrocnemius,Wee1,0.0525,0.5105
+rat,gastrocnemius,Apod,0.0499,0.852
+rat,gastrocnemius,Enho,0.048,0.8506
+rat,gastrocnemius,Kcnj3,0.0477,0.8357
+rat,gastrocnemius,Abca1,0.0476,0.9225
+rat,gastrocnemius,Rab27a,0.0475,0.824
+rat,gastrocnemius,Sema7a,0.0447,-0.9436
+rat,gastrocnemius,Slc9a5,0.0445,-0.6919
+rat,gastrocnemius,Per2,0.0428,0.5722
+rat,gastrocnemius,Il2rb,0.0417,0.8075
+rat,gastrocnemius,Col3a1,0.0377,-0.2108
+rat,gastrocnemius,Fxyd6,0.0359,0.5803
+rat,gastrocnemius,S100a10,0.0356,0.7587
+rat,gastrocnemius,Slc25a25,0.0351,-0.6386
+rat,gastrocnemius,Sparc,0.0347,-0.5843
+mouse,gastrocnemius,Prkcz,1.0428,0.8413
+mouse,gastrocnemius,Amy1,0.8088,0.808
+mouse,gastrocnemius,Chrna1,0.4743,0.8683
+mouse,gastrocnemius,Slc6a17,0.4647,0.8198
+mouse,gastrocnemius,Ogdhl,0.4209,0.8145
+mouse,gastrocnemius,Dock5,0.3777,0.8055
+mouse,gastrocnemius,Sln,0.3496,0.9092
+mouse,gastrocnemius,Chrnb1,0.2775,0.8918
+mouse,gastrocnemius,Sh2d4a,0.2711,0.7885
+mouse,gastrocnemius,Mss51,0.2586,0.4967
+mouse,gastrocnemius,Ttc9,0.2403,0.8801
+mouse,gastrocnemius,Runx1,0.2239,0.8718
+mouse,gastrocnemius,Rb1,0.2198,0.817
+mouse,gastrocnemius,Apod,0.196,0.8001
+mouse,gastrocnemius,Cacna1i,0.1826,0.8308
+mouse,gastrocnemius,AI593442,0.129,0.557
+mouse,gastrocnemius,Krt18,0.1249,0.8894
+mouse,gastrocnemius,Serpinb1a,0.1221,0.7826
+mouse,gastrocnemius,Chad,0.0993,-0.5313
+mouse,gastrocnemius,Nfkb2,0.0896,0.8393
+mouse,gastrocnemius,Ric3,0.0715,0.7607
+mouse,gastrocnemius,Tnfrsf23,0.0708,0.8702
+mouse,gastrocnemius,Pde4a,0.0707,-0.6871
+mouse,gastrocnemius,Aldh1a3,0.0696,0.588
+mouse,gastrocnemius,Igfn1,0.0634,0.7673
+mouse,gastrocnemius,Mustn1,0.0571,0.8457
+mouse,gastrocnemius,Col5a1,0.0563,-0.3839
+mouse,gastrocnemius,Trp63,0.0524,0.7337
+mouse,gastrocnemius,Col3a1,0.0469,-0.352
+mouse,gastrocnemius,Col1a2,0.0466,-0.4645
+mouse,gastrocnemius,Cpne2,0.0445,0.9065
+mouse,gastrocnemius,Hist1h4m,0.0431,-0.5433
+mouse,gastrocnemius,Myh14,0.0402,0.8321
+mouse,gastrocnemius,Pik3r5,0.0394,0.61
+mouse,gastrocnemius,Fam134b,0.0386,0.6271
+mouse,gastrocnemius,Sntb1,0.0383,-0.3777
+mouse,gastrocnemius,Mal,0.0363,0.0359
+mouse,gastrocnemius,Col6a1,0.0362,-0.278
+mouse,gastrocnemius,Agbl1,0.0361,-0.4272
+mouse,gastrocnemius,Col11a1,0.0332,-0.4838
+mouse,gastrocnemius,Tec,0.0329,0.8101
+mouse,gastrocnemius,Actc1,0.0327,0.1527
+mouse,gastrocnemius,Col1a1,0.0314,-0.4206
+mouse,gastrocnemius,Dupd1,0.0311,0.6962
+mouse,gastrocnemius,Lrp11,0.0274,0.7947
+mouse,gastrocnemius,Zfp703,0.0262,0.7567
+mouse,gastrocnemius,Ankrd1,0.0254,0.7963
+mouse,gastrocnemius,Nova1,0.0252,-0.1508
+mouse,gastrocnemius,Adamts2,0.0246,-0.3608
+mouse,gastrocnemius,Gas1,0.0241,-0.1851

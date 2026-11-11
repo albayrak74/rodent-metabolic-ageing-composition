@@ -1,0 +1,16 @@
+dataset,tissue,sex,mean_log2cpm,rho_Cdkn1a,p_Cdkn1a,rho_Cdkn1a_immadj,p_Cdkn1a_immadj
+atlas_rat,gWAT,male,3.6938,-0.3326,0.0021,-0.2518,0.0217
+atlas_rat,liver,male,5.427,-0.1055,0.3612,0.0108,0.926
+atlas_rat,left ventricle,male,5.0001,0.4827,0.0,0.063,0.5665
+atlas_rat,kidney,male,3.9793,0.7294,0.0,0.2544,0.0634
+atlas_rat,gastrocnemius,male,7.0444,0.9308,0.0,0.5585,0.0
+atlas_mouse,gWAT,female,5.3984,-0.0499,0.7254,-0.1351,0.3395
+atlas_mouse,gWAT,male,5.1768,0.1254,0.3958,0.0124,0.9331
+atlas_mouse,liver,female,2.1052,0.3226,0.0223,0.2185,0.1275
+atlas_mouse,liver,male,2.4578,0.6581,0.0,0.4206,0.0024
+atlas_mouse,left ventricle,female,4.2075,0.6249,0.0,0.1983,0.1587
+atlas_mouse,left ventricle,male,3.8862,0.5129,0.0001,0.2369,0.0909
+atlas_mouse,kidney,female,3.1125,0.7717,0.0,0.2464,0.0782
+atlas_mouse,kidney,male,3.107,0.7759,0.0,0.5034,0.0002
+atlas_mouse,gastrocnemius,female,4.596,0.8987,0.0,0.8136,0.0
+atlas_mouse,gastrocnemius,male,3.7631,0.816,0.0,0.7413,0.0

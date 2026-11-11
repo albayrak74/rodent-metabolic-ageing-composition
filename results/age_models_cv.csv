@@ -1,0 +1,31 @@
+species,tissue,model,n,MAE,MAE_sd,r,MAE_null
+rat,gWAT,ElasticNet,83,2.5573,0.0038,0.8392,6.5217
+rat,gWAT,XGBoost,83,2.5685,0.0345,0.8569,6.5217
+rat,gWAT,MLP,83,4.7572,0.2375,0.65,6.5217
+rat,liver,ElasticNet,77,1.1021,0.0628,0.9799,6.4483
+rat,liver,XGBoost,77,1.5885,0.03,0.9586,6.4483
+rat,liver,MLP,77,3.8033,0.3453,0.8038,6.4483
+rat,left ventricle,ElasticNet,85,0.9301,0.0428,0.9846,6.5772
+rat,left ventricle,XGBoost,85,1.4535,0.0917,0.9587,6.5772
+rat,left ventricle,MLP,85,4.4216,0.2338,0.6912,6.5772
+rat,kidney,ElasticNet,54,3.5048,0.1698,0.8109,6.3374
+rat,kidney,XGBoost,54,3.5058,0.2054,0.8086,6.3374
+rat,kidney,MLP,54,8.5158,0.5201,0.3655,6.3374
+rat,gastrocnemius,ElasticNet,73,1.195,0.0519,0.9774,6.6429
+rat,gastrocnemius,XGBoost,73,1.3989,0.0261,0.969,6.6429
+rat,gastrocnemius,MLP,73,3.4161,0.1073,0.8301,6.6429
+mouse,gWAT,ElasticNet,100,1.6524,0.0657,0.9525,6.0072
+mouse,gWAT,XGBoost,100,2.5847,0.0914,0.8898,6.0072
+mouse,gWAT,MLP,100,3.8578,0.3966,0.7754,6.0072
+mouse,liver,ElasticNet,100,1.485,0.0268,0.9637,6.0912
+mouse,liver,XGBoost,100,2.235,0.1262,0.9253,6.0912
+mouse,liver,MLP,100,3.2194,0.3518,0.8131,6.0912
+mouse,left ventricle,ElasticNet,104,0.8402,0.0808,0.9887,6.071
+mouse,left ventricle,XGBoost,104,1.0314,0.0447,0.9821,6.071
+mouse,left ventricle,MLP,104,5.978,0.8821,0.6841,6.071
+mouse,kidney,ElasticNet,103,1.3053,0.0295,0.9701,6.0537
+mouse,kidney,XGBoost,103,1.6871,0.0583,0.9569,6.0537
+mouse,kidney,MLP,103,2.7886,0.4209,0.858,6.0537
+mouse,gastrocnemius,ElasticNet,104,1.2554,0.0441,0.975,6.071
+mouse,gastrocnemius,XGBoost,104,1.4943,0.0368,0.9687,6.071
+mouse,gastrocnemius,MLP,104,3.1274,0.6183,0.84,6.071
