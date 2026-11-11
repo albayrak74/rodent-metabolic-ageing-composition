@@ -19,6 +19,14 @@ All input data are public (GEO): GSE314970 (rat atlas), GSE314817 (mouse atlas),
 | 7 | `08_clock_composition.py` | composition-adjusted clocks, age acceleration |
 | 8 | `11_sensitivity.py` | immune-only adjustment, FDR, *Cdkn1a* |
 | 9 | `09_figures_1_3.py`, `10_figure4_table1.py` | figures and Table 1 |
+| 10 | `12_deconvolution.py` | adjustment with a single-cell-reference deconvolution |
+| 11 | `13_sex_interaction.py` | age × sex interaction in mice |
+| 12 | `15_power_equivalence.py` | power of the lead–lag design, random-effects pooling |
+| 13 | `16_singlecell_tms.py` | Tabula Muris Senis single-cell checks |
+| 14 | `17_alt_signatures.py` | KEGG and Reactome senescence signatures |
+| 15 | `19_reviewer_controls.py` | specificity of the composition adjustment, female rats, processing order, equivalence tests |
+
+`14_supp_deconv_sex.py` and `18_supp_more.py` assemble the supplementary tables.
 
 `02_scores.py` and `03_t50.py` are the exploratory go/no-go analyses (change-point model) described in the Methods.
 
